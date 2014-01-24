@@ -25,7 +25,8 @@ DESTDIR =
 
 AM_CFLAGS = $(STD_DEFINES_AND_INCLUDES) -std=gnu99 -march=native
 AM_CPPFLAGS = $(STD_DEFINES_AND_INCLUDES)
-AM_CXXFLAGS = -ldl -lpthread
+AM_CXXFLAGS = -ldl -lpthread -lbladeRF
+BLADERF_LIBS = -lbladeRF
 
 #UHD wins if both are defined
 if UHD
@@ -33,6 +34,10 @@ AM_CPPFLAGS += $(UHD_CFLAGS)
 else
 if USRP1
 AM_CPPFLAGS += $(USRP_CFLAGS)
+else
+if BLADERF
+AM_CPPFLAGS += $(BLADERF_CFLAGS)
+endif
 endif
 endif
 
@@ -114,7 +119,14 @@ transceiver_LDADD += $(USRP_LIBS)
 USRPping_LDADD += $(USRP_LIBS)
 sigProcLibTest_LDADD += $(USRP_LIBS)
 else
+if BLADERF
+libtransceiver_la_SOURCES += bladeRFDevice.cpp
+transceiver_LDADD += $(BLADERF_LIBS)
+USRPping_LDADD += $(BLADERF_LIBS)
+sigProcLibTest_LDADD += $(BLADERF_LIBS)
+else
 #we should never be here, as one of the above mustbe defined for us to build
+endif
 endif
 endif
 

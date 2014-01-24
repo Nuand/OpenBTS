@@ -59,8 +59,14 @@ SUBDIRS = $(_SUBDIRS) \
 	  Transceiver52M
 USRP1 = 1
 else
+if BLADERF
+SUBDIRS = $(_SUBDIRS) \
+	  Transceiver52M
+BLADERF = 1
+else
 SUBDIRS = $(_SUBDIRS) \
 	  TransceiverRAD1
+endif
 endif
 endif
 
@@ -78,7 +84,11 @@ else
 if USRP1
 	$(MAKE) -C ./Transceiver52M install
 else
+if BLADERF
+	$(MAKE) -C ./Transceiver52M install
+else
 	$(MAKE) -C ./TransceiverRAD1 install
+endif
 endif
 endif
 

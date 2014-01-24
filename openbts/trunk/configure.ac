@@ -65,6 +65,12 @@ AC_ARG_WITH(uhd, [
         [enable UHD based transceiver])
 ])
 
+AC_ARG_WITH(bladeRF, [
+    AS_HELP_STRING([--with-bladeRF],
+        [enable bladeRF base transceiver])
+])
+
+
 AC_ARG_WITH(singledb, [
     AS_HELP_STRING([--with-singledb],
         [enable single daughterboard use on USRP1])
@@ -82,12 +88,19 @@ AS_IF([test "x$with_uhd" = "xyes"],[
     AX_EXT
 ])
 
+AS_IF([test "x$with_bladeRF" = "xyes"], [
+#PKG_CHECK_MODULES(BLADERF, libbladerf-0 >= 0.9)
+    # Find and define supported SIMD extensions
+    AX_EXT
+])
+
 AS_IF([test "x$with_singledb" = "xyes"], [
     AC_DEFINE(SINGLEDB, 1, Define to 1 for single daughterboard)
 ])
 
 AM_CONDITIONAL(UHD, [test "x$with_uhd" = "xyes"])
 AM_CONDITIONAL(USRP1, [test "x$with_usrp1" = "xyes"])
+AM_CONDITIONAL(BLADERF, [test "x$with_bladeRF" = "xyes"])
 
 # Defines LIBUSB_TRANSFER_CANCELLED, LIBUSB_TRANSFER_COMPLETED, LIBUSB_SUCCESS, LIBUSB_ERROR_*
 PKG_CHECK_MODULES(LIBUSB, libusb-1.0)
