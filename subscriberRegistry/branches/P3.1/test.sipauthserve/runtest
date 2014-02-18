@@ -1,0 +1,126 @@
+#!/bin/bash
+
+configdb=/etc/OpenBTS/OpenBTS.db
+srdb=sr.db
+
+# start with a known state in DBs
+rm -f $configdb $srdb
+# initialize the config db
+sqlite3 $configdb < sipauthserve.db.init
+# initialize the SR db
+sqlite3 $srdb < sr.db.init
+chmod 666 $srdb
+# initialize the output file
+date > output.got
+# look at database
+sqlite3 $srdb < ./query.sql >> output.got
+
+# Each test below enters a mark in the syslog so we can extract only 
+# the log entries for that test.
+# Then it starts the sip authentication server.
+# Then it sends the test message to the sip authentication server.
+# Then it stops the sip authentication server.
+# Then it extracts the test's log entries.
+# Then it dumps the SR database.
+
+# rand, imsi known, ki known
+logger -plocal7.Debug dwb syslog mark
+../sipauthserve &
+./usender.pl < register1.txt
+./usender.pl < exit.txt
+../syslogextractor >> output.got
+sqlite3 $srdb < ./query.sql >> output.got
+
+# rand, imsi known, ki unknown, rand not cached
+logger -plocal7.Debug dwb syslog mark
+../sipauthserve &
+./usender.pl < register2.txt
+./usender.pl < exit.txt
+../syslogextractor >> output.got
+sqlite3 $srdb < ./query.sql >> output.got
+
+# rand, imsi known, ki unknown, rand cached
+logger -plocal7.Debug dwb syslog mark
+../sipauthserve &
+./usender.pl < register2.txt
+./usender.pl < exit.txt
+../syslogextractor >> output.got
+sqlite3 $srdb < ./query.sql >> output.got
+
+# rand, imsi unknown
+logger -plocal7.Debug dwb syslog mark
+../sipauthserve &
+./usender.pl < register3.txt
+./usender.pl < exit.txt
+../syslogextractor >> output.got
+sqlite3 $srdb < ./query.sql >> output.got
+
+# auth, imsi known, values good
+logger -plocal7.Debug dwb syslog mark
+../sipauthserve &
+./usender.pl < register4.txt
+./usender.pl < exit.txt
+../syslogextractor >> output.got
+sqlite3 $srdb < ./query.sql >> output.got
+
+# auth, imsi known, values bad
+logger -plocal7.Debug dwb syslog mark
+../sipauthserve &
+./usender.pl < register4a.txt
+./usender.pl < exit.txt
+../syslogextractor >> output.got
+sqlite3 $srdb < ./query.sql >> output.got
+
+# auth, imsi known, values bad
+logger -plocal7.Debug dwb syslog mark
+../sipauthserve &
+./usender.pl < register4b.txt
+./usender.pl < exit.txt
+../syslogextractor >> output.got
+sqlite3 $srdb < ./query.sql >> output.got
+
+# auth, imsi known, ki unknown, sres not cached
+logger -plocal7.Debug dwb syslog mark
+../sipauthserve &
+./usender.pl < register5.txt
+./usender.pl < exit.txt
+../syslogextractor >> output.got
+sqlite3 $srdb < ./query.sql >> output.got
+
+# auth, imsi known, ki unknown, sres cached, values good
+logger -plocal7.Debug dwb syslog mark
+../sipauthserve &
+./usender.pl < register5.txt
+./usender.pl < exit.txt
+../syslogextractor >> output.got
+sqlite3 $srdb < ./query.sql >> output.got
+
+# auth, imsi known, ki unknown, sres cached, values bad
+logger -plocal7.Debug dwb syslog mark
+../sipauthserve &
+./usender.pl < register5a.txt
+./usender.pl < exit.txt
+../syslogextractor >> output.got
+sqlite3 $srdb < ./query.sql >> output.got
+
+# auth, imsi known, ki unknown, sres cached, values bad
+logger -plocal7.Debug dwb syslog mark
+../sipauthserve &
+./usender.pl < register5b.txt
+./usender.pl < exit.txt
+../syslogextractor >> output.got
+sqlite3 $srdb < ./query.sql >> output.got
+
+# auth, imsi unknown
+logger -plocal7.Debug dwb syslog mark
+../sipauthserve &
+./usender.pl < register6.txt
+./usender.pl < exit.txt
+../syslogextractor >> output.got
+sqlite3 $srdb < ./query.sql >> output.got
+
+# normalize the output file for diffing
+mv output.got ootput.got
+../hexmapper ootput.got > output.got
+diff output.exp output.got
+exit 0

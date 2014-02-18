@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/TRXManager
+END
+TRXManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/TRXManager/TRXManager.h
+END
+README.TRXManager
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/TRXManager/README.TRXManager
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/TRXManager/Makefile.am
+END
+TRXManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/TRXManager/TRXManager.cpp
+END
+clockdump.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/TRXManager/clockdump.sh
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/range/!svn/ver/6576/software/public/subscriberRegistry/tags/rP3.1.3/test.SubscriberRegistry
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/range/!svn/ver/6576/software/public/subscriberRegistry/tags/rP3.1.3/test.SubscriberRegistry/Makefile
+END
+test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/range/!svn/ver/6576/software/public/subscriberRegistry/tags/rP3.1.3/test.SubscriberRegistry/test.cpp
+END
+runtest
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/range/!svn/ver/6576/software/public/subscriberRegistry/tags/rP3.1.3/test.SubscriberRegistry/runtest
+END
+test.db.init1
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/range/!svn/ver/6576/software/public/subscriberRegistry/tags/rP3.1.3/test.SubscriberRegistry/test.db.init1
+END
+test.db.init2
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/range/!svn/ver/6576/software/public/subscriberRegistry/tags/rP3.1.3/test.SubscriberRegistry/test.db.init2
+END
+sr.db.init
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/range/!svn/ver/6576/software/public/subscriberRegistry/tags/rP3.1.3/test.SubscriberRegistry/sr.db.init
+END
+output.exp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/range/!svn/ver/6576/software/public/subscriberRegistry/tags/rP3.1.3/test.SubscriberRegistry/output.exp
+END

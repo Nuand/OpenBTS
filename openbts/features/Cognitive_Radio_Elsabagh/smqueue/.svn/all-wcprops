@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/smqueue
+END
+README.smqueue
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/smqueue/README.smqueue
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/smqueue/Makefile.in
+END
+smcommands.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/smqueue/smcommands.cpp
+END
+smqueue.config.example
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/smqueue/smqueue.config.example
+END
+Makefile.standalone
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/smqueue/Makefile.standalone
+END
+smqueue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/smqueue/smqueue.cpp
+END
+poll.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/smqueue/poll.c
+END
+runloop.sh
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/smqueue/runloop.sh
+END
+smnet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/smqueue/smnet.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/smqueue/Makefile.am
+END
+smqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/smqueue/smqueue.h
+END
+poll.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/smqueue/poll.h
+END
+smnet.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/smqueue/smnet.h
+END

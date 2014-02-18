@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/range/!svn/ver/6531/software/public/openbts/branches/P3.1
+END
+INSTALLATION
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/INSTALLATION
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/range/!svn/ver/6518/software/public/openbts/branches/P3.1/configure.ac
+END
+Makefile.common
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/Makefile.common
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/Makefile.am
+END
+svn.externals
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/svn.externals
+END
+ctags.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/ctags.sh
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/NEWS
+END
+doxconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/doxconfig
+END
+LEGAL
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/LEGAL
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/AUTHORS
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/ChangeLog
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/README
+END

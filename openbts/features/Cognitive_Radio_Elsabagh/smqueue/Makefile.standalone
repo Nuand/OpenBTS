@@ -1,0 +1,14 @@
+LOCALLIBS=../CommonLibs/Logger.cpp ../CommonLibs/Timeval.cpp ../CommonLibs/Threads.cpp ../CommonLibs/Sockets.cpp ../CommonLibs/Configuration.cpp
+LIBS=$(LOCALLIBS) -losipparser2 -losip2 -lc -lpthread
+INCLUDES=-I../CommonLibs -I../HLR
+CPPFLAGS=-g -Wall
+#CPPFLAGS=-Weffc++ -g -Wall
+
+smqueue: smqueue.cpp smqueue.h smnet.cpp smnet.h smcommands.cpp ../HLR/HLR.cpp ../HLR/HLR.h
+	g++ -o smqueue $(CPPFLAGS) $(INCLUDES) smqueue.cpp smnet.cpp smcommands.cpp ../HLR/HLR.cpp $(LIBS)
+
+smqueue.shar:
+	shar >smqueue.shar smqueue.cpp smqueue.h smnet.cpp smnet.h smcommands.cpp smqueue.config Makefile testmsg*
+
+clean:
+	rm smqueue

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/apps
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/apps/Makefile.am
+END
+OpenBTS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/apps/OpenBTS.cpp
+END
+OpenBTS.example.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/apps/OpenBTS.example.sql
+END

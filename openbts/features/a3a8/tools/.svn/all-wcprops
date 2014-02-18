@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/tools
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/tools/Makefile.am
+END
+translateConfig.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/tools/translateConfig.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/tools/README
+END
+hata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/tools/hata.cpp
+END
+Makefile.standalone
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/tools/Makefile.standalone
+END

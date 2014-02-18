@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/SMS
+END
+SMSTransfer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/SMS/SMSTransfer.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/SMS/Makefile.am
+END
+SMSMessages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/SMS/SMSMessages.cpp
+END
+SMSTransfer.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/SMS/SMSTransfer.h
+END
+SMSMessages.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/SMS/SMSMessages.h
+END

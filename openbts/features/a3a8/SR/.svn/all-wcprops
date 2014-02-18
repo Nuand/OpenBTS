@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/SR
+END
+SubscriberRegistry.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/SR/SubscriberRegistry.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/SR/Makefile.am
+END
+SubscriberRegistry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/SR/SubscriberRegistry.cpp
+END

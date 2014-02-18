@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/range/!svn/ver/6497/software/public/smqueue/trunk/debian
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/range/!svn/ver/6167/software/public/smqueue/trunk/debian/control
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/range/!svn/ver/5900/software/public/smqueue/trunk/debian/compat
+END
+postinst
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/range/!svn/ver/6167/software/public/smqueue/trunk/debian/postinst
+END
+postrm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/range/!svn/ver/5896/software/public/smqueue/trunk/debian/postrm
+END
+preinst
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/range/!svn/ver/5896/software/public/smqueue/trunk/debian/preinst
+END
+prerm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/range/!svn/ver/5902/software/public/smqueue/trunk/debian/prerm
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/range/!svn/ver/6167/software/public/smqueue/trunk/debian/changelog
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/range/!svn/ver/5896/software/public/smqueue/trunk/debian/rules
+END

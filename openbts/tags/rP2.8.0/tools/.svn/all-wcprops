@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/range/!svn/ver/2309/software/public/openbts/tags/rP2.8.0/tools
+END
+Makefile.standalone
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/tools/Makefile.standalone
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/tools/Makefile.am
+END
+translateConfig.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/tools/translateConfig.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/tools/README
+END
+hata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/tools/hata.cpp
+END

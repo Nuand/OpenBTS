@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/apps
+END
+OpenBTS.example.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/apps/OpenBTS.example.sql
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/apps/Makefile.am
+END
+OpenBTS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/apps/OpenBTS.cpp
+END

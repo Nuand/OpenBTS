@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CommonLibs
+END
+Regexp.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CommonLibs/Regexp.h
+END
+Threads.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CommonLibs/Threads.h
+END
+F16.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CommonLibs/F16.h
+END
+BitVectorTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CommonLibs/BitVectorTest.cpp
+END
+BitVector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CommonLibs/BitVector.cpp
+END
+Timeval.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CommonLibs/Timeval.cpp
+END
+TimevalTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CommonLibs/TimevalTest.cpp
+END
+VectorTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CommonLibs/VectorTest.cpp
+END
+BitVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CommonLibs/BitVector.h
+END
+Timeval.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CommonLibs/Timeval.h
+END
+ConfigurationTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CommonLibs/ConfigurationTest.cpp
+END
+Configuration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CommonLibs/Configuration.cpp
+END
+Vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CommonLibs/Vector.h
+END
+InterthreadTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CommonLibs/InterthreadTest.cpp
+END
+Sockets.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CommonLibs/Sockets.cpp
+END
+SocketsTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CommonLibs/SocketsTest.cpp
+END
+Configuration.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CommonLibs/Configuration.h
+END
+Interthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CommonLibs/Interthread.h
+END
+Logger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CommonLibs/Logger.cpp
+END
+Sockets.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CommonLibs/Sockets.h
+END
+URLEncode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CommonLibs/URLEncode.cpp
+END
+LogTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CommonLibs/LogTest.cpp
+END
+Logger.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CommonLibs/Logger.h
+END
+LinkedLists.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CommonLibs/LinkedLists.cpp
+END
+URLEncode.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CommonLibs/URLEncode.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CommonLibs/Makefile.am
+END
+LinkedLists.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CommonLibs/LinkedLists.h
+END
+RegexpTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CommonLibs/RegexpTest.cpp
+END
+Threads.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CommonLibs/Threads.cpp
+END
+F16Test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CommonLibs/F16Test.cpp
+END

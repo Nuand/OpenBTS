@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/range/!svn/ver/2310/software/public/smqueue/tags/rP2.8.0/GSM
+END
+GSMCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/GSM/GSMCommon.h
+END
+GSML3CCElements.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/GSM/GSML3CCElements.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/2302/software/public/smqueue/tags/rP2.8.0/GSM/Makefile.am
+END
+GSML3Message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/GSM/GSML3Message.cpp
+END
+GSMTransfer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/GSM/GSMTransfer.cpp
+END
+GSML3MMElements.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/GSM/GSML3MMElements.cpp
+END
+GSML3CCElements.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/GSM/GSML3CCElements.h
+END
+GSMCommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/GSM/GSMCommon.cpp
+END
+GSML3Message.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/GSM/GSML3Message.h
+END
+GSMTransfer.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/GSM/GSMTransfer.h
+END
+GSML3MMElements.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/GSM/GSML3MMElements.h
+END

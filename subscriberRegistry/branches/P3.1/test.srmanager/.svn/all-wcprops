@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/range/!svn/ver/6512/software/public/subscriberRegistry/branches/P3.1/test.srmanager
+END
+output.exp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/range/!svn/ver/6512/software/public/subscriberRegistry/branches/P3.1/test.srmanager/output.exp
+END
+query.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/6512/software/public/subscriberRegistry/branches/P3.1/test.srmanager/query.sql
+END
+runtest
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/range/!svn/ver/6512/software/public/subscriberRegistry/branches/P3.1/test.srmanager/runtest
+END
+srmanager.db.init
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/range/!svn/ver/6512/software/public/subscriberRegistry/branches/P3.1/test.srmanager/srmanager.db.init
+END
+test.db.init
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/range/!svn/ver/6512/software/public/subscriberRegistry/branches/P3.1/test.srmanager/test.db.init
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/test.sipauthserve
+END
+output.exp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/test.sipauthserve/output.exp
+END
+query.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/test.sipauthserve/query.sql
+END
+runtest
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/test.sipauthserve/runtest
+END
+sipauthserve.db.init
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/test.sipauthserve/sipauthserve.db.init
+END
+sr.db.init
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/test.sipauthserve/sr.db.init
+END
+usender.pl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/test.sipauthserve/usender.pl
+END
+register1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/test.sipauthserve/register1.txt
+END
+register2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/test.sipauthserve/register2.txt
+END
+register3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/test.sipauthserve/register3.txt
+END
+register4.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/test.sipauthserve/register4.txt
+END
+register5.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/test.sipauthserve/register5.txt
+END
+register4a.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/test.sipauthserve/register4a.txt
+END
+exit.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/test.sipauthserve/exit.txt
+END
+register6.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/test.sipauthserve/register6.txt
+END
+register5a.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/test.sipauthserve/register5a.txt
+END
+register4b.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/test.sipauthserve/register4b.txt
+END
+register5b.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/test.sipauthserve/register5b.txt
+END

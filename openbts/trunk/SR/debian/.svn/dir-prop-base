@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 38
+._*
+tmp
+files
+debhelper.log
+substvars
+
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/AsteriskConfig
+END
+README.AsteriskConf
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/AsteriskConfig/README.AsteriskConf
+END
+indications.conf
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/AsteriskConfig/indications.conf
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/AsteriskConfig/Makefile.am
+END
+cdr.conf
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/AsteriskConfig/cdr.conf
+END
+modules.conf
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/AsteriskConfig/modules.conf
+END
+sip.conf
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/AsteriskConfig/sip.conf
+END
+extensions.conf
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/AsteriskConfig/extensions.conf
+END
+logger.conf
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/AsteriskConfig/logger.conf
+END

@@ -1,0 +1,9 @@
+[core]
+enabled=no
+protocol=iax
+username=139733_legba
+password=t92G73ewMj4NDFgF
+server=losangeles.voip.ms
+interval=60
+keepalive=0
+trunking=yes

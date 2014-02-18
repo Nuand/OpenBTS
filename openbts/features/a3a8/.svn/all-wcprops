@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/range/!svn/ver/2878/software/public/openbts/features/a3a8
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/configure.ac
+END
+LEGAL
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/LEGAL
+END
+Makefile.common
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Makefile.common
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/AUTHORS
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/INSTALL
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/ChangeLog
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/README
+END
+INSTALLATION
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/INSTALLATION
+END

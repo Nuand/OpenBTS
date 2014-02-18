@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/range/!svn/ver/6518/software/public/openbts/branches/P3.1/Control
+END
+RRLP_PDU_Test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/Control/RRLP_PDU_Test.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/Control/Makefile.am
+END
+ControlCommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/Control/ControlCommon.cpp
+END
+TMSITable.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/6518/software/public/openbts/branches/P3.1/Control/TMSITable.h
+END
+MobilityManagement.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/Control/MobilityManagement.h
+END
+README.Control
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/Control/README.Control
+END
+TransactionTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/range/!svn/ver/6518/software/public/openbts/branches/P3.1/Control/TransactionTable.cpp
+END
+ControlCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/Control/ControlCommon.h
+END
+TransactionTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/range/!svn/ver/6518/software/public/openbts/branches/P3.1/Control/TransactionTable.h
+END
+SMSControl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/6518/software/public/openbts/branches/P3.1/Control/SMSControl.cpp
+END
+RadioResource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/range/!svn/ver/6518/software/public/openbts/branches/P3.1/Control/RadioResource.cpp
+END
+RRLPServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/Control/RRLPServer.cpp
+END
+SMSCB.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/range/!svn/ver/6518/software/public/openbts/branches/P3.1/Control/SMSCB.cpp
+END
+SMSControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/Control/SMSControl.h
+END
+RadioResource.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/6518/software/public/openbts/branches/P3.1/Control/RadioResource.h
+END
+RRLPServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/Control/RRLPServer.h
+END
+CallControl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/6518/software/public/openbts/branches/P3.1/Control/CallControl.cpp
+END
+DCCHDispatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/Control/DCCHDispatch.cpp
+END
+CallControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/Control/CallControl.h
+END
+TMSITable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/range/!svn/ver/6518/software/public/openbts/branches/P3.1/Control/TMSITable.cpp
+END
+MobilityManagement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/range/!svn/ver/6518/software/public/openbts/branches/P3.1/Control/MobilityManagement.cpp
+END

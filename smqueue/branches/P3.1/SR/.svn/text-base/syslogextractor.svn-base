@@ -1,0 +1,42 @@
+#!/usr/bin/env perl
+
+use strict;
+use warnings;
+
+sub poot2 {
+	my($line) = @_;
+	# sip message printing adds the \r stuff.  Get rid of it.
+	$line =~ s/\\r//g;
+	print "$line\n";
+}
+
+sub poot {
+	my($buf) = @_;
+	# sip message printing comes in one big chunk.  Split the lines.
+	my(@buf) = split('\\\\n', $buf);
+	&poot2($_) foreach @buf;
+}
+
+sub main {
+	open(IN, "/var/log/OpenBTS.log") || die;
+	my(@out);
+	while (<IN>) {
+		chomp;
+		# Ignore everything before the latest mark.
+		if (/dwb syslog mark/) {
+			@out = ();
+			next;
+		}
+		if (/: INFO (0x[0-9a-fA-F]+|\d+) (.+)/) {
+			# clean out garbage fro INFO lines
+			push(@out, $2);
+		} else {
+			# keep all of other lines. (might be ERR or EMERG, e.g.)
+			push(@out, $_);
+		}
+	}
+	close(IN);
+	poot $_ foreach @out;
+}
+
+&main;

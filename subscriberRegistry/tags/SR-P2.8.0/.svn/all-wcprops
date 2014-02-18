@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/range/!svn/ver/2304/software/public/subscriberRegistry/tags/SR-P2.8.0
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/2304/software/public/subscriberRegistry/tags/SR-P2.8.0/COPYING
+END
+runloop.sipauthserve.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/2304/software/public/subscriberRegistry/tags/SR-P2.8.0/runloop.sipauthserve.sh
+END
+hexmapper
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/range/!svn/ver/2304/software/public/subscriberRegistry/tags/SR-P2.8.0/hexmapper
+END
+servershare.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/range/!svn/ver/2304/software/public/subscriberRegistry/tags/SR-P2.8.0/servershare.cpp
+END
+setUpFiles.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/range/!svn/ver/2304/software/public/subscriberRegistry/tags/SR-P2.8.0/setUpFiles.sh
+END
+syslogextractor
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/range/!svn/ver/2304/software/public/subscriberRegistry/tags/SR-P2.8.0/syslogextractor
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/2304/software/public/subscriberRegistry/tags/SR-P2.8.0/Makefile
+END
+SubscriberRegistry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/2304/software/public/subscriberRegistry/tags/SR-P2.8.0/SubscriberRegistry.cpp
+END
+servershare.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/range/!svn/ver/2304/software/public/subscriberRegistry/tags/SR-P2.8.0/servershare.h
+END
+srmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/range/!svn/ver/2304/software/public/subscriberRegistry/tags/SR-P2.8.0/srmanager.cpp
+END
+SubscriberRegistry.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/range/!svn/ver/2304/software/public/subscriberRegistry/tags/SR-P2.8.0/SubscriberRegistry.h
+END
+sipauthserve.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/range/!svn/ver/2304/software/public/subscriberRegistry/tags/SR-P2.8.0/sipauthserve.cpp
+END

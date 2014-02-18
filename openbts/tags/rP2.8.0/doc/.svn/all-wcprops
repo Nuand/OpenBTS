@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/range/!svn/ver/2309/software/public/openbts/tags/rP2.8.0/doc
+END
+CodingStandard
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/doc/CodingStandard
+END
+SoftwareP2.8Manual.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/doc/SoftwareP2.8Manual.pdf
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/doc/Makefile.am
+END

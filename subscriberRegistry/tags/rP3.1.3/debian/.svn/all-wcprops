@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/6577/software/public/subscriberRegistry/tags/rP3.1.3/debian
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/6577/software/public/subscriberRegistry/tags/rP3.1.3/debian/control
+END
+postinst
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/range/!svn/ver/6576/software/public/subscriberRegistry/tags/rP3.1.3/debian/postinst
+END
+postrm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/6576/software/public/subscriberRegistry/tags/rP3.1.3/debian/postrm
+END
+preinst
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/6576/software/public/subscriberRegistry/tags/rP3.1.3/debian/preinst
+END
+prerm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/6576/software/public/subscriberRegistry/tags/rP3.1.3/debian/prerm
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/range/!svn/ver/6577/software/public/subscriberRegistry/tags/rP3.1.3/debian/changelog
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/6576/software/public/subscriberRegistry/tags/rP3.1.3/debian/rules
+END

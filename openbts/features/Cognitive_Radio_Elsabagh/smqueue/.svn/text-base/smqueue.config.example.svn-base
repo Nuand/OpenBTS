@@ -1,0 +1,90 @@
+# Config file for SMS server smqueue
+
+# Format of each line is. <key><space><value>
+# The key name can contain no spaces.
+# Everything between the first space and the end of the line becomes the value.
+# Comments must start with "#" at the beginning of the line.
+# Blank lines are OK.
+
+
+
+
+# Logging level
+Log.Level INFO
+Log.Level.smcommands.cpp DEBUG
+# Logging file.  Logs to stdout if this is not defined.
+#Log.FileName smqueue.log
+
+
+savefile savedqueue.txt
+
+# Asterisk interface
+Asterisk.address 127.0.0.1:5060
+
+
+# Local SIP config
+SIP.myPort 5063
+# smqueue's addresses, as seen by the Asterisk server
+SIP.myIP 127.0.0.1
+SIP.myIP2 192.168.0.102
+
+# A Boolean, defined or not defined
+Debug.print_as_we_validate
+$optional Debug.print_as_we_validate
+
+
+# Global relay host:port
+#SIP.global_relay 81.201.82.50:5060
+SIP.global_relay 
+
+
+# return SMS messages
+BounceMessage.IMSILookupFailed Cannot determine return address; bouncing message.  Text your phone number to 101 to register and try again.
+BounceMessage.NotRegistered Phone not registered here.
+
+
+
+# Shortcode codes
+# To leave a short code out of the system,
+# command out the "Code" configuration line.
+
+# Autoprovisioning function.
+# SHOULD BE MATCHED TO AUTOPROVISIONING CODE IN BTS CONFIG(S).
+SC.Register.Code 101
+# Welcome message for new registration, sent as <A> << phonenumber << <B>
+SC.Register.Msg.WelcomeA Hello
+SC.Register.Msg.WelcomeB ! Text to 411 for system status.
+# Message for already registered phones, sent as <A> << phonenumber << <B>
+SC.Register.Msg.AlreadyA Your phone is already registered as
+SC.Register.Msg.AlreadyB .
+# Message for attempts to take a number alraedy assigned, sent as <A> << phonenumber << <B>
+SC.Register.Msg.TakenA The phone number
+SC.Register.Msg.TakenB is already in use. Try another, then call that one to talk to whoever took yours.
+# Message for internal errors, sent as <A> << phonenumber << <B> << imsi
+SC.Register.Msg.ErrorA Error in assigning
+SC.Register.Msg.ErrorB to IMSI
+# Bounds for valid number length
+SC.Register.Digits.Max 10
+SC.Register.Digits.Min 7
+# Allow "!!!" to override digit max/min bounds?
+# (A Boolean, either defined or not.)
+SC.Register.Digits.Override
+
+# System status.
+SC.Info.Code 411
+
+# Debug dump of message queue.
+SC.DebugDump.Code 2336
+
+# Return # of queued messags.
+SC.QuickChk.Code 2337
+
+# Flush old messages.
+SC.ZapQueued.Code 2338
+SC.ZapQueued.Password 6000
+
+SC.WhiplashQuit.Code 314158
+SC.WhiplashQuit.Password Snidely
+SC.WhiplashQuit.SaveFile testsave.txt
+
+

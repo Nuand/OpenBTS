@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/range/!svn/ver/2310/software/public/smqueue/tags/rP2.8.0/tools
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/2302/software/public/smqueue/tags/rP2.8.0/tools/Makefile.am
+END
+translateConfig.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/2302/software/public/smqueue/tags/rP2.8.0/tools/translateConfig.py
+END

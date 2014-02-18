@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/range/!svn/ver/6709/software/public/smqueue/trunk
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/range/!svn/ver/2247/software/public/smqueue/trunk/README
+END
+INSTALLATION
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/range/!svn/ver/2247/software/public/smqueue/trunk/INSTALLATION
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/range/!svn/ver/6167/software/public/smqueue/trunk/configure.ac
+END
+Makefile.common
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/range/!svn/ver/6167/software/public/smqueue/trunk/Makefile.common
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/range/!svn/ver/2247/software/public/smqueue/trunk/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/range/!svn/ver/6167/software/public/smqueue/trunk/COPYING
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/range/!svn/ver/2312/software/public/smqueue/trunk/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/range/!svn/ver/6167/software/public/smqueue/trunk/Makefile.am
+END
+svn.externals
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/range/!svn/ver/5667/software/public/smqueue/trunk/svn.externals
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/range/!svn/ver/2311/software/public/smqueue/trunk/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/range/!svn/ver/2247/software/public/smqueue/trunk/NEWS
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/range/!svn/ver/2312/software/public/smqueue/trunk/install-sh
+END
+doxconfig
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/range/!svn/ver/6167/software/public/smqueue/trunk/doxconfig
+END
+LEGAL
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/range/!svn/ver/2247/software/public/smqueue/trunk/LEGAL
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/range/!svn/ver/2247/software/public/smqueue/trunk/AUTHORS
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/range/!svn/ver/2247/software/public/smqueue/trunk/ChangeLog
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/range/!svn/ver/2312/software/public/smqueue/trunk/depcomp
+END

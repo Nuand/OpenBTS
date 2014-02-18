@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/range/!svn/ver/6518/software/public/openbts/branches/P3.1/SIP
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/SIP/Makefile.am
+END
+SIPInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/6518/software/public/openbts/branches/P3.1/SIP/SIPInterface.cpp
+END
+SIPUtility.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/SIP/SIPUtility.cpp
+END
+SIPMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/SIP/SIPMessage.cpp
+END
+SIPEngine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/range/!svn/ver/6518/software/public/openbts/branches/P3.1/SIP/SIPEngine.cpp
+END
+SIPInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/SIP/SIPInterface.h
+END
+SIPUtility.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/SIP/SIPUtility.h
+END
+SIPMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/SIP/SIPMessage.h
+END
+SIPEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/SIP/SIPEngine.h
+END

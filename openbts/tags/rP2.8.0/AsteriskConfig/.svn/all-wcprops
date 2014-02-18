@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/range/!svn/ver/2309/software/public/openbts/tags/rP2.8.0/AsteriskConfig
+END
+README.AsteriskConf
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/AsteriskConfig/README.AsteriskConf
+END
+indications.conf
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/AsteriskConfig/indications.conf
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/AsteriskConfig/Makefile.am
+END
+cdr.conf
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/AsteriskConfig/cdr.conf
+END
+modules.conf
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/AsteriskConfig/modules.conf
+END
+sip.conf
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/AsteriskConfig/sip.conf
+END
+extensions.conf
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/AsteriskConfig/extensions.conf
+END
+logger.conf
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/AsteriskConfig/logger.conf
+END

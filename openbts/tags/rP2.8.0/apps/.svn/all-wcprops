@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/range/!svn/ver/2309/software/public/openbts/tags/rP2.8.0/apps
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/apps/Makefile.am
+END
+OpenBTS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/apps/OpenBTS.cpp
+END
+OpenBTS.example.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/apps/OpenBTS.example.sql
+END

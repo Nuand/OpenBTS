@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/range/!svn/ver/6518/software/public/openbts/branches/P3.1/debian
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/range/!svn/ver/6518/software/public/openbts/branches/P3.1/debian/rules
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/6518/software/public/openbts/branches/P3.1/debian/control
+END
+postinst.old
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/6518/software/public/openbts/branches/P3.1/debian/postinst.old
+END
+prerm.old
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/6518/software/public/openbts/branches/P3.1/debian/prerm.old
+END
+postinst
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/6518/software/public/openbts/branches/P3.1/debian/postinst
+END
+postrm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/debian/postrm
+END
+preinst
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/6518/software/public/openbts/branches/P3.1/debian/preinst
+END
+prerm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/range/!svn/ver/6518/software/public/openbts/branches/P3.1/debian/prerm
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/6518/software/public/openbts/branches/P3.1/debian/changelog
+END

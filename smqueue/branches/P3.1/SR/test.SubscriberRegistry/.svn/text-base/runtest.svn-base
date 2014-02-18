@@ -1,0 +1,23 @@
+#!/bin/bash
+
+make test
+logger -plocal7.Debug dwb syslog mark
+date > output.got
+
+# first run without a remote http server
+rm -f test.db sr.db
+sqlite3 test.db < test.db.init1
+sqlite3 sr.db < sr.db.init
+./test
+
+# then run with a remote http server
+rm -f test.db sr.db
+sqlite3 test.db < test.db.init2
+sqlite3 sr.db < sr.db.init
+./test
+
+../syslogextractor >> output.got
+mv output.got ootput.got
+../hexmapper ootput.got > output.got
+diff output.exp output.got
+exit 0

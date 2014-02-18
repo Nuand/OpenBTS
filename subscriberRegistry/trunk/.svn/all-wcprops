@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/range/!svn/ver/6708/software/public/subscriberRegistry/trunk
+END
+subscriberRegistry.example.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/subscriberRegistry.example.sql
+END
+runloop.sipauthserve.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/range/!svn/ver/6502/software/public/subscriberRegistry/trunk/runloop.sipauthserve.sh
+END
+hexmapper
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/range/!svn/ver/2243/software/public/subscriberRegistry/trunk/hexmapper
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/config.h
+END
+srmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/srmanager.cpp
+END
+sipauthserve.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/6499/software/public/subscriberRegistry/trunk/sipauthserve.cpp
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/5666/software/public/subscriberRegistry/trunk/Makefile.am
+END
+svn.externals
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/5657/software/public/subscriberRegistry/trunk/svn.externals
+END
+comp128.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/comp128.c
+END
+servershare.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/6499/software/public/subscriberRegistry/trunk/servershare.cpp
+END
+subscriberserver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/subscriberserver.cpp
+END
+syslogextractor
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/2243/software/public/subscriberRegistry/trunk/syslogextractor
+END
+SubscriberRegistry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/range/!svn/ver/6597/software/public/subscriberRegistry/trunk/SubscriberRegistry.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/range/!svn/ver/6502/software/public/subscriberRegistry/trunk/Makefile
+END
+servershare.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/6499/software/public/subscriberRegistry/trunk/servershare.h
+END
+SubscriberRegistry.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/SubscriberRegistry.h
+END

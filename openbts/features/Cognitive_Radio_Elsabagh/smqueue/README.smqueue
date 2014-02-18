@@ -1,0 +1,7 @@
+The Smqueue RFC-3428 Store and Forward Server
+
+Smqueue has different build dependencies than OpenBTS and so it has
+its own make file outside of the standard openbts autobuild system.
+This allows smqueue to be built without installing GNU Radio.
+
+make -f Makefile.standalone

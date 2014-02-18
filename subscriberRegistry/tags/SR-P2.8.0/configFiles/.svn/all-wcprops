@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/2304/software/public/subscriberRegistry/tags/SR-P2.8.0/configFiles
+END
+subscriberRegistryInit.sql
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/range/!svn/ver/2304/software/public/subscriberRegistry/tags/SR-P2.8.0/configFiles/subscriberRegistryInit.sql
+END
+odbcinst.ini
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/range/!svn/ver/2304/software/public/subscriberRegistry/tags/SR-P2.8.0/configFiles/odbcinst.ini
+END
+odbc.ini
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/range/!svn/ver/2304/software/public/subscriberRegistry/tags/SR-P2.8.0/configFiles/odbc.ini
+END

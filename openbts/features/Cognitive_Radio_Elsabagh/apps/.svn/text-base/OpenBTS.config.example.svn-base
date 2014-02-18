@@ -1,0 +1,528 @@
+# Sample OpenBTS configuration file.
+
+
+# Formatting rules:
+
+# Configuration values are defined with line of the form <key><space><value>
+# The key name can contain no spaces.
+# Everything between the first space and the end of the line becomes the value.
+# Numeric values can be preceded with "0x" for hex.
+
+# Blank lines are OK.
+
+# Lines starting with "#" are comments.
+
+# By default, configuration values can be changed but not removed after initialization.
+
+# Lines starting with "$" are directives that define other properties of config values:
+# "static" --  configuration value cannot be changed or removed after initialization.
+# "optional" -- configuration value may be removed after initialization.
+
+
+# As a gerenal rule, non-valid configuration values will crash OpenBTS.
+# So be cafeful.
+
+
+#
+# Logging and reporting parameters
+#
+
+# The initial global logging level: ERROR, WARN, NOTICE, INFO, DEBUG, DEEPDEBUG
+Log.Level NOTICE
+# Logging levels can also be defined for individual source files.
+# This example set shows normal operations in the control layer (L3).
+Log.Level.MobilityManagement.cpp INFO
+$optional Log.Level.MobilityManagement.cpp
+Log.Level.CallControl.cpp INFO
+$optional Log.Level.CallControl.cpp
+Log.Level.RadioResource.cpp INFO
+$optional Log.Level.RadioResource.cpp
+
+# The log file path.  If not set, logging goes to stdout.
+Log.FileName test.out
+$static Log.FileName
+
+# LOG(ALARM) is printed and also sent as udp to this address.
+Log.Alarms.TargetIP 192.168.10.200
+$optional Log.Alarms.TargetIP
+Log.Alarms.TargetPort 10101
+# Number of alarms saved in internal queue
+Log.Alarms.Max 10
+
+# Wireshark support
+# OpenBTS writes L2 GSMTAP messages to this port.
+# If GSMTAP.TargetIP is not defined, this output is disabled.
+GSMTAP.TargetIP 127.0.0.1
+$optional GSMTAP.TargetIP
+# The standard IANA for GSMTAP is 4729.  This can be used to override that.
+#GSMTAP.TargetPort 4729
+
+# Indications port
+# Some interal operations produce status reports sent to this port.
+# This can be the same as the Alarm target.
+Indications.TargetIP 127.0.0.1
+Indications.TargetPort 10202
+
+
+# Port number for test calls.
+# This is where an external program can interact with a handset via UDP.
+TestCall.Port 28670
+
+
+#
+# Transceiver parameters
+#
+
+# Transceiver interface
+# This TRX.IP is not really adjustable.  Just leave it as 127.0.0.1.
+TRX.IP 127.0.0.1
+$static TRX.IP
+# This value is hard-coded in the transcevier.  Just leave it alone.
+TRX.Port 5700
+$static TRX.Port
+
+# Path to transceiver binary
+# If this is not defined, you will need to start the transceiver by hand.
+# YOU MUST HAVE A MATCHING libusrp AS WELL!!
+TRX.Path ../Transceiver/transceiver
+#TRX.Path ../Transceiver52M/transceiver
+$static TRX.Path
+
+# TRX logging.
+# Logging level.
+# IF TRX.Path IS DEFINED, THIS MUST ALSO BE DEFINED.
+TRX.LogLevel NOTICE
+$static TRX.LogLevel
+# Logging file.  If not defined, logs to stdout.
+TRX.LogFileName test.TRX.out
+$static TRX.LogFileName
+
+
+
+#
+# SIP, RTP, servers
+#
+
+# Asterisk PBX
+Asterisk.IP 127.0.0.1
+Asterisk.Port 5060
+$static Asterisk.IP
+$static Asterisk.Port
+
+# Messaging server
+Smqueue.IP 127.0.0.1
+Smqueue.Port 5063
+$static Smqueue.IP
+$static Smqueue.Port
+
+# Local SIP/RTP ports
+# OpenBTS binds to these ports.
+SIP.Port 5062
+$static SIP.Port
+RTP.Start 16484
+RTP.Range 98
+$static RTP.Start
+$static RTP.Range
+
+# If Asterisk is 127.0.0.1, this is also 127.0.0.1.
+# Otherwise, this should be the local IP address of the interface used to contact asterisk.
+# In other words, this is the IP address at which Asterisk will see OpenBTS.
+SIP.IP 127.0.0.1
+
+
+
+#
+# Special extensions.
+#
+
+# Routing extension for emergency calls.
+# This must be defined, even if you are not supporting emergency calls.
+PBX.Emergency 2101
+
+
+#
+# SIP parameters
+#
+
+# SIP registration period in seconds.
+# Ideally, this should be slightly longer than GSM.T3212.
+SIP.RegistrationPeriod 7200
+
+#
+# SIP Internal Timers.  All timer values are given in millseconds.
+# These are from RFC-3261 Table A.
+#
+
+# SIP Timer A, the INVITE retry period, RFC-3261 Section 17.1.1.2
+# in milliseconds
+# For fast SMS interactions, keep this at 2000 or more.
+SIP.Timer.A 2000
+
+
+
+#
+# SMS parameters
+#
+# ISDN address of source SMSC when we fake out a source SMSC.
+SMS.FakeSrcSMSC 0000
+# ISDN address of destination SMSC when a fake value is needed.
+SMS.DefaultDestSMSC 0000
+
+
+# The SMS HTTP gateway.
+# Comment out if you don't have one or if you want to use smqueue.
+#SMS.HTTP.Gateway api.clickatell.com
+
+# IF SMS.HTTP.Gateway IS DEFINED, SMS.HTTP.AccessString MUST ALSO BE DEFINED.
+#SMS.HTTP.AccessString sendmsg?user=xxxx&password=xxxx&api_id=xxxx
+
+
+
+
+# Things to query during registration updates.
+#Control.LUR.QueryIMEI
+$optional Control.LUR.QueryIMEI
+#Control.LUR.QueryClassmark
+$optional Control.LUR.QueryClassmark
+
+# Does everyone get a TMSI, registered or not?
+Control.LUR.TMSIsAll
+$optional Control.LUR.TMSIsAll
+
+# TMSI table controls
+
+# Maximum number of TMSIs to track
+Control.TMSITable.MaxSize 10000
+
+# Maximum allowed ages of a TMSI, in hours.
+Control.TMSITable.MaxAge 72
+
+# Want persistent TMSIs?
+Control.TMSITable.SavePath TMSITable.txt
+$optional Control.TMSISavePath
+
+
+
+# Open Registration and Self-Provisioning
+# If this is defined, the network accepts LUR from unprovisioned handsets.
+# This is required to support SMS-based auto-provisioning.
+# This is a boolean -- either defined or not.
+Control.OpenRegistration
+$optional Control.OpenRegistration
+
+
+#
+# "Welcome" messages sent during IMSI attach attempts.
+# ANY WELCOME MESSAGE MUST BE LESS THAN 138 CHARACTERS.
+# ANY DEFINED WELCOME MESSAGE MUST ALSO HAVE A DEFINED SHORT CODE.
+# Comment out any message you don't want to use.
+#
+
+# The message sent upon full successful registration, all the way through the Asterisk server.
+# THIS MESSAGE IS NORMALLY REQUIRED FOR COMPLIANCE WITH AGPLv3.
+Control.NormalRegistrationWelcomeMessage Welcome to OpenBTS! AGPLv3 openbts.sf.net. Your IMSI is
+Control.NormalRegistrationWelcomeShortCode 0000
+
+# Then message sent to accpeted open registrations.
+# IF OPEN REGISTRATION IS ENABLED, THIS MUST ALSO BE DEFINED.
+# THIS MESSAGE IS NORMALLY REQUIRED FOR COMPLIANCE WITH AGPLv3.
+Control.OpenRegistrationWelcomeMessage Welcome to OpenBTS! AGPLv3 openbts.sf.net. Your IMSI is
+# If you use SMS auto-provisioning, use that short code as the return address here.
+Control.OpenRegistrationWelcomeShortCode 101
+
+# Then message send to failed registrations.
+#Control.FailedRegistrationWelcomeMessage Your handset is not provisioned for this network.
+$optional Control.FailedRegistrationWelcomeMessage
+Control.FailedRegistrationWelcomeShortCode 1000
+
+
+
+
+#
+# GSM
+#
+
+# Network and cell identity.
+
+# Network Color Code, 0-7
+# Also set GSM.NCCsPermitted later in this file.
+GSM.NCC 0
+# Basesation Color Code, 0-7
+GSM.BCC 2
+# Mobile Country Code, 3 digits.
+# MCC MUST BE 3 DIGITS.  Prefix with 0s if needed.
+# Test code is 001.
+GSM.MCC 001
+# Mobile Network Code, 2 or 3 digits.
+# Test code is 01.
+GSM.MNC 01
+# Location Area Code, 0-65535
+GSM.LAC 1000
+# Cell ID, 0-65535
+GSM.CI 10
+
+# Network "short name" to display on the handset.
+# This is optional, but must be defined if you also want to
+# send current time-of-day to the phine.
+GSM.ShortName OpenBTS
+$optional GSM.ShortName
+
+# A boolean telling whether or not to show country initials with the name.
+GSM.ShowCountry
+$optional GMS.ShowCountry
+
+# Assignment type for call setup.
+# The default is early assignment.
+# If defined, this will cause us to use very early assignment instead.
+#GSM.VEA
+$optional GSM.VEA
+
+# Band and Frequency
+
+# Valid band values are 850, 900, 1800, 1900.
+GSM.Band 900
+$static GSM.Band
+
+# Valid ARFCN range depends on the band.
+GSM.ARFCN 51 
+# ARCN 975 is inside the US ISM-900 band and also in the GSM900 band.
+#GSM.ARFCN 975
+# ARFCN 207 was what we ran at BM2008, I think, in the GSM850 band.
+#GSM.ARFCN 207
+$static GSM.ARFCN
+
+# Neighbor list
+# Should probably include our own ARFCN
+GSM.Neighbors 39 41 43
+#GSM.Neighbors 207
+
+
+# Expected environmental delay spread, in symbols, at about 1.1 km/sym.
+# FIXME -- Should be a TRX parameter.
+GSM.MaxExpectedDelaySpread 1 
+# Receiver Gain, in dB
+# comment out to set receiver to maximum possible receive gain
+# With RxGain 57, -71.0dBm <-> 0dB RSSI, -113dBm <-> -38.2dB RSSI, -120dBm <-> -41.4dB RSSI
+# With RxGain 47, -57.4dBm <-> 0dB RSSI, -113dBm <-> -51.3dB RSSI, -120dBm <-> -54.5dB RSSI
+# With RxGain 37, -43.6dBm <-> 0dB RSSI, -113dBm <-> -63.1dB RSSI, -120dBm <-> -65.4dB RSSI
+GSM.RxGain 47
+
+
+# Downlink adaptive power management.
+# Manages power to prevent congestion.
+
+# Downlink tx power level bounds, dB wrt full power
+# For the Mk 1B 900:
+# Output power of USRP is 20 dBm at full scale.
+# We installed a 10 dB attenuator.
+# Gain of HPA-900 is 40 dB.
+# So the output power, in dBm, is Po = 20 + 40 - 10 - Atten = 50 - Atten.
+# So Atten = 50 - Po.
+# That has been verified on the CMD57.
+# HPA-900 max ouput is 42 dBm: Atten = 50 - 42 = 8 dB.
+# Balanced link at 33 dBm: Atten = 50 - 33 = 17 dB.
+# Maximum attenuation (sets MINIMUM power level).
+# Atten 30 -> 20 dBm.
+GSM.PowerManager.MaxAttenDB 30 
+# Minimum attenuation (sets MAXIMUM power level).
+# Atten 7 -> 36 dBm. (with TX IF of 40MHz)
+GSM.PowerManager.MinAttenDB  7 
+
+# Target T3122 for Power Manager.
+# Under heavy load, the power manager will adjust downlink power
+# so that T3122 meets this taret.
+# THE TARGET T3122 MUST BE BETWEEN THE MIN AND MAX VALUES.
+# THOSE ARE SET SOMEWHERE ELSE IN THIS FILE, GSM.T3122Max, GSM.T3122Min.
+GSM.PowerManager.TargetT3122 5000
+# T3122 sampling period, in milliseconds.
+# PowerMananger.SamplePeriod should be <= PowerMananger.Period.
+GSM.PowerManager.SamplePeriod 2000
+# Sample history for averaging T3122, MUST BE <100;
+GSM.PowerManager.NumSamples 10
+# Power manager adaptation step period, in milliseconds
+# Should be >= PowerMananger.SamplePeriod
+GSM.PowerManager.Period 6000
+
+
+# Channel configuration
+# Number of C-VII slots (8xSDCCH)
+GSM.NumC7s 1
+$static GSM.NumC7s
+# Number of C-I slots (1xTCH/F)
+GSM.NumC1s 6
+$static GSM.NumC1s
+# Half-duplex option for low-capacity on cheap hardware.
+#GSM.HalfDuplex
+$optional GSM.HalfDuplex
+#$static GSM.HalfDuplex
+
+
+
+# Beacon parameters.
+
+# L1 radio link timeout advertised on BCCH.
+# This is the RAW parameter sent on the BCCH.
+# See GSM 10.5.2.3 for encoding.
+# Value of 15 gives 64-frame timeout, about 30 seconds on the TCH.
+# This should be coordinated with T3109.
+GSM.RADIO_LINK_TIMEOUT 15
+
+# Control Channel Description (CCD)
+
+# Attach/detach flag.
+# Set to 1 to use attach/detach procedure, 0 otherwise.
+# This will make initial LUR more prompt.
+# It will also cause an un-regstration if the handset powers off
+# and really head LUR loads in areas with spotty coverage.
+GSM.CCD.ATT 1
+
+# CCCH_CONF
+# See GSM 10.5.2.11 for encoding.
+# Value of 1 means we are using a C-V beacon.
+GSM.CCD.CCCH_CONF 1
+
+# RACH Parameters
+
+# Maximum RACH retransmission attempts
+# This is the RAW parameter sent on the BCCH.
+# See GSM 04.08 10.5.2.29 for encoding.
+GSM.RACH.MaxRetrans 1
+
+# Parameter to spread RACH busts over time.
+# This is the RAW parameter sent on the BCCH.
+# See GSM 04.08 10.5.2.29 for encoding.
+GSM.RACH.TxInteger 14
+
+# Access class flags.
+# This is the RAW parameter sent on the BCCH.
+# See GSM 04.08 10.5.2.29 for encoding.
+# Set to 0 to allow full access.
+# Set to 0x0400 to indicate no support for emergency calls.
+GSM.RACH.AC 0
+
+# NCCs Permitted.
+# An 8-bit mask of allowed NCCs.
+# Unless you are coordinating with another carrier,
+# this should probably just select your own NCC.
+GSM.NCCsPermitted 1
+
+# Cell Selection Parameters (CS)
+GSM.CS.MS_TXPWR_MAX_CCH 0
+GSM.CS.RXLEV_ACCESS_MIN 0
+
+# Cell Reselection Hysteresis
+# See GSM 04.08 10.5.2.4, Table 10.5.23 for encoding.
+# Encoding is 2N dB, value values of N are 0..7 for 0..14 dB.
+GSM.CS.CELL_RESELECT_HYSTERESIS 3
+
+# NECI, New Establishment Causes
+# This should be set to "1" if you want to support very early assignment.
+# See GSM 04.08 10.5.2.4, Table 10.5.23 and 04.08 9.1.8, Table 9.9.
+GSM.CS.NECI 1
+
+
+# Reject cause for location updating failures
+# Reject causes come from GSM 04.08 10.5.3.6
+# Reject cause 0x04, IMSI not in VLR
+GSM.LURejectCause 0x04
+
+
+
+#
+# Parameters for MS adaptive power and timing.
+#
+
+# Maximum timing advance.
+# Can be used to control the range of the BTS.
+# The unit is GSM symbols of round trips delay, about 550 meters per symbol.
+# If you set this <1 or >63, you can break things.
+GSM.MS.TA.Max 5
+# Adaptation damping factor, scaled up by 100.
+# The larger this is, the smoother (and less responsive) the adaptation.
+# The valie range is 0..100.
+GSM.MS.TA.Damping 50
+
+# Maximum and minimum MS tx power, given in dBm.
+# The meaningful MS tx power range is 5-33 dBm.
+GSM.MS.Power.Max 33
+GSM.MS.Power.Min 5
+# Adaptation damping factor, scaled up by 100.
+# The larger this is, the smoother (and less responsive) the adaptation.
+# The valie range is 0..100.
+GSM.MS.Power.Damping 50
+
+
+
+
+#
+# GSM Timers.  All timer values are given in milliseconds unless stated otherwise.
+# These come from GSM 04.08 11.2.
+#
+
+# T3212, registration timer.
+# Unlike most timers, this is given in MINUTES.
+# Actual period will be rounded down to a multiple of 6 minutes.
+# Any value below 6 minutes disables periodic registration, which is probably a bad idea.
+# Valid range is 6..1530.
+# Ideally, this should be slightly less than the SIP.RegistrationPeriod.
+GSM.T3212 12
+
+# T3122, RACH holdoff timer.
+# This value can vary internally between the min and max ends of the range.
+# When congestion occurs, T3122 grows exponentially.
+GSM.T3122Min 2000
+# T3211Max MUST BE NO MORE THAN 255 s.
+GSM.T3122Max 255000
+
+# T3113, the paging timer
+# This is the time allowed for a handset to respond to a paging request.
+GSM.T3113 10000
+
+
+# RRLP
+
+# RRLP query conditions
+# These booleans just have to be defined.  The actual values don't matter.
+#GSM.RRLP.LUR
+#$optional GSM.RRLP.LUR
+#GSM.RRLP.MOC
+#$optional GSM.RRLP.MOC
+#GSM.RRLP.MTC
+#$optional GSM.RRLP.MTC
+#GSM.RRLP.MOSMS
+#$optional GSM.RRLP.MOSMS
+#GSM.RRLP.MTSMS
+#$optional GSM.RRLP.MTSMS
+
+# Accuracy requested from MS - 60 is about 400m (scale is approx. logarithmic)
+GSM.RRLP.Accuracy 60
+# Number of requests done per RRLPQueryController::doTransaction
+GSM.RRLP.Retries 1
+# RRLP query timeout, ms
+GSM.RRLP.Timeout 4000
+
+# The maximum AGCH queue length.
+GSM.AGCH.QMax 5
+
+# The uplink RSSI target for closed loop power control.
+# For a "naked" USRP, this should be around -15 dB.
+GSM.RSSITarget -15
+
+# Number of channels reserved for paging responses.
+# This is useful to insure paging response bandwidth when LUR loads are very high,
+# but for most applications should just be zero.
+GSM.PagingReservations 0
+
+# Maximum internal FIFO latency, in vocoder frames.
+# Trade-off is dropped frames vs. delay.
+GSM.MaxSpeechLatency 2
+
+#
+# CLI paramters
+#
+
+CLI.Prompt OpenBTS> 
+
+
+
+

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/range/!svn/ver/6546/software/public/smqueue/tags/rP3.1.3/debian
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/range/!svn/ver/6546/software/public/smqueue/tags/rP3.1.3/debian/control
+END
+postinst
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/6545/software/public/smqueue/tags/rP3.1.3/debian/postinst
+END
+postrm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/range/!svn/ver/6545/software/public/smqueue/tags/rP3.1.3/debian/postrm
+END
+preinst
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/range/!svn/ver/6545/software/public/smqueue/tags/rP3.1.3/debian/preinst
+END
+prerm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/range/!svn/ver/6545/software/public/smqueue/tags/rP3.1.3/debian/prerm
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/6546/software/public/smqueue/tags/rP3.1.3/debian/changelog
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/range/!svn/ver/6545/software/public/smqueue/tags/rP3.1.3/debian/rules
+END

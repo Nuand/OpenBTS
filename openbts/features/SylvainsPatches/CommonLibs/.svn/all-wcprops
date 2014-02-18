@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/CommonLibs
+END
+LogTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/CommonLibs/LogTest.cpp
+END
+Logger.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/CommonLibs/Logger.h
+END
+LinkedLists.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/CommonLibs/LinkedLists.cpp
+END
+URLEncode.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/CommonLibs/URLEncode.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/CommonLibs/Makefile.am
+END
+LinkedLists.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/CommonLibs/LinkedLists.h
+END
+RegexpTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/CommonLibs/RegexpTest.cpp
+END
+Threads.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/CommonLibs/Threads.cpp
+END
+F16Test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/CommonLibs/F16Test.cpp
+END
+Regexp.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/CommonLibs/Regexp.h
+END
+Threads.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/CommonLibs/Threads.h
+END
+F16.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/CommonLibs/F16.h
+END
+BitVectorTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/CommonLibs/BitVectorTest.cpp
+END
+BitVector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/CommonLibs/BitVector.cpp
+END
+Timeval.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/CommonLibs/Timeval.cpp
+END
+TimevalTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/CommonLibs/TimevalTest.cpp
+END
+VectorTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/CommonLibs/VectorTest.cpp
+END
+BitVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/CommonLibs/BitVector.h
+END
+Timeval.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/CommonLibs/Timeval.h
+END
+ConfigurationTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/CommonLibs/ConfigurationTest.cpp
+END
+Configuration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/CommonLibs/Configuration.cpp
+END
+Vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/CommonLibs/Vector.h
+END
+InterthreadTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/CommonLibs/InterthreadTest.cpp
+END
+Sockets.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/CommonLibs/Sockets.cpp
+END
+SocketsTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/CommonLibs/SocketsTest.cpp
+END
+Configuration.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/CommonLibs/Configuration.h
+END
+Interthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/CommonLibs/Interthread.h
+END
+Logger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/CommonLibs/Logger.cpp
+END
+Sockets.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/CommonLibs/Sockets.h
+END
+URLEncode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/CommonLibs/URLEncode.cpp
+END

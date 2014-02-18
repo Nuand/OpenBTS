@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/range/!svn/ver/6574/software/public/subscriberRegistry/trunk/debian
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/debian/control
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/5900/software/public/subscriberRegistry/trunk/debian/compat
+END
+postinst
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/6574/software/public/subscriberRegistry/trunk/debian/postinst
+END
+postrm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/5897/software/public/subscriberRegistry/trunk/debian/postrm
+END
+preinst
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/range/!svn/ver/5897/software/public/subscriberRegistry/trunk/debian/preinst
+END
+prerm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/debian/prerm
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/debian/changelog
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/5897/software/public/subscriberRegistry/trunk/debian/rules
+END

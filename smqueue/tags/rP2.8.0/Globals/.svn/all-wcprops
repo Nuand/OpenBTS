@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/range/!svn/ver/2310/software/public/smqueue/tags/rP2.8.0/Globals
+END
+Globals.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/Globals/Globals.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/2302/software/public/smqueue/tags/rP2.8.0/Globals/Makefile.am
+END
+Globals.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/Globals/Globals.cpp
+END

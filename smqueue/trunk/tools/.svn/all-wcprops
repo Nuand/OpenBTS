@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/range/!svn/ver/6497/software/public/smqueue/trunk/tools
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/range/!svn/ver/6167/software/public/smqueue/trunk/tools/README
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/range/!svn/ver/6167/software/public/smqueue/trunk/tools/Makefile.am
+END

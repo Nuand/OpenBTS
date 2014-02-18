@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/range/!svn/ver/6514/software/public/smqueue/branches/P3.1/testing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/6514/software/public/smqueue/branches/P3.1/testing/Makefile.am
+END
+smrelaytest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/6514/software/public/smqueue/branches/P3.1/testing/smrelaytest.cpp
+END
+smtest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/6514/software/public/smqueue/branches/P3.1/testing/smtest.cpp
+END
+sminterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/6514/software/public/smqueue/branches/P3.1/testing/sminterface.cpp
+END
+smrelaytest.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/range/!svn/ver/6514/software/public/smqueue/branches/P3.1/testing/smrelaytest.h
+END
+smtest.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/6514/software/public/smqueue/branches/P3.1/testing/smtest.h
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/range/!svn/ver/2309/software/public/openbts/tags/rP2.8.0/Control
+END
+DCCHDispatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/Control/DCCHDispatch.cpp
+END
+CallControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/2305/software/public/openbts/tags/rP2.8.0/Control/CallControl.h
+END
+TMSITable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/Control/TMSITable.cpp
+END
+MobilityManagement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/Control/MobilityManagement.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/Control/Makefile.am
+END
+TMSITable.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/2305/software/public/openbts/tags/rP2.8.0/Control/TMSITable.h
+END
+ControlCommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/Control/ControlCommon.cpp
+END
+MobilityManagement.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/range/!svn/ver/2305/software/public/openbts/tags/rP2.8.0/Control/MobilityManagement.h
+END
+README.Control
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/Control/README.Control
+END
+TransactionTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/Control/TransactionTable.cpp
+END
+ControlCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/2305/software/public/openbts/tags/rP2.8.0/Control/ControlCommon.h
+END
+TransactionTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/range/!svn/ver/2305/software/public/openbts/tags/rP2.8.0/Control/TransactionTable.h
+END
+SMSControl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/Control/SMSControl.cpp
+END
+RadioResource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/Control/RadioResource.cpp
+END
+SMSControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/2305/software/public/openbts/tags/rP2.8.0/Control/SMSControl.h
+END
+RadioResource.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/2305/software/public/openbts/tags/rP2.8.0/Control/RadioResource.h
+END
+CallControl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/Control/CallControl.cpp
+END

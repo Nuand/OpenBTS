@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/TRXManager
+END
+README.TRXManager
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/TRXManager/README.TRXManager
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/TRXManager/Makefile.am
+END
+TRXManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/TRXManager/TRXManager.cpp
+END
+clockdump.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/TRXManager/clockdump.sh
+END
+TRXManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/TRXManager/TRXManager.h
+END

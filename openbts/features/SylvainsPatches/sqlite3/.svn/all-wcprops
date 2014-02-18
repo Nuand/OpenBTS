@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/sqlite3
+END
+sqlite3util.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/sqlite3/sqlite3util.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/sqlite3/Makefile.am
+END
+sqlite3.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/sqlite3/sqlite3.h
+END
+sqlite3ext.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/sqlite3/sqlite3ext.h
+END
+sqlite3util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/sqlite3/sqlite3util.cpp
+END
+sqlite3.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/sqlite3/sqlite3.c
+END

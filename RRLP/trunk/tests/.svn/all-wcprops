@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/range/!svn/ver/2254/software/public/RRLP/trunk/tests
+END
+temp.per
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/range/!svn/ver/2254/software/public/RRLP/trunk/tests/temp.per
+END
+runtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/range/!svn/ver/2254/software/public/RRLP/trunk/tests/runtest.py
+END
+good_pos.per
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/range/!svn/ver/2254/software/public/RRLP/trunk/tests/good_pos.per
+END
+additional_assitance_data.per
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/2254/software/public/RRLP/trunk/tests/additional_assitance_data.per
+END
+ms_based.per
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/range/!svn/ver/2254/software/public/RRLP/trunk/tests/ms_based.per
+END

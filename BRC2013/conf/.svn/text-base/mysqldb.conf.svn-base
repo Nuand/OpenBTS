@@ -1,0 +1,6 @@
+[bman]
+host=localhost
+database=bman
+user=bman
+password=bmanpass
+poolsize=3

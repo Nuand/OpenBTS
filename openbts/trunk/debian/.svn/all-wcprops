@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/range/!svn/ver/6711/software/public/openbts/trunk/debian
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/debian/changelog
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/debian/rules
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/range/!svn/ver/6711/software/public/openbts/trunk/debian/control
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/range/!svn/ver/5900/software/public/openbts/trunk/debian/compat
+END
+postinst
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/debian/postinst
+END
+postrm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/range/!svn/ver/5895/software/public/openbts/trunk/debian/postrm
+END
+preinst
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/debian/preinst
+END
+prerm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/range/!svn/ver/5903/software/public/openbts/trunk/debian/prerm
+END

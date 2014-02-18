@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/range/!svn/ver/2310/software/public/smqueue/tags/rP2.8.0/CommonLibs
+END
+SocketsTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/CommonLibs/SocketsTest.cpp
+END
+Sockets.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/CommonLibs/Sockets.cpp
+END
+Configuration.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/CommonLibs/Configuration.h
+END
+example.config
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/2302/software/public/smqueue/tags/rP2.8.0/CommonLibs/example.config
+END
+Interthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/CommonLibs/Interthread.h
+END
+Logger.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/CommonLibs/Logger.h
+END
+URLEncode.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/range/!svn/ver/2302/software/public/smqueue/tags/rP2.8.0/CommonLibs/URLEncode.h
+END
+RegexpTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/CommonLibs/RegexpTest.cpp
+END
+Threads.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/CommonLibs/Threads.cpp
+END
+LinkedLists.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/CommonLibs/LinkedLists.h
+END
+Timeval.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/CommonLibs/Timeval.cpp
+END
+TimevalTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/CommonLibs/TimevalTest.cpp
+END
+BitVector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/CommonLibs/BitVector.cpp
+END
+F16.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/CommonLibs/F16.h
+END
+BitVectorTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/CommonLibs/BitVectorTest.cpp
+END
+Configuration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/CommonLibs/Configuration.cpp
+END
+ConfigurationTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/CommonLibs/ConfigurationTest.cpp
+END
+Vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/CommonLibs/Vector.h
+END
+InterthreadTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/CommonLibs/InterthreadTest.cpp
+END
+Logger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/CommonLibs/Logger.cpp
+END
+URLEncodeTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/range/!svn/ver/2302/software/public/smqueue/tags/rP2.8.0/CommonLibs/URLEncodeTest.cpp
+END
+URLEncode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/CommonLibs/URLEncode.cpp
+END
+Sockets.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/CommonLibs/Sockets.h
+END
+LogTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/CommonLibs/LogTest.cpp
+END
+LinkedLists.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/CommonLibs/LinkedLists.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/range/!svn/ver/2302/software/public/smqueue/tags/rP2.8.0/CommonLibs/Makefile.am
+END
+F16Test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/CommonLibs/F16Test.cpp
+END
+Threads.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/CommonLibs/Threads.h
+END
+Regexp.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/CommonLibs/Regexp.h
+END
+VectorTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/CommonLibs/VectorTest.cpp
+END
+README.common
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/2302/software/public/smqueue/tags/rP2.8.0/CommonLibs/README.common
+END
+Timeval.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/CommonLibs/Timeval.h
+END
+BitVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/CommonLibs/BitVector.h
+END

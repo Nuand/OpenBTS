@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Control
+END
+TransactionTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Control/TransactionTable.cpp
+END
+ControlCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Control/ControlCommon.h
+END
+TransactionTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Control/TransactionTable.h
+END
+SMSControl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Control/SMSControl.cpp
+END
+RadioResource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Control/RadioResource.cpp
+END
+SMSControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Control/SMSControl.h
+END
+RadioResource.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Control/RadioResource.h
+END
+CallControl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Control/CallControl.cpp
+END
+DCCHDispatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Control/DCCHDispatch.cpp
+END
+CallControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Control/CallControl.h
+END
+TMSITable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Control/TMSITable.cpp
+END
+MobilityManagement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Control/MobilityManagement.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Control/Makefile.am
+END
+TMSITable.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Control/TMSITable.h
+END
+ControlCommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Control/ControlCommon.cpp
+END
+MobilityManagement.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Control/MobilityManagement.h
+END
+README.Control
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Control/README.Control
+END

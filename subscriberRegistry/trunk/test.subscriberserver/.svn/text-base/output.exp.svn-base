@@ -1,0 +1,133 @@
+Fri Mar 18 16:47:36 PDT 2011
+Content-Type: text
+
+servershare.cpp:-0-:decodeQuery: REQUEST_METHOD = GET
+servershare.cpp:-0-:decodeQuery: QUERY_STRING = req=sql&stmts=insert into sip_buddies (name) values ("newname")
+subscriberserver.cpp:-0-:logQuery: query
+subscriberserver.cpp:-0-:logQuery:    req -> sql
+subscriberserver.cpp:-0-:logQuery:    stmts -> insert into sip_buddies (name) values ("newname")
+subscriberserver.cpp:-0-:logResponse: response
+IMSI12345678901231|hexhexhexhexhexhexhexhexhexh1000|||
+IMSI12345678901232||||
+IMSI12345678901233|||hexhexhexhexhexhexhexhexhexh1000|
+newname||||
+Content-Type: text
+
+res=IMSI12345678901232
+servershare.cpp:-0-:decodeQuery: REQUEST_METHOD = GET
+servershare.cpp:-0-:decodeQuery: QUERY_STRING = req=sql&stmts=select name from sip_buddies where id=2
+subscriberserver.cpp:-0-:logQuery: query
+subscriberserver.cpp:-0-:logQuery:    req -> sql
+subscriberserver.cpp:-0-:logQuery:    stmts -> select name from sip_buddies where id=2
+subscriberserver.cpp:-0-:logResponse: response
+subscriberserver.cpp:-0-:logResponse:    res=IMSI12345678901232
+IMSI12345678901231|hexhexhexhexhexhexhexhexhexh1000|||
+IMSI12345678901232||||
+IMSI12345678901233|||hexhexhexhexhexhexhexhexhexh1000|
+newname||||
+Content-Type: text
+
+rand=hexhexhexhexhexhexhexhexhexh1000
+imsi=IMSI12345678901231
+servershare.cpp:-0-:decodeQuery: REQUEST_METHOD = GET
+servershare.cpp:-0-:decodeQuery: QUERY_STRING = req=rand&imsi=IMSI12345678901231
+subscriberserver.cpp:-0-:logQuery: query
+subscriberserver.cpp:-0-:logQuery:    imsi -> IMSI12345678901231
+subscriberserver.cpp:-0-:logQuery:    req -> rand
+servershare.cpp:-0-:generateRand: ki is unknown, rand is cached
+subscriberserver.cpp:-0-:logResponse: response
+subscriberserver.cpp:-0-:logResponse:    rand=hexhexhexhexhexhexhexhexhexh1000
+subscriberserver.cpp:-0-:logResponse:    imsi=IMSI12345678901231
+IMSI12345678901231|hexhexhexhexhexhexhexhexhexh1000|||
+IMSI12345678901232||||
+IMSI12345678901233|||hexhexhexhexhexhexhexhexhexh1000|
+newname||||
+Content-Type: text
+
+rand=hexhexhexhexhexhexhexhexhexh1000
+imsi=IMSI12345678901231
+servershare.cpp:-0-:decodeQuery: REQUEST_METHOD = GET
+servershare.cpp:-0-:decodeQuery: QUERY_STRING = req=rand&imsi=IMSI12345678901231
+subscriberserver.cpp:-0-:logQuery: query
+subscriberserver.cpp:-0-:logQuery:    imsi -> IMSI12345678901231
+subscriberserver.cpp:-0-:logQuery:    req -> rand
+servershare.cpp:-0-:generateRand: ki is unknown, rand is cached
+subscriberserver.cpp:-0-:logResponse: response
+subscriberserver.cpp:-0-:logResponse:    rand=hexhexhexhexhexhexhexhexhexh1000
+subscriberserver.cpp:-0-:logResponse:    imsi=IMSI12345678901231
+IMSI12345678901231|hexhexhexhexhexhexhexhexhexh1000|||
+IMSI12345678901232||||
+IMSI12345678901233|||hexhexhexhexhexhexhexhexhexh1000|
+newname||||
+Content-Type: text
+
+rand=hexhexhexhexhexhexhexhexhexh1001
+imsi=IMSI12345678901232
+servershare.cpp:-0-:decodeQuery: REQUEST_METHOD = GET
+servershare.cpp:-0-:decodeQuery: QUERY_STRING = req=rand&imsi=IMSI12345678901232
+subscriberserver.cpp:-0-:logQuery: query
+subscriberserver.cpp:-0-:logQuery:    imsi -> IMSI12345678901232
+subscriberserver.cpp:-0-:logQuery:    req -> rand
+servershare.cpp:-0-:generateRand: ki is unknown, rand is not cached
+subscriberserver.cpp:-0-:logResponse: response
+subscriberserver.cpp:-0-:logResponse:    rand=hexhexhexhexhexhexhexhexhexh1001
+subscriberserver.cpp:-0-:logResponse:    imsi=IMSI12345678901232
+IMSI12345678901231|hexhexhexhexhexhexhexhexhexh1000|||
+IMSI12345678901232|hexhexhexhexhexhexhexhexhexh1001|||
+IMSI12345678901233|||hexhexhexhexhexhexhexhexhexh1000|
+newname||||
+Content-Type: text
+
+rand=hexhexhexhexhexhexhexhexhexh1001
+imsi=IMSI12345678901232
+servershare.cpp:-0-:decodeQuery: REQUEST_METHOD = GET
+servershare.cpp:-0-:decodeQuery: QUERY_STRING = req=rand&imsi=IMSI12345678901232
+subscriberserver.cpp:-0-:logQuery: query
+subscriberserver.cpp:-0-:logQuery:    imsi -> IMSI12345678901232
+subscriberserver.cpp:-0-:logQuery:    req -> rand
+servershare.cpp:-0-:generateRand: ki is unknown, rand is cached
+subscriberserver.cpp:-0-:logResponse: response
+subscriberserver.cpp:-0-:logResponse:    rand=hexhexhexhexhexhexhexhexhexh1001
+subscriberserver.cpp:-0-:logResponse:    imsi=IMSI12345678901232
+IMSI12345678901231|hexhexhexhexhexhexhexhexhexh1000|||
+IMSI12345678901232|hexhexhexhexhexhexhexhexhexh1001|||
+IMSI12345678901233|||hexhexhexhexhexhexhexhexhexh1000|
+newname||||
+Content-Type: text
+
+status=SUCCESS
+servershare.cpp:-0-:decodeQuery: REQUEST_METHOD = GET
+servershare.cpp:-0-:decodeQuery: QUERY_STRING = req=auth&imsi=IMSI12345678901233&rand=hexhexhexhexhexhexhexhexhexh1002&sres=hexh1003
+subscriberserver.cpp:-0-:logQuery: query
+subscriberserver.cpp:-0-:logQuery:    imsi -> IMSI12345678901233
+subscriberserver.cpp:-0-:logQuery:    rand -> hexhexhexhexhexhexhexhexhexh1002
+subscriberserver.cpp:-0-:logQuery:    req -> auth
+subscriberserver.cpp:-0-:logQuery:    sres -> hexh1003
+servershare.cpp:-0-:authenticate: ki known
+servershare.cpp:-0-:authenticate: result = hexh1003
+servershare.cpp:-0-:authenticate: returning = 1
+subscriberserver.cpp:-0-:logResponse: response
+subscriberserver.cpp:-0-:logResponse:    status=SUCCESS
+IMSI12345678901231|hexhexhexhexhexhexhexhexhexh1000|||
+IMSI12345678901232|hexhexhexhexhexhexhexhexhexh1001|||
+IMSI12345678901233|||hexhexhexhexhexhexhexhexhexh1000|
+newname||||
+Content-Type: text
+
+status=FAILURE
+servershare.cpp:-0-:decodeQuery: REQUEST_METHOD = GET
+servershare.cpp:-0-:decodeQuery: QUERY_STRING = req=auth&imsi=IMSI12345678901233&rand=hexhexhexhexhexhexhexhexhexh1002&sres=hexh1004
+subscriberserver.cpp:-0-:logQuery: query
+subscriberserver.cpp:-0-:logQuery:    imsi -> IMSI12345678901233
+subscriberserver.cpp:-0-:logQuery:    rand -> hexhexhexhexhexhexhexhexhexh1002
+subscriberserver.cpp:-0-:logQuery:    req -> auth
+subscriberserver.cpp:-0-:logQuery:    sres -> hexh1004
+servershare.cpp:-0-:authenticate: ki known
+servershare.cpp:-0-:authenticate: result = hexh1003
+servershare.cpp:-0-:authenticate: returning = 0
+subscriberserver.cpp:-0-:logResponse: response
+subscriberserver.cpp:-0-:logResponse:    status=FAILURE
+IMSI12345678901231|hexhexhexhexhexhexhexhexhexh1000|||
+IMSI12345678901232|hexhexhexhexhexhexhexhexhexh1001|||
+IMSI12345678901233|||hexhexhexhexhexhexhexhexhexh1000|
+newname||||

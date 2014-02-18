@@ -1,0 +1,45 @@
+#!/usr/bin/env perl
+
+use strict;
+use warnings;
+
+# this normalizes things that are ok to change, like random numbers (which it numbers
+# in the order found to keep relative values correct), SRESs (ditto), dates, and PIDs.
+# And source code line numbers.
+
+my($hexN) = 1000;
+my(%mapping);
+
+sub hexmap {
+	my($in) = @_;
+	my($out) = $mapping{$in};
+	if (!defined($out)) {
+		$out = substr("hexhexhexhexhexhexhexhexhexhexhex", 0, length($in) - 4) . $hexN;
+		$mapping{$in} = $out;
+		$hexN++;
+	}
+	return $out;
+}
+
+sub main {
+	my($first) = 1;
+	while (<>) {
+		# normalize big (random) hex numbers
+		s/\b([0-9a-fA-F]{32})\b/&hexmap($1)/ge; # RAND and Ki size
+		s/\b([0-9a-fA-F]{24})\b/&hexmap($1)/ge; # simout size
+		s/\b([0-9a-fA-F]{8})\b/&hexmap($1)/ge;  # SRES size
+		# normalize dates
+		if ($first) {
+			$first = 0;
+		} else {
+			s/[A-Z][a-z][a-z] [A-Z][a-z][a-z] (\d| )\d \d\d:\d\d:\d\d (P[DS]T )?201\d/-DATE-/;
+		}
+		# normalize PIDs
+		s/(subscriberregistry\.[12])\.\d+/$1.-PID-/g;
+		# normalize source code line numbers
+		s/(\.cpp):(\d+):/$1:-0-:/;
+		print;
+	}
+}
+
+&main;

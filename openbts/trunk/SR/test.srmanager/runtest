@@ -1,0 +1,90 @@
+#!/bin/bash
+
+# start with a known state in DBs
+rm -f /etc/OpenBTS/OpenBTS.db test.db
+# initialize the config db
+sqlite3 /etc/OpenBTS/OpenBTS.db < srmanager.db.init
+chmod 666 /etc/OpenBTS/OpenBTS.db
+# initialize the SR db
+sqlite3 test.db < test.db.init
+# initialize the output file
+date > output.got
+
+# Each test below enters a mark in the syslog so we can extract only 
+# the log entries for that test.
+# Then it sets the environment variables (and stdin for POST) to duplicate
+# http state, then it runs the test.
+# Then it extracts the test's log entries.
+# On some it then dumps the SR database.
+
+# empty http get
+logger -plocal7.Debug dwb syslog mark
+REQUEST_METHOD=GET;
+export REQUEST_METHOD
+QUERY_STRING=
+export QUERY_STRING
+../srmanager.cgi >> output.got
+../syslogextractor >> output.got
+
+# http get for main page
+logger -plocal7.Debug dwb syslog mark
+REQUEST_METHOD=GET;
+export REQUEST_METHOD
+QUERY_STRING=what=Main
+export QUERY_STRING
+../srmanager.cgi >> output.got
+../syslogextractor >> output.got
+
+# empty http post
+logger -plocal7.Debug dwb syslog mark
+REQUEST_METHOD=POST;
+export REQUEST_METHOD
+CONTENT_LENGTH=0
+export CONTENT_LENGTH
+echo '' | ../srmanager.cgi >> output.got
+../syslogextractor >> output.got
+
+# http post for main page
+logger -plocal7.Debug dwb syslog mark
+REQUEST_METHOD=POST;
+export REQUEST_METHOD
+CONTENT_LENGTH=9
+export CONTENT_LENGTH
+echo 'what=Main' | ../srmanager.cgi >> output.got
+../syslogextractor >> output.got
+
+# http post for add
+logger -plocal7.Debug dwb syslog mark
+REQUEST_METHOD=POST;
+export REQUEST_METHOD
+CONTENT_LENGTH=55
+export CONTENT_LENGTH
+echo 'name=a&username=b&type=c&context=d&host=e&id=0&what=Add' | ../srmanager.cgi >> output.got
+../syslogextractor >> output.got
+sqlite3 test.db < ./query.sql >> output.got
+
+# http post for delete
+logger -plocal7.Debug dwb syslog mark
+REQUEST_METHOD=POST;
+export REQUEST_METHOD
+CONTENT_LENGTH=58
+export CONTENT_LENGTH
+echo 'name=a&username=b&type=c&context=d&host=e&id=9&what=Delete' | ../srmanager.cgi >> output.got
+../syslogextractor >> output.got
+sqlite3 test.db < ./query.sql >> output.got
+
+# http post for update
+logger -plocal7.Debug dwb syslog mark
+REQUEST_METHOD=POST;
+export REQUEST_METHOD
+CONTENT_LENGTH=35
+export CONTENT_LENGTH
+echo 'exten=qrs&dial=tuv&id=1&what=Update' | ../srmanager.cgi >> output.got
+../syslogextractor >> output.got
+sqlite3 test.db < ./query.sql >> output.got
+
+# normalize the output file for diffing
+mv output.got ootput.got
+../hexmapper ootput.got > output.got
+diff output.exp output.got
+exit 0

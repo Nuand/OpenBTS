@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0
+END
+MAP-CH-DataTypes.asn
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/MAP-CH-DataTypes.asn
+END
+RRLP-Components.asn
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/RRLP-Components.asn
+END
+rrtest
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/rrtest
+END
+decode
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/decode
+END
+parseargsbody.erl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/parseargsbody.erl
+END
+MAP-ExtensionDataTypes.asn
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/MAP-ExtensionDataTypes.asn
+END
+rrlpserver.erl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/rrlpserver.erl
+END
+MAP-SS-Code.asn
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/MAP-SS-Code.asn
+END
+xrrlp.erl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/xrrlp.erl
+END
+MAP-TS-Code.asn
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/MAP-TS-Code.asn
+END
+MAP-ER-DataTypes.asn
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/MAP-ER-DataTypes.asn
+END
+sendrrlp.escript
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/sendrrlp.escript
+END
+MAP-OM-DataTypes.asn
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/MAP-OM-DataTypes.asn
+END
+RRLP-Messages.asn
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/RRLP-Messages.asn
+END
+MAP-MS-DataTypes.asn
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/MAP-MS-DataTypes.asn
+END
+MAP-SM-DataTypes.asn
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/MAP-SM-DataTypes.asn
+END
+rrlpserver.cgi
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/rrlpserver.cgi
+END
+MAP-LCS-DataTypes.asn
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/MAP-LCS-DataTypes.asn
+END
+rrfake
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/rrfake
+END
+MAP-SS-DataTypes.asn
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/MAP-SS-DataTypes.asn
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/Makefile
+END
+testall.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/testall.sh
+END
+send_many_rrlp.escript
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/send_many_rrlp.escript
+END
+sendrrlpbody.erl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/sendrrlpbody.erl
+END
+RRLP.set.asn
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/RRLP.set.asn
+END
+testall.erl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/testall.erl
+END
+MAP-Protocol.asn
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/MAP-Protocol.asn
+END
+setUpFiles.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/setUpFiles.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/README
+END
+util.erl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/util.erl
+END
+parseargs.escript
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/parseargs.escript
+END
+log2per.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/log2per.py
+END
+MAP-CommonDataTypes.asn
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/MAP-CommonDataTypes.asn
+END
+file2bin.escript
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/file2bin.escript
+END
+MAP-BS-Code.asn
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/MAP-BS-Code.asn
+END

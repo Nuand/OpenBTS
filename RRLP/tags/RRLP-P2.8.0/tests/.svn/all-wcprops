@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/tests
+END
+temp.per
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/tests/temp.per
+END
+runtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/tests/runtest.py
+END
+good_pos.per
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/tests/good_pos.per
+END
+additional_assitance_data.per
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/tests/additional_assitance_data.per
+END
+ms_based.per
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/2304/software/public/RRLP/tags/RRLP-P2.8.0/tests/ms_based.per
+END

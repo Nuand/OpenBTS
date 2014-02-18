@@ -1,0 +1,8 @@
+[general]
+scripts_dir=/usr/src/bman/scripts
+
+
+[scripts]
+bman_regist=bman_regist.js
+sms_cache_txt=sms_cache_txt.js
+bman_route=bman_route.js

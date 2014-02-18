@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CommonLibs
+END
+Interthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CommonLibs/Interthread.h
+END
+Logger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CommonLibs/Logger.cpp
+END
+Threads.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CommonLibs/Threads.cpp
+END
+LinkedLists.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CommonLibs/LinkedLists.h
+END
+Regexp.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CommonLibs/Regexp.h
+END
+TimevalTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CommonLibs/TimevalTest.cpp
+END
+Timeval.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CommonLibs/Timeval.cpp
+END
+BitVector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CommonLibs/BitVector.cpp
+END
+BitVectorTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CommonLibs/BitVectorTest.cpp
+END
+F16.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CommonLibs/F16.h
+END
+VectorTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CommonLibs/VectorTest.cpp
+END
+Configuration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CommonLibs/Configuration.cpp
+END
+ConfigurationTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CommonLibs/ConfigurationTest.cpp
+END
+InterthreadTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CommonLibs/InterthreadTest.cpp
+END
+example.config
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CommonLibs/example.config
+END
+Sockets.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CommonLibs/Sockets.h
+END
+LogTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CommonLibs/LogTest.cpp
+END
+Logger.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CommonLibs/Logger.h
+END
+LinkedLists.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CommonLibs/LinkedLists.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CommonLibs/Makefile.am
+END
+RegexpTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CommonLibs/RegexpTest.cpp
+END
+F16Test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CommonLibs/F16Test.cpp
+END
+Threads.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CommonLibs/Threads.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CommonLibs/Makefile.in
+END
+README.common
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CommonLibs/README.common
+END
+Timeval.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CommonLibs/Timeval.h
+END
+BitVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CommonLibs/BitVector.h
+END
+Vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CommonLibs/Vector.h
+END
+SocketsTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CommonLibs/SocketsTest.cpp
+END
+Sockets.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CommonLibs/Sockets.cpp
+END
+Configuration.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CommonLibs/Configuration.h
+END

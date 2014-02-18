@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/range/!svn/ver/2310/software/public/smqueue/tags/rP2.8.0/sqlite3
+END
+sqlite3util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/sqlite3/sqlite3util.cpp
+END
+sqlite3.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/2302/software/public/smqueue/tags/rP2.8.0/sqlite3/sqlite3.c
+END
+sqlite3util.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/2302/software/public/smqueue/tags/rP2.8.0/sqlite3/sqlite3util.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/2302/software/public/smqueue/tags/rP2.8.0/sqlite3/Makefile.am
+END
+sqlite3.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/2302/software/public/smqueue/tags/rP2.8.0/sqlite3/sqlite3.h
+END
+sqlite3ext.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/2302/software/public/smqueue/tags/rP2.8.0/sqlite3/sqlite3ext.h
+END

@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 117
+._*
+.deps
+Makefile
+Makefile.in
+RAD1SN
+RAD1RxRawPower
+sigProcLibTest
+RAD1ping
+transceiver
+RAD1RxRawPowerSweep
+RAD1Cmd
+
+END

@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/2319/software/public/openbts/features/SylvainsPatches/GSM
+END
+GSMLogicalChannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/GSM/GSMLogicalChannel.h
+END
+PhysicalStatus.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/GSM/PhysicalStatus.cpp
+END
+GSML3MMElements.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/GSM/GSML3MMElements.h
+END
+GSMConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/GSM/GSMConfig.h
+END
+GSMTAPDump.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/range/!svn/ver/2319/software/public/openbts/features/SylvainsPatches/GSM/GSMTAPDump.h
+END
+GSML3RRMessages.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/GSM/GSML3RRMessages.h
+END
+GSML3RRElements.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/GSM/GSML3RRElements.cpp
+END
+PowerManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/GSM/PowerManager.cpp
+END
+GSML3CCElements.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/GSM/GSML3CCElements.cpp
+END
+GSML3CCMessages.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/GSM/GSML3CCMessages.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/GSM/Makefile.am
+END
+GSMSAPMux.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/GSM/GSMSAPMux.h
+END
+GSMTDMA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/range/!svn/ver/2316/software/public/openbts/features/SylvainsPatches/GSM/GSMTDMA.cpp
+END
+GSML3Message.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/GSM/GSML3Message.h
+END
+GSMCommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/GSM/GSMCommon.cpp
+END
+GSML3CommonElements.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/GSM/GSML3CommonElements.h
+END
+GSMTransfer.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/GSM/GSMTransfer.h
+END
+gsmtap.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/2319/software/public/openbts/features/SylvainsPatches/GSM/gsmtap.h
+END
+GSML2LAPDm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/GSM/GSML2LAPDm.cpp
+END
+GSML1FEC.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/range/!svn/ver/2318/software/public/openbts/features/SylvainsPatches/GSM/GSML1FEC.h
+END
+GSM610Tables.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/GSM/GSM610Tables.cpp
+END
+GSMLogicalChannel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/GSM/GSMLogicalChannel.cpp
+END
+GSML3MMMessages.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/GSM/GSML3MMMessages.h
+END
+GSML3MMElements.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/GSM/GSML3MMElements.cpp
+END
+GSMConfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/GSM/GSMConfig.cpp
+END
+GSMTAPDump.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/range/!svn/ver/2319/software/public/openbts/features/SylvainsPatches/GSM/GSMTAPDump.cpp
+END
+GSML3RRMessages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/GSM/GSML3RRMessages.cpp
+END
+GSML3CCMessages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/GSM/GSML3CCMessages.cpp
+END
+GSMSAPMux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/GSM/GSMSAPMux.cpp
+END
+PhysicalStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/GSM/PhysicalStatus.h
+END
+GSML3Message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/GSM/GSML3Message.cpp
+END
+GSML3RRElements.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/GSM/GSML3RRElements.h
+END
+GSML3CommonElements.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/GSM/GSML3CommonElements.cpp
+END
+GSMTransfer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/GSM/GSMTransfer.cpp
+END
+PowerManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/GSM/PowerManager.h
+END
+GSML3CCElements.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/GSM/GSML3CCElements.h
+END
+GSML1FEC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/range/!svn/ver/2319/software/public/openbts/features/SylvainsPatches/GSM/GSML1FEC.cpp
+END
+GSMTDMA.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/GSM/GSMTDMA.h
+END
+GSMCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/range/!svn/ver/2316/software/public/openbts/features/SylvainsPatches/GSM/GSMCommon.h
+END
+GSML3MMMessages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/GSM/GSML3MMMessages.cpp
+END
+GSML2LAPDm.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/GSM/GSML2LAPDm.h
+END
+GSM610Tables.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/GSM/GSM610Tables.h
+END

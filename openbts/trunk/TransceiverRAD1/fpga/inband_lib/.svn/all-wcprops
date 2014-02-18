@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/inband_lib
+END
+channel_demux.v
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/inband_lib/channel_demux.v
+END
+register_io.v
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/inband_lib/register_io.v
+END
+packet_builder.v
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/inband_lib/packet_builder.v
+END
+rx_buffer_inband.v
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/inband_lib/rx_buffer_inband.v
+END
+chan_fifo_reader.v
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/inband_lib/chan_fifo_reader.v
+END
+usb_fifo_reader.v
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/inband_lib/usb_fifo_reader.v
+END
+tx_buffer_inband.v
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/inband_lib/tx_buffer_inband.v
+END
+tx_packer.v
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/inband_lib/tx_packer.v
+END
+data_packet_fifo.v
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/inband_lib/data_packet_fifo.v
+END
+usb_packet_fifo.v
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/inband_lib/usb_packet_fifo.v
+END
+cmd_reader.v
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/inband_lib/cmd_reader.v
+END
+test_comparator.v
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/inband_lib/test_comparator.v
+END
+channel_ram.v
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/inband_lib/channel_ram.v
+END
+usb_fifo_writer.v
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/inband_lib/usb_fifo_writer.v
+END

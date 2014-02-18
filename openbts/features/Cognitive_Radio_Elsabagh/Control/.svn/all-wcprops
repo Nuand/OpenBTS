@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/Control
+END
+CollectMSInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/Control/CollectMSInfo.cpp
+END
+DCCHDispatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/Control/DCCHDispatch.cpp
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/Control/Makefile.in
+END
+SMSControl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/Control/SMSControl.cpp
+END
+MobilityManagement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/Control/MobilityManagement.cpp
+END
+CollectMSInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/Control/CollectMSInfo.h
+END
+RadioResource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/Control/RadioResource.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/Control/Makefile.am
+END
+ControlCommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/Control/ControlCommon.cpp
+END
+RRLPQueryController.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/Control/RRLPQueryController.cpp
+END
+README.Control
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/Control/README.Control
+END
+CallControl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/Control/CallControl.cpp
+END
+ControlCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/Control/ControlCommon.h
+END
+RRLPQueryController.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/Control/RRLPQueryController.h
+END

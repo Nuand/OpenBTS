@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/Peering
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/Peering/Makefile.am
+END
+Peering.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/Peering/Peering.cpp
+END
+NeighborTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/Peering/NeighborTable.h
+END
+Peering.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/Peering/Peering.h
+END
+NeighborTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/Peering/NeighborTable.cpp
+END

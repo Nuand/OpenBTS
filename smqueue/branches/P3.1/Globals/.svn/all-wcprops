@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/range/!svn/ver/6514/software/public/smqueue/branches/P3.1/Globals
+END
+Globals.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/6514/software/public/smqueue/branches/P3.1/Globals/Globals.cpp
+END
+Globals.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/range/!svn/ver/6514/software/public/smqueue/branches/P3.1/Globals/Globals.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/6514/software/public/smqueue/branches/P3.1/Globals/Makefile.am
+END

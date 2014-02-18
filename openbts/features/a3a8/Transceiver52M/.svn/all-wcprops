@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Transceiver52M
+END
+sigProcLib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Transceiver52M/sigProcLib.cpp
+END
+sigProcLibTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Transceiver52M/sigProcLibTest.cpp
+END
+DummyLoad.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Transceiver52M/DummyLoad.h
+END
+sigProcLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Transceiver52M/sigProcLib.h
+END
+USRPping.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Transceiver52M/USRPping.cpp
+END
+USRPDevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Transceiver52M/USRPDevice.cpp
+END
+inband-signaling-usb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Transceiver52M/inband-signaling-usb
+END
+runTransceiver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Transceiver52M/runTransceiver.cpp
+END
+pulseApproximate.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Transceiver52M/pulseApproximate.m
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Transceiver52M/README
+END
+Complex.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Transceiver52M/Complex.h
+END
+USRPDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Transceiver52M/USRPDevice.h
+END
+radioInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Transceiver52M/radioInterface.cpp
+END
+README.DFEsymbolspaced
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Transceiver52M/README.DFEsymbolspaced
+END
+radioDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Transceiver52M/radioDevice.h
+END
+radioInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Transceiver52M/radioInterface.h
+END
+Transceiver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Transceiver52M/Transceiver.cpp
+END
+README.Talgorithm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Transceiver52M/README.Talgorithm
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Transceiver52M/Makefile.am
+END
+Transceiver.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Transceiver52M/Transceiver.h
+END
+DummyLoad.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Transceiver52M/DummyLoad.cpp
+END
+std_inband.rbf
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/Transceiver52M/std_inband.rbf
+END

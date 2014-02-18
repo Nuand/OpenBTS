@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/range/!svn/ver/2310/software/public/smqueue/tags/rP2.8.0/SMS
+END
+SMSTransfer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/SMS/SMSTransfer.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/2302/software/public/smqueue/tags/rP2.8.0/SMS/Makefile.am
+END
+SMSMessages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/SMS/SMSMessages.cpp
+END
+SMSTransfer.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/SMS/SMSTransfer.h
+END
+SMSMessages.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/2305/software/public/smqueue/tags/rP2.8.0/SMS/SMSMessages.h
+END

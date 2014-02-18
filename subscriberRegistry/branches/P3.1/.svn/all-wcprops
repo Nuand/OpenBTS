@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/range/!svn/ver/6597/software/public/subscriberRegistry/branches/P3.1
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/6512/software/public/subscriberRegistry/branches/P3.1/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/6512/software/public/subscriberRegistry/branches/P3.1/Makefile.am
+END
+svn.externals
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/6512/software/public/subscriberRegistry/branches/P3.1/svn.externals
+END
+comp128.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/6512/software/public/subscriberRegistry/branches/P3.1/comp128.c
+END
+servershare.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/range/!svn/ver/6513/software/public/subscriberRegistry/branches/P3.1/servershare.cpp
+END
+subscriberserver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/range/!svn/ver/6512/software/public/subscriberRegistry/branches/P3.1/subscriberserver.cpp
+END
+syslogextractor
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/range/!svn/ver/6512/software/public/subscriberRegistry/branches/P3.1/syslogextractor
+END
+SubscriberRegistry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/range/!svn/ver/6597/software/public/subscriberRegistry/branches/P3.1/SubscriberRegistry.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/6512/software/public/subscriberRegistry/branches/P3.1/Makefile
+END
+servershare.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/6512/software/public/subscriberRegistry/branches/P3.1/servershare.h
+END
+SubscriberRegistry.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/range/!svn/ver/6512/software/public/subscriberRegistry/branches/P3.1/SubscriberRegistry.h
+END
+subscriberRegistry.example.sql
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/range/!svn/ver/6513/software/public/subscriberRegistry/branches/P3.1/subscriberRegistry.example.sql
+END
+runloop.sipauthserve.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/6512/software/public/subscriberRegistry/branches/P3.1/runloop.sipauthserve.sh
+END
+hexmapper
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/6512/software/public/subscriberRegistry/branches/P3.1/hexmapper
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/6512/software/public/subscriberRegistry/branches/P3.1/config.h
+END
+srmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/6512/software/public/subscriberRegistry/branches/P3.1/srmanager.cpp
+END
+sipauthserve.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/range/!svn/ver/6513/software/public/subscriberRegistry/branches/P3.1/sipauthserve.cpp
+END

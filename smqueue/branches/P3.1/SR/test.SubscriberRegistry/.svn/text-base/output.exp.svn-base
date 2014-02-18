@@ -1,0 +1,127 @@
+Thu Apr 21 20:36:23 PDT 2011
+../SubscriberRegistry.cpp:-0-:addUser: addUser(imsi,clid)
+../SubscriberRegistry.cpp:-0-:sqlUpdate: insert into sip_buddies (name, username, type, context, host, callerid, canreinvite, allow, dtmfmode) values ("imsi","imsi","friend","phones","dynamic","clid","no","gsm","info");
+../SubscriberRegistry.cpp:-0-:sqlLocal: insert into sip_buddies (name, username, type, context, host, callerid, canreinvite, allow, dtmfmode) values ("imsi","imsi","friend","phones","dynamic","clid","no","gsm","info");
+../SubscriberRegistry.cpp:-0-:sqlHttp: insert into sip_buddies (name, username, type, context, host, callerid, canreinvite, allow, dtmfmode) values ("imsi","imsi","friend","phones","dynamic","clid","no","gsm","info");
+../SubscriberRegistry.cpp:-0-:sqlUpdate: insert into dialdata_table (exten, dial) values ("clid","imsi")
+../SubscriberRegistry.cpp:-0-:sqlLocal: insert into dialdata_table (exten, dial) values ("clid","imsi")
+../SubscriberRegistry.cpp:-0-:sqlHttp: insert into dialdata_table (exten, dial) values ("clid","imsi")
+../SubscriberRegistry.cpp:-0-:getCLIDLocal: getCLIDLocal(imsi)
+../SubscriberRegistry.cpp:-0-:sqlLocal: select callerid from sip_buddies where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlQuery: result = clid
+../SubscriberRegistry.cpp:-0-:getIMSI: getIMSI(clid)
+../SubscriberRegistry.cpp:-0-:sqlLocal: select dial from dialdata_table where exten = "clid"
+../SubscriberRegistry.cpp:-0-:sqlQuery: result = imsi
+../SubscriberRegistry.cpp:-0-:getCLIDLocal: getCLIDLocal(imsi_unknown)
+../SubscriberRegistry.cpp:-0-:sqlLocal: select callerid from sip_buddies where name = "imsi_unknown"
+../SubscriberRegistry.cpp:-0-:sqlHttp: select callerid from sip_buddies where name = "imsi_unknown"
+../SubscriberRegistry.cpp:-0-:sqlQuery: not found
+../SubscriberRegistry.cpp:-0-:getRandForAuthentication: getRandForAuthentication(imsi_r1)
+../SubscriberRegistry.cpp:-0-:log: imsi=imsi_r1&req=rand
+../SubscriberRegistry.cpp:-0-:authenticate: authenticate(imsi_a1,rand_a1,sres_a1)
+../SubscriberRegistry.cpp:-0-:log: imsi=imsi_a1&rand=rand_a1&req=auth&sres=sres_a1
+test.cpp:-0-:foo: hexh1000 hexh1000
+test.cpp:-0-:foo: hexh1001 hexh1001
+test.cpp:-0-:foo: hexh1002 hexh1002
+test.cpp:-0-:foo: hexh1003 hexh1003
+test.cpp:-0-:foo: hexhexhexhexhexhexhexhexhexh1004 hexhexhexhexhexhexhexhexhexh1004
+test.cpp:-0-:foo: hexhexhexhexhexhexhexhexhexh1005 hexhexhexhexhexhexhexhexhexh1005
+test.cpp:-0-:foo: hexhexhexhexhexhexhexhexhexh1006 hexhexhexhexhexhexhexhexhexh1006
+../SubscriberRegistry.cpp:-0-:sqlUpdate: update sip_buddies set prepaid = 0 where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlLocal: update sip_buddies set prepaid = 0 where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlHttp: update sip_buddies set prepaid = 0 where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlLocal: select prepaid from sip_buddies where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlQuery: result = 0
+test.cpp:-0-:main: should be false 0
+../SubscriberRegistry.cpp:-0-:sqlUpdate: update sip_buddies set prepaid = 1 where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlLocal: update sip_buddies set prepaid = 1 where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlHttp: update sip_buddies set prepaid = 1 where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlLocal: select prepaid from sip_buddies where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlQuery: result = 1
+test.cpp:-0-:main: should be true 1
+../SubscriberRegistry.cpp:-0-:sqlUpdate: update sip_buddies set secondsRemaining = 100 where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlLocal: update sip_buddies set secondsRemaining = 100 where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlHttp: update sip_buddies set secondsRemaining = 100 where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlLocal: select secondsRemaining from sip_buddies where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlQuery: result = 100
+test.cpp:-0-:main: should be 100 100
+../SubscriberRegistry.cpp:-0-:sqlUpdate: update sip_buddies set secondsRemaining = secondsRemaining + -50 where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlLocal: update sip_buddies set secondsRemaining = secondsRemaining + -50 where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlHttp: update sip_buddies set secondsRemaining = secondsRemaining + -50 where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlLocal: select secondsRemaining from sip_buddies where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlQuery: result = 50
+test.cpp:-0-:main: should be 50 50
+../SubscriberRegistry.cpp:-0-:sqlUpdate: update sip_buddies set secondsRemaining = secondsRemaining + -100 where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlLocal: update sip_buddies set secondsRemaining = secondsRemaining + -100 where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlHttp: update sip_buddies set secondsRemaining = secondsRemaining + -100 where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlLocal: select secondsRemaining from sip_buddies where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlQuery: result = -50
+test.cpp:-0-:main: should be 0 0
+../SubscriberRegistry.cpp:-0-:addUser: addUser(imsi,clid)
+../SubscriberRegistry.cpp:-0-:sqlUpdate: insert into sip_buddies (name, username, type, context, host, callerid, canreinvite, allow, dtmfmode) values ("imsi","imsi","friend","phones","dynamic","clid","no","gsm","info");
+../SubscriberRegistry.cpp:-0-:sqlLocal: insert into sip_buddies (name, username, type, context, host, callerid, canreinvite, allow, dtmfmode) values ("imsi","imsi","friend","phones","dynamic","clid","no","gsm","info");
+../SubscriberRegistry.cpp:-0-:sqlHttp: insert into sip_buddies (name, username, type, context, host, callerid, canreinvite, allow, dtmfmode) values ("imsi","imsi","friend","phones","dynamic","clid","no","gsm","info");
+../SubscriberRegistry.cpp:-0-:http: curl -s --data-binary @/tmp/subscriberregistry.1.-PID- testing > /tmp/subscriberregistry.2.-PID-
+../SubscriberRegistry.cpp:-0-:sqlUpdate: insert into dialdata_table (exten, dial) values ("clid","imsi")
+../SubscriberRegistry.cpp:-0-:sqlLocal: insert into dialdata_table (exten, dial) values ("clid","imsi")
+../SubscriberRegistry.cpp:-0-:sqlHttp: insert into dialdata_table (exten, dial) values ("clid","imsi")
+../SubscriberRegistry.cpp:-0-:http: curl -s --data-binary @/tmp/subscriberregistry.1.-PID- testing > /tmp/subscriberregistry.2.-PID-
+../SubscriberRegistry.cpp:-0-:getCLIDLocal: getCLIDLocal(imsi)
+../SubscriberRegistry.cpp:-0-:sqlLocal: select callerid from sip_buddies where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlQuery: result = clid
+../SubscriberRegistry.cpp:-0-:getIMSI: getIMSI(clid)
+../SubscriberRegistry.cpp:-0-:sqlLocal: select dial from dialdata_table where exten = "clid"
+../SubscriberRegistry.cpp:-0-:sqlQuery: result = imsi
+../SubscriberRegistry.cpp:-0-:getCLIDLocal: getCLIDLocal(imsi_unknown)
+../SubscriberRegistry.cpp:-0-:sqlLocal: select callerid from sip_buddies where name = "imsi_unknown"
+../SubscriberRegistry.cpp:-0-:sqlHttp: select callerid from sip_buddies where name = "imsi_unknown"
+../SubscriberRegistry.cpp:-0-:http: curl -s --data-binary @/tmp/subscriberregistry.1.-PID- testing > /tmp/subscriberregistry.2.-PID-
+../SubscriberRegistry.cpp:-0-:sqlQuery: not found
+../SubscriberRegistry.cpp:-0-:getRandForAuthentication: getRandForAuthentication(imsi_r1)
+../SubscriberRegistry.cpp:-0-:log: imsi=imsi_r1&req=rand
+../SubscriberRegistry.cpp:-0-:http: curl -s --data-binary @/tmp/subscriberregistry.1.-PID- testing > /tmp/subscriberregistry.2.-PID-
+../SubscriberRegistry.cpp:-0-:authenticate: authenticate(imsi_a1,rand_a1,sres_a1)
+../SubscriberRegistry.cpp:-0-:log: imsi=imsi_a1&rand=rand_a1&req=auth&sres=sres_a1
+../SubscriberRegistry.cpp:-0-:http: curl -s --data-binary @/tmp/subscriberregistry.1.-PID- testing > /tmp/subscriberregistry.2.-PID-
+test.cpp:-0-:foo: hexh1000 hexh1000
+test.cpp:-0-:foo: hexh1001 hexh1001
+test.cpp:-0-:foo: hexh1002 hexh1002
+test.cpp:-0-:foo: hexh1003 hexh1003
+test.cpp:-0-:foo: hexhexhexhexhexhexhexhexhexh1004 hexhexhexhexhexhexhexhexhexh1004
+test.cpp:-0-:foo: hexhexhexhexhexhexhexhexhexh1005 hexhexhexhexhexhexhexhexhexh1005
+test.cpp:-0-:foo: hexhexhexhexhexhexhexhexhexh1006 hexhexhexhexhexhexhexhexhexh1006
+../SubscriberRegistry.cpp:-0-:sqlUpdate: update sip_buddies set prepaid = 0 where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlLocal: update sip_buddies set prepaid = 0 where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlHttp: update sip_buddies set prepaid = 0 where name = "imsi"
+../SubscriberRegistry.cpp:-0-:http: curl -s --data-binary @/tmp/subscriberregistry.1.-PID- testing > /tmp/subscriberregistry.2.-PID-
+../SubscriberRegistry.cpp:-0-:sqlLocal: select prepaid from sip_buddies where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlQuery: result = 0
+test.cpp:-0-:main: should be false 0
+../SubscriberRegistry.cpp:-0-:sqlUpdate: update sip_buddies set prepaid = 1 where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlLocal: update sip_buddies set prepaid = 1 where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlHttp: update sip_buddies set prepaid = 1 where name = "imsi"
+../SubscriberRegistry.cpp:-0-:http: curl -s --data-binary @/tmp/subscriberregistry.1.-PID- testing > /tmp/subscriberregistry.2.-PID-
+../SubscriberRegistry.cpp:-0-:sqlLocal: select prepaid from sip_buddies where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlQuery: result = 1
+test.cpp:-0-:main: should be true 1
+../SubscriberRegistry.cpp:-0-:sqlUpdate: update sip_buddies set secondsRemaining = 100 where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlLocal: update sip_buddies set secondsRemaining = 100 where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlHttp: update sip_buddies set secondsRemaining = 100 where name = "imsi"
+../SubscriberRegistry.cpp:-0-:http: curl -s --data-binary @/tmp/subscriberregistry.1.-PID- testing > /tmp/subscriberregistry.2.-PID-
+../SubscriberRegistry.cpp:-0-:sqlLocal: select secondsRemaining from sip_buddies where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlQuery: result = 100
+test.cpp:-0-:main: should be 100 100
+../SubscriberRegistry.cpp:-0-:sqlUpdate: update sip_buddies set secondsRemaining = secondsRemaining + -50 where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlLocal: update sip_buddies set secondsRemaining = secondsRemaining + -50 where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlHttp: update sip_buddies set secondsRemaining = secondsRemaining + -50 where name = "imsi"
+../SubscriberRegistry.cpp:-0-:http: curl -s --data-binary @/tmp/subscriberregistry.1.-PID- testing > /tmp/subscriberregistry.2.-PID-
+../SubscriberRegistry.cpp:-0-:sqlLocal: select secondsRemaining from sip_buddies where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlQuery: result = 50
+test.cpp:-0-:main: should be 50 50
+../SubscriberRegistry.cpp:-0-:sqlUpdate: update sip_buddies set secondsRemaining = secondsRemaining + -100 where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlLocal: update sip_buddies set secondsRemaining = secondsRemaining + -100 where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlHttp: update sip_buddies set secondsRemaining = secondsRemaining + -100 where name = "imsi"
+../SubscriberRegistry.cpp:-0-:http: curl -s --data-binary @/tmp/subscriberregistry.1.-PID- testing > /tmp/subscriberregistry.2.-PID-
+../SubscriberRegistry.cpp:-0-:sqlLocal: select secondsRemaining from sip_buddies where name = "imsi"
+../SubscriberRegistry.cpp:-0-:sqlQuery: result = -50
+test.cpp:-0-:main: should be 0 0

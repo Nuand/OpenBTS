@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/range/!svn/ver/6497/software/public/smqueue/trunk/testing
+END
+smrelaytest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/6167/software/public/smqueue/trunk/testing/smrelaytest.cpp
+END
+smtest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/range/!svn/ver/6167/software/public/smqueue/trunk/testing/smtest.cpp
+END
+sminterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/6167/software/public/smqueue/trunk/testing/sminterface.cpp
+END
+smrelaytest.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/range/!svn/ver/6167/software/public/smqueue/trunk/testing/smrelaytest.h
+END
+smtest.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/range/!svn/ver/6167/software/public/smqueue/trunk/testing/smtest.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/range/!svn/ver/6167/software/public/smqueue/trunk/testing/Makefile.am
+END

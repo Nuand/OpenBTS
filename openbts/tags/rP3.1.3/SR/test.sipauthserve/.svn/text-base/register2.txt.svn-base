@@ -1,0 +1,10 @@
+REGISTER sip:localhost SIP/2.0
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd]; comp=sigcomp;branch=z9hG4bKnashds7 
+Max-Forwards: 70
+P-Access-Network-Info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11
+From: <sip:IMSI12345678901232>;tag=4fa3
+To: <sip:user1_public1@localhost>
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000
+CSeq: 1 REGISTER
+Supported: path
+Content-Length: 0

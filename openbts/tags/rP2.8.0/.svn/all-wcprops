@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/range/!svn/ver/2309/software/public/openbts/tags/rP2.8.0
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/README
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/ltmain.sh
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/config.sub
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/config.h.in
+END
+INSTALLATION
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/INSTALLATION
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/configure.ac
+END
+Makefile.common
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/Makefile.common
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/range/!svn/ver/2306/software/public/openbts/tags/rP2.8.0/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/missing
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/NEWS
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/install-sh
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/range/!svn/ver/2304/software/public/openbts/tags/rP2.8.0/configure
+END
+LEGAL
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/LEGAL
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/AUTHORS
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/ChangeLog
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/depcomp
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/config.guess
+END

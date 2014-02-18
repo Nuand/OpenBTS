@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CLI
+END
+README.CLI
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CLI/README.CLI
+END
+CLI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CLI/CLI.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CLI/Makefile.am
+END
+CLI.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CLI/CLI.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/CLI/Makefile.in
+END

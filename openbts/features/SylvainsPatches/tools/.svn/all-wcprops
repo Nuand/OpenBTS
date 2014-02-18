@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/tools
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/tools/Makefile.am
+END
+translateConfig.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/tools/translateConfig.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/tools/README
+END
+hata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/tools/hata.cpp
+END
+Makefile.standalone
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/tools/Makefile.standalone
+END

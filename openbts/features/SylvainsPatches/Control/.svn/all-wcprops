@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/Control
+END
+TransactionTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/Control/TransactionTable.h
+END
+SMSControl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/Control/SMSControl.cpp
+END
+RadioResource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/Control/RadioResource.cpp
+END
+SMSControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/Control/SMSControl.h
+END
+RadioResource.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/Control/RadioResource.h
+END
+CallControl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/Control/CallControl.cpp
+END
+DCCHDispatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/Control/DCCHDispatch.cpp
+END
+CallControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/Control/CallControl.h
+END
+TMSITable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/Control/TMSITable.cpp
+END
+MobilityManagement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/Control/MobilityManagement.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/Control/Makefile.am
+END
+TMSITable.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/Control/TMSITable.h
+END
+ControlCommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/Control/ControlCommon.cpp
+END
+MobilityManagement.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/Control/MobilityManagement.h
+END
+README.Control
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/Control/README.Control
+END
+TransactionTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/Control/TransactionTable.cpp
+END
+ControlCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/Control/ControlCommon.h
+END

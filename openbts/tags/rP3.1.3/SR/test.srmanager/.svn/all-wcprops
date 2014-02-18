@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/6576/software/public/subscriberRegistry/tags/rP3.1.3/test.srmanager
+END
+query.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/6576/software/public/subscriberRegistry/tags/rP3.1.3/test.srmanager/query.sql
+END
+runtest
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/range/!svn/ver/6576/software/public/subscriberRegistry/tags/rP3.1.3/test.srmanager/runtest
+END
+srmanager.db.init
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/range/!svn/ver/6576/software/public/subscriberRegistry/tags/rP3.1.3/test.srmanager/srmanager.db.init
+END
+test.db.init
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/range/!svn/ver/6576/software/public/subscriberRegistry/tags/rP3.1.3/test.srmanager/test.db.init
+END
+output.exp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/6576/software/public/subscriberRegistry/tags/rP3.1.3/test.srmanager/output.exp
+END

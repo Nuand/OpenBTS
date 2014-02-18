@@ -1,0 +1,572 @@
+Fri Mar 18 16:47:33 PDT 2011
+IMSI12345678901231|||known|
+IMSI12345678901232||||
+IMSI12345678901234|||hexhexhexhexhexhexhexhexhexh1000|
+IMSI12345678901235||||
+sipauthserve.cpp:-0-:prettyPrint: request:
+REGISTER sip:localhost SIP/2.0^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:IMSI12345678901231>;tag=4fa3^M
+To: <sip:user1_public1@localhost>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+sipauthserve.cpp:-0-:processBuffer: imsi known, 1st register
+servershare.cpp:-0-:generateRand: ki is known
+sipauthserve.cpp:-0-:prettyPrint: response:
+SIP/2.0 401 Unauthorized^M
+Via: SIP/2.0/UDP localhost:5063;branch=1;received=string_address@foo.bar^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:IMSI12345678901231>;tag=4fa3^M
+To: <sip:user1_public1@localhost>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+WWW-Authenticate: Digest  nonce=hexhexhexhexhexhexhexhexhexh1001^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+sipauthserve.cpp:-0-:processBuffer: 
+----------------
+sipauthserve.cpp:-0-:prettyPrint: request:
+REGISTER sip:localhost SIP/2.0^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:EXIT>;tag=4fa3^M
+To: <sip:EXIT>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+IMSI12345678901231|||known|
+IMSI12345678901232||||
+IMSI12345678901234|||hexhexhexhexhexhexhexhexhexh1000|
+IMSI12345678901235||||
+sipauthserve.cpp:-0-:prettyPrint: request:
+REGISTER sip:localhost SIP/2.0^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:IMSI12345678901232>;tag=4fa3^M
+To: <sip:user1_public1@localhost>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+sipauthserve.cpp:-0-:processBuffer: imsi known, 1st register
+servershare.cpp:-0-:generateRand: ki is unknown, rand is not cached
+sipauthserve.cpp:-0-:prettyPrint: response:
+SIP/2.0 401 Unauthorized^M
+Via: SIP/2.0/UDP localhost:5063;branch=1;received=string_address@foo.bar^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:IMSI12345678901232>;tag=4fa3^M
+To: <sip:user1_public1@localhost>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+WWW-Authenticate: Digest  nonce=hexhexhexhexhexhexhexhexhexh1002^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+sipauthserve.cpp:-0-:processBuffer: 
+----------------
+sipauthserve.cpp:-0-:prettyPrint: request:
+REGISTER sip:localhost SIP/2.0^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:EXIT>;tag=4fa3^M
+To: <sip:EXIT>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+IMSI12345678901231|||known|
+IMSI12345678901232|hexhexhexhexhexhexhexhexhexh1002|||
+IMSI12345678901234|||hexhexhexhexhexhexhexhexhexh1000|
+IMSI12345678901235||||
+sipauthserve.cpp:-0-:prettyPrint: request:
+REGISTER sip:localhost SIP/2.0^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:IMSI12345678901232>;tag=4fa3^M
+To: <sip:user1_public1@localhost>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+sipauthserve.cpp:-0-:processBuffer: imsi known, 1st register
+servershare.cpp:-0-:generateRand: ki is unknown, rand is cached
+sipauthserve.cpp:-0-:prettyPrint: response:
+SIP/2.0 401 Unauthorized^M
+Via: SIP/2.0/UDP localhost:5063;branch=1;received=string_address@foo.bar^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:IMSI12345678901232>;tag=4fa3^M
+To: <sip:user1_public1@localhost>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+WWW-Authenticate: Digest  nonce=hexhexhexhexhexhexhexhexhexh1002^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+sipauthserve.cpp:-0-:processBuffer: 
+----------------
+sipauthserve.cpp:-0-:prettyPrint: request:
+REGISTER sip:localhost SIP/2.0^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:EXIT>;tag=4fa3^M
+To: <sip:EXIT>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+IMSI12345678901231|||known|
+IMSI12345678901232|hexhexhexhexhexhexhexhexhexh1002|||
+IMSI12345678901234|||hexhexhexhexhexhexhexhexhexh1000|
+IMSI12345678901235||||
+sipauthserve.cpp:-0-:prettyPrint: request:
+REGISTER sip:localhost SIP/2.0^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:IMSI12345678901233>;tag=4fa3^M
+To: <sip:user1_public1@localhost>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+sipauthserve.cpp:-0-:processBuffer: imsi unknown
+sipauthserve.cpp:-0-:prettyPrint: response:
+SIP/2.0 404 IMSI Not Found^M
+Via: SIP/2.0/UDP localhost:5063;branch=1;received=string_address@foo.bar^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:IMSI12345678901233>;tag=4fa3^M
+To: <sip:user1_public1@localhost>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+sipauthserve.cpp:-0-:processBuffer: 
+----------------
+sipauthserve.cpp:-0-:prettyPrint: request:
+REGISTER sip:localhost SIP/2.0^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:EXIT>;tag=4fa3^M
+To: <sip:EXIT>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+IMSI12345678901231|||known|
+IMSI12345678901232|hexhexhexhexhexhexhexhexhexh1002|||
+IMSI12345678901234|||hexhexhexhexhexhexhexhexhexh1000|
+IMSI12345678901235||||
+sipauthserve.cpp:-0-:prettyPrint: request:
+REGISTER sip:localhost SIP/2.0^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:IMSI12345678901234>;tag=4fa3^M
+To: <sip:user1_public1@localhost>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+Authorization: Digest, nonce="hexhexhexhexhexhexhexhexhexh1003", uri="sip:IMSI12345678904321", response="hexhexhexhexhexhexhe1004"^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+sipauthserve.cpp:-0-:processBuffer: imsi known, 2nd register
+servershare.cpp:-0-:authenticate: ki known
+servershare.cpp:-0-:authenticate: result = hexh1005
+servershare.cpp:-0-:authenticate: returning = 1
+sipauthserve.cpp:-0-:prettyPrint: response:
+SIP/2.0 200 OK^M
+Via: SIP/2.0/UDP localhost:5063;branch=1;received=string_address@foo.bar^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:IMSI12345678901234>;tag=4fa3^M
+To: <sip:user1_public1@localhost>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+Authorization: Digest, nonce="hexhexhexhexhexhexhexhexhexh1003", uri="sip:IMSI12345678904321", response="hexhexhexhexhexhexhe1004"^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+sipauthserve.cpp:-0-:processBuffer: 
+----------------
+sipauthserve.cpp:-0-:prettyPrint: request:
+REGISTER sip:localhost SIP/2.0^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:EXIT>;tag=4fa3^M
+To: <sip:EXIT>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+IMSI12345678901231|||known|
+IMSI12345678901232|hexhexhexhexhexhexhexhexhexh1002|||
+IMSI12345678901234|||hexhexhexhexhexhexhexhexhexh1000|
+IMSI12345678901235||||
+sipauthserve.cpp:-0-:prettyPrint: request:
+REGISTER sip:localhost SIP/2.0^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:IMSI12345678901234>;tag=4fa3^M
+To: <sip:user1_public1@localhost>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+Authorization: Digest, nonce="hexhexhexhexhexhexhexhexhexh1006", uri="sip:IMSI12345678904321", response="hexhexhexhexhexhexhe1004"^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+sipauthserve.cpp:-0-:processBuffer: imsi known, 2nd register
+servershare.cpp:-0-:authenticate: ki known
+servershare.cpp:-0-:authenticate: result = hexh1007
+servershare.cpp:-0-:authenticate: returning = 0
+sipauthserve.cpp:-0-:prettyPrint: response:
+SIP/2.0 401 Unauthorized^M
+Via: SIP/2.0/UDP localhost:5063;branch=1;received=string_address@foo.bar^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:IMSI12345678901234>;tag=4fa3^M
+To: <sip:user1_public1@localhost>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+Authorization: Digest, nonce="hexhexhexhexhexhexhexhexhexh1006", uri="sip:IMSI12345678904321", response="hexhexhexhexhexhexhe1004"^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+sipauthserve.cpp:-0-:processBuffer: 
+----------------
+sipauthserve.cpp:-0-:prettyPrint: request:
+REGISTER sip:localhost SIP/2.0^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:EXIT>;tag=4fa3^M
+To: <sip:EXIT>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+IMSI12345678901231|||known|
+IMSI12345678901232|hexhexhexhexhexhexhexhexhexh1002|||
+IMSI12345678901234|||hexhexhexhexhexhexhexhexhexh1000|
+IMSI12345678901235||||
+sipauthserve.cpp:-0-:prettyPrint: request:
+REGISTER sip:localhost SIP/2.0^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:IMSI12345678901234>;tag=4fa3^M
+To: <sip:user1_public1@localhost>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+Authorization: Digest, nonce="hexhexhexhexhexhexhexhexhexh1003", uri="sip:IMSI12345678904321", response="hexhexhexhexhexhexhe1008"^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+sipauthserve.cpp:-0-:processBuffer: imsi known, 2nd register
+servershare.cpp:-0-:authenticate: ki known
+servershare.cpp:-0-:authenticate: result = hexh1005
+servershare.cpp:-0-:authenticate: returning = 0
+sipauthserve.cpp:-0-:prettyPrint: response:
+SIP/2.0 401 Unauthorized^M
+Via: SIP/2.0/UDP localhost:5063;branch=1;received=string_address@foo.bar^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:IMSI12345678901234>;tag=4fa3^M
+To: <sip:user1_public1@localhost>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+Authorization: Digest, nonce="hexhexhexhexhexhexhexhexhexh1003", uri="sip:IMSI12345678904321", response="hexhexhexhexhexhexhe1008"^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+sipauthserve.cpp:-0-:processBuffer: 
+----------------
+sipauthserve.cpp:-0-:prettyPrint: request:
+REGISTER sip:localhost SIP/2.0^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:EXIT>;tag=4fa3^M
+To: <sip:EXIT>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+IMSI12345678901231|||known|
+IMSI12345678901232|hexhexhexhexhexhexhexhexhexh1002|||
+IMSI12345678901234|||hexhexhexhexhexhexhexhexhexh1000|
+IMSI12345678901235||||
+sipauthserve.cpp:-0-:prettyPrint: request:
+REGISTER sip:localhost SIP/2.0^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:IMSI12345678901235>;tag=4fa3^M
+To: <sip:user1_public1@localhost>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+Authorization: Digest, nonce="hexhexhexhexhexhexhexhexhexh1003", uri="sip:IMSI12345678904321", response="hexhexhexhexhexhexhe1004"^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+sipauthserve.cpp:-0-:processBuffer: imsi known, 2nd register
+servershare.cpp:-0-:authenticate: ki unknown, no upstream server, sres not cached
+servershare.cpp:-0-:authenticate: returning = 1
+sipauthserve.cpp:-0-:prettyPrint: response:
+SIP/2.0 200 OK^M
+Via: SIP/2.0/UDP localhost:5063;branch=1;received=string_address@foo.bar^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:IMSI12345678901235>;tag=4fa3^M
+To: <sip:user1_public1@localhost>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+Authorization: Digest, nonce="hexhexhexhexhexhexhexhexhexh1003", uri="sip:IMSI12345678904321", response="hexhexhexhexhexhexhe1004"^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+sipauthserve.cpp:-0-:processBuffer: 
+----------------
+sipauthserve.cpp:-0-:prettyPrint: request:
+REGISTER sip:localhost SIP/2.0^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:EXIT>;tag=4fa3^M
+To: <sip:EXIT>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+IMSI12345678901231|||known|
+IMSI12345678901232|hexhexhexhexhexhexhexhexhexh1002|||
+IMSI12345678901234|||hexhexhexhexhexhexhexhexhexh1000|
+IMSI12345678901235|hexhexhexhexhexhexhexhexhexh1003|hexh1005||
+sipauthserve.cpp:-0-:prettyPrint: request:
+REGISTER sip:localhost SIP/2.0^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:IMSI12345678901235>;tag=4fa3^M
+To: <sip:user1_public1@localhost>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+Authorization: Digest, nonce="hexhexhexhexhexhexhexhexhexh1003", uri="sip:IMSI12345678904321", response="hexhexhexhexhexhexhe1004"^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+sipauthserve.cpp:-0-:processBuffer: imsi known, 2nd register
+servershare.cpp:-0-:authenticate: ki unknown, no upstream server, sres cached
+servershare.cpp:-0-:authenticate: returning = 1
+sipauthserve.cpp:-0-:prettyPrint: response:
+SIP/2.0 200 OK^M
+Via: SIP/2.0/UDP localhost:5063;branch=1;received=string_address@foo.bar^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:IMSI12345678901235>;tag=4fa3^M
+To: <sip:user1_public1@localhost>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+Authorization: Digest, nonce="hexhexhexhexhexhexhexhexhexh1003", uri="sip:IMSI12345678904321", response="hexhexhexhexhexhexhe1004"^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+sipauthserve.cpp:-0-:processBuffer: 
+----------------
+sipauthserve.cpp:-0-:prettyPrint: request:
+REGISTER sip:localhost SIP/2.0^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:EXIT>;tag=4fa3^M
+To: <sip:EXIT>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+IMSI12345678901231|||known|
+IMSI12345678901232|hexhexhexhexhexhexhexhexhexh1002|||
+IMSI12345678901234|||hexhexhexhexhexhexhexhexhexh1000|
+IMSI12345678901235|hexhexhexhexhexhexhexhexhexh1003|hexh1005||
+sipauthserve.cpp:-0-:prettyPrint: request:
+REGISTER sip:localhost SIP/2.0^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:IMSI12345678901235>;tag=4fa3^M
+To: <sip:user1_public1@localhost>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+Authorization: Digest, nonce="hexhexhexhexhexhexhexhexhexh1006", uri="sip:IMSI12345678904321", response="hexhexhexhexhexhexhe1004"^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+sipauthserve.cpp:-0-:processBuffer: imsi known, 2nd register
+servershare.cpp:-0-:authenticate: ki unknown, no upstream server, sres cached
+servershare.cpp:-0-:authenticate: returning = 0
+sipauthserve.cpp:-0-:prettyPrint: response:
+SIP/2.0 401 Unauthorized^M
+Via: SIP/2.0/UDP localhost:5063;branch=1;received=string_address@foo.bar^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:IMSI12345678901235>;tag=4fa3^M
+To: <sip:user1_public1@localhost>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+Authorization: Digest, nonce="hexhexhexhexhexhexhexhexhexh1006", uri="sip:IMSI12345678904321", response="hexhexhexhexhexhexhe1004"^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+sipauthserve.cpp:-0-:processBuffer: 
+----------------
+sipauthserve.cpp:-0-:prettyPrint: request:
+REGISTER sip:localhost SIP/2.0^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:EXIT>;tag=4fa3^M
+To: <sip:EXIT>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+IMSI12345678901231|||known|
+IMSI12345678901232|hexhexhexhexhexhexhexhexhexh1002|||
+IMSI12345678901234|||hexhexhexhexhexhexhexhexhexh1000|
+IMSI12345678901235|hexhexhexhexhexhexhexhexhexh1003|hexh1005||
+sipauthserve.cpp:-0-:prettyPrint: request:
+REGISTER sip:localhost SIP/2.0^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:IMSI12345678901235>;tag=4fa3^M
+To: <sip:user1_public1@localhost>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+Authorization: Digest, nonce="hexhexhexhexhexhexhexhexhexh1003", uri="sip:IMSI12345678904321", response="hexhexhexhexhexhexhe1008"^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+sipauthserve.cpp:-0-:processBuffer: imsi known, 2nd register
+servershare.cpp:-0-:authenticate: ki unknown, no upstream server, sres cached
+servershare.cpp:-0-:authenticate: returning = 0
+sipauthserve.cpp:-0-:prettyPrint: response:
+SIP/2.0 401 Unauthorized^M
+Via: SIP/2.0/UDP localhost:5063;branch=1;received=string_address@foo.bar^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:IMSI12345678901235>;tag=4fa3^M
+To: <sip:user1_public1@localhost>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+Authorization: Digest, nonce="hexhexhexhexhexhexhexhexhexh1003", uri="sip:IMSI12345678904321", response="hexhexhexhexhexhexhe1008"^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+sipauthserve.cpp:-0-:processBuffer: 
+----------------
+sipauthserve.cpp:-0-:prettyPrint: request:
+REGISTER sip:localhost SIP/2.0^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:EXIT>;tag=4fa3^M
+To: <sip:EXIT>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+IMSI12345678901231|||known|
+IMSI12345678901232|hexhexhexhexhexhexhexhexhexh1002|||
+IMSI12345678901234|||hexhexhexhexhexhexhexhexhexh1000|
+IMSI12345678901235|hexhexhexhexhexhexhexhexhexh1003|hexh1005||
+sipauthserve.cpp:-0-:prettyPrint: request:
+REGISTER sip:localhost SIP/2.0^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:IMSI12345678901236>;tag=4fa3^M
+To: <sip:user1_public1@localhost>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+Authorization: Digest, nonce="342abcdef", uri="sip:IMSI12345678904321", response="283742876"^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+sipauthserve.cpp:-0-:processBuffer: imsi unknown
+sipauthserve.cpp:-0-:prettyPrint: response:
+SIP/2.0 404 IMSI Not Found^M
+Via: SIP/2.0/UDP localhost:5063;branch=1;received=string_address@foo.bar^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:IMSI12345678901236>;tag=4fa3^M
+To: <sip:user1_public1@localhost>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+Authorization: Digest, nonce="342abcdef", uri="sip:IMSI12345678904321", response="283742876"^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+sipauthserve.cpp:-0-:processBuffer: 
+----------------
+sipauthserve.cpp:-0-:prettyPrint: request:
+REGISTER sip:localhost SIP/2.0^M
+Via: SIP/2.0/UDP [5555::aaa:bbb:ccc:ddd];comp=sigcomp;branch=z9hG4bKnashds7^M
+From: <sip:EXIT>;tag=4fa3^M
+To: <sip:EXIT>^M
+CSeq: 1 REGISTER^M
+Contact: <sip:[5555::aaa:bbb:ccc:ddd];comp=sigcomp>;expires=600000^M
+Max-forwards: 70^M
+P-access-network-info: 3GPP-UTRAN-TDD; utran-cell-id-3gpp=234151D0FCE11^M
+Supported: path^M
+Content-Length: 0^M
+^M
+IMSI12345678901231|||known|
+IMSI12345678901232|hexhexhexhexhexhexhexhexhexh1002|||
+IMSI12345678901234|||hexhexhexhexhexhexhexhexhexh1000|
+IMSI12345678901235|hexhexhexhexhexhexhexhexhexh1003|hexh1005||

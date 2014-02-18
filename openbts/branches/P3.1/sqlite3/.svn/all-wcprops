@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/range/!svn/ver/6510/software/public/sqlite3/branches/P3.1
+END
+sqlite3.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/range/!svn/ver/6510/software/public/sqlite3/branches/P3.1/sqlite3.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/range/!svn/ver/6510/software/public/sqlite3/branches/P3.1/Makefile.am
+END
+sqlite3.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/range/!svn/ver/6510/software/public/sqlite3/branches/P3.1/sqlite3.h
+END
+sqlite3ext.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/range/!svn/ver/6510/software/public/sqlite3/branches/P3.1/sqlite3ext.h
+END

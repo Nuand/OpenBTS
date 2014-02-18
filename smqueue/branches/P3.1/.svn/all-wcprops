@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/range/!svn/ver/6519/software/public/smqueue/branches/P3.1
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/range/!svn/ver/6514/software/public/smqueue/branches/P3.1/README
+END
+INSTALLATION
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/range/!svn/ver/6514/software/public/smqueue/branches/P3.1/INSTALLATION
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/range/!svn/ver/6516/software/public/smqueue/branches/P3.1/configure.ac
+END
+Makefile.common
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/6514/software/public/smqueue/branches/P3.1/Makefile.common
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/range/!svn/ver/6514/software/public/smqueue/branches/P3.1/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/range/!svn/ver/6514/software/public/smqueue/branches/P3.1/COPYING
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/range/!svn/ver/6514/software/public/smqueue/branches/P3.1/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/range/!svn/ver/6514/software/public/smqueue/branches/P3.1/Makefile.am
+END
+svn.externals
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/range/!svn/ver/6514/software/public/smqueue/branches/P3.1/svn.externals
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/range/!svn/ver/6514/software/public/smqueue/branches/P3.1/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/range/!svn/ver/6514/software/public/smqueue/branches/P3.1/NEWS
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/range/!svn/ver/6514/software/public/smqueue/branches/P3.1/install-sh
+END
+doxconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/range/!svn/ver/6514/software/public/smqueue/branches/P3.1/doxconfig
+END
+LEGAL
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/range/!svn/ver/6514/software/public/smqueue/branches/P3.1/LEGAL
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/range/!svn/ver/6514/software/public/smqueue/branches/P3.1/AUTHORS
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/range/!svn/ver/6514/software/public/smqueue/branches/P3.1/ChangeLog
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/range/!svn/ver/6514/software/public/smqueue/branches/P3.1/depcomp
+END

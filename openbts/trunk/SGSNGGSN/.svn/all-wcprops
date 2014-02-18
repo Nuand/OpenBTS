@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/range/!svn/ver/6496/software/public/openbts/trunk/SGSNGGSN
+END
+Sgsn.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/SGSNGGSN/Sgsn.h
+END
+LLC.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/SGSNGGSN/LLC.h
+END
+miniggsn.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/SGSNGGSN/miniggsn.h
+END
+SgsnExport.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/SGSNGGSN/SgsnExport.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/SGSNGGSN/Makefile.am
+END
+iputils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/SGSNGGSN/iputils.cpp
+END
+Ggsn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/SGSNGGSN/Ggsn.cpp
+END
+SgsnCli.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/SGSNGGSN/SgsnCli.cpp
+END
+GPRSL3Messages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/SGSNGGSN/GPRSL3Messages.cpp
+END
+Ggsn.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/SGSNGGSN/Ggsn.h
+END
+GPRSL3Messages.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/SGSNGGSN/GPRSL3Messages.h
+END
+SgsnBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/SGSNGGSN/SgsnBase.h
+END
+Sgsn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/SGSNGGSN/Sgsn.cpp
+END
+LLC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/SGSNGGSN/LLC.cpp
+END
+miniggsn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/SGSNGGSN/miniggsn.cpp
+END

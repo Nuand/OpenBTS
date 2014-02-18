@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/TransceiverRAD1/fpga/toplevel/usrp_inband_usb
+END
+usrp_inband_usb.csf
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/TransceiverRAD1/fpga/toplevel/usrp_inband_usb/usrp_inband_usb.csf
+END
+usrp_inband_usb.esf
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/TransceiverRAD1/fpga/toplevel/usrp_inband_usb/usrp_inband_usb.esf
+END
+config.vh
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/TransceiverRAD1/fpga/toplevel/usrp_inband_usb/config.vh
+END
+usrp_inband_usb.v
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/TransceiverRAD1/fpga/toplevel/usrp_inband_usb/usrp_inband_usb.v
+END
+usrp_inband_usb.pin
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/TransceiverRAD1/fpga/toplevel/usrp_inband_usb/usrp_inband_usb.pin
+END
+usrp_inband_usb.qpf
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/TransceiverRAD1/fpga/toplevel/usrp_inband_usb/usrp_inband_usb.qpf
+END
+usrp_inband_usb.psf
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/TransceiverRAD1/fpga/toplevel/usrp_inband_usb/usrp_inband_usb.psf
+END
+usrp_inband_usb.qsf
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/TransceiverRAD1/fpga/toplevel/usrp_inband_usb/usrp_inband_usb.qsf
+END

@@ -1,0 +1,32 @@
+[default]
+
+;route=40
+
+#^.*$=echo call routed by ${chan.route}
+
+# test lines
+^600$=tone/milliwatt
+^601$=conf/echo;echo=true
+
+# Emergency messages
+^sos$=wave/play//usr/src/bman/sounds/FindARange.gsm;autorepeat=true;timeout=60000
+^110$=wave/play//usr/src/bman/sounds/FindARange.gsm;autorepeat=true;timeout=60000
+^112$=wave/play//usr/src/bman/sounds/FindARange.gsm;autorepeat=true;timeout=60000
+^113$=wave/play//usr/src/bman/sounds/FindARange.gsm;autorepeat=true;timeout=60000
+^114$=wave/play//usr/src/bman/sounds/FindARange.gsm;autorepeat=true;timeout=60000
+^911$=wave/play//usr/src/bman/sounds/FindARange.gsm;autorepeat=true;timeout=60000
+# IF we need to record another...
+#^113$=wave/record//usr/src/bman/sounds/FindARange.gsm
+
+# Tropo lines - all 4-digit numbers
+# diana
+#^\(....\)$=sip/\1@173.255.118.53:6061
+#^\(........*\)$=sip/\1@173.255.118.53:6061
+#^\(....\)$=sip/\1@papalegba.westhawk.co.uk:6061
+
+
+# Wired phones in the camp
+
+# Dummy example
+#^7072082622$=sip/7072082622@snom1_ip_address:5060
+^1234567$=sip/sip:IMSI000000000000000@10.0.5.75:5060

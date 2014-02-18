@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/TRXManager
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/TRXManager/Makefile.am
+END
+TRXManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/TRXManager/TRXManager.cpp
+END
+clockdump.sh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/TRXManager/clockdump.sh
+END
+TRXManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/TRXManager/TRXManager.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/TRXManager/Makefile.in
+END
+README.TRXManager
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/TRXManager/README.TRXManager
+END

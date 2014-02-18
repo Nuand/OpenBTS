@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/range/!svn/ver/2327/software/public/openbts/features/SylvainsPatches
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/README
+END
+INSTALLATION
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/INSTALLATION
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/2320/software/public/openbts/features/SylvainsPatches/configure.ac
+END
+LEGAL
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/LEGAL
+END
+Makefile.common
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/Makefile.common
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/AUTHORS
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/INSTALL
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/ChangeLog
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/NEWS
+END

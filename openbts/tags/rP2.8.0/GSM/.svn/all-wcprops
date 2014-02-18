@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/range/!svn/ver/2309/software/public/openbts/tags/rP2.8.0/GSM
+END
+GSML3RRElements.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/2305/software/public/openbts/tags/rP2.8.0/GSM/GSML3RRElements.h
+END
+GSML3CommonElements.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/GSM/GSML3CommonElements.cpp
+END
+GSMTransfer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/GSM/GSMTransfer.cpp
+END
+GSML3CCElements.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/2305/software/public/openbts/tags/rP2.8.0/GSM/GSML3CCElements.h
+END
+GSML3Message.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/range/!svn/ver/2305/software/public/openbts/tags/rP2.8.0/GSM/GSML3Message.h
+END
+gsmtap.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/GSM/gsmtap.h
+END
+GSMTDMA.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/range/!svn/ver/2305/software/public/openbts/tags/rP2.8.0/GSM/GSMTDMA.h
+END
+GSML2LAPDm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/GSM/GSML2LAPDm.cpp
+END
+GSMCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/2305/software/public/openbts/tags/rP2.8.0/GSM/GSMCommon.h
+END
+GSML1FEC.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/range/!svn/ver/2305/software/public/openbts/tags/rP2.8.0/GSM/GSML1FEC.h
+END
+GSML3MMMessages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/GSM/GSML3MMMessages.cpp
+END
+GSM610Tables.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/GSM/GSM610Tables.cpp
+END
+GSMLogicalChannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/2305/software/public/openbts/tags/rP2.8.0/GSM/GSMLogicalChannel.h
+END
+GSML3MMElements.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/2305/software/public/openbts/tags/rP2.8.0/GSM/GSML3MMElements.h
+END
+GSMTAPDump.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/GSM/GSMTAPDump.cpp
+END
+GSMConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/2305/software/public/openbts/tags/rP2.8.0/GSM/GSMConfig.h
+END
+PhysicalStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/2305/software/public/openbts/tags/rP2.8.0/GSM/PhysicalStatus.h
+END
+GSML3RRMessages.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/2305/software/public/openbts/tags/rP2.8.0/GSM/GSML3RRMessages.h
+END
+GSML3RRElements.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/GSM/GSML3RRElements.cpp
+END
+GSML3CCElements.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/GSM/GSML3CCElements.cpp
+END
+GSML3CCMessages.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/2305/software/public/openbts/tags/rP2.8.0/GSM/GSML3CCMessages.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/GSM/Makefile.am
+END
+GSMSAPMux.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/2305/software/public/openbts/tags/rP2.8.0/GSM/GSMSAPMux.h
+END
+GSML3Message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/GSM/GSML3Message.cpp
+END
+PowerManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/range/!svn/ver/2305/software/public/openbts/tags/rP2.8.0/GSM/PowerManager.h
+END
+GSMTDMA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/GSM/GSMTDMA.cpp
+END
+GSMCommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/GSM/GSMCommon.cpp
+END
+GSML3CommonElements.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/2305/software/public/openbts/tags/rP2.8.0/GSM/GSML3CommonElements.h
+END
+GSMTransfer.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/2305/software/public/openbts/tags/rP2.8.0/GSM/GSMTransfer.h
+END
+GSML1FEC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/GSM/GSML1FEC.cpp
+END
+GSML2LAPDm.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/2305/software/public/openbts/tags/rP2.8.0/GSM/GSML2LAPDm.h
+END
+GSMLogicalChannel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/GSM/GSMLogicalChannel.cpp
+END
+GSML3MMMessages.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/2305/software/public/openbts/tags/rP2.8.0/GSM/GSML3MMMessages.h
+END
+GSML3MMElements.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/GSM/GSML3MMElements.cpp
+END
+GSMConfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/GSM/GSMConfig.cpp
+END
+GSM610Tables.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/range/!svn/ver/2305/software/public/openbts/tags/rP2.8.0/GSM/GSM610Tables.h
+END
+PhysicalStatus.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/GSM/PhysicalStatus.cpp
+END
+GSML3RRMessages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/GSM/GSML3RRMessages.cpp
+END
+GSML3CCMessages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/GSM/GSML3CCMessages.cpp
+END
+GSMSAPMux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/GSM/GSMSAPMux.cpp
+END
+GSMTAPDump.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/2305/software/public/openbts/tags/rP2.8.0/GSM/GSMTAPDump.h
+END
+PowerManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/GSM/PowerManager.cpp
+END

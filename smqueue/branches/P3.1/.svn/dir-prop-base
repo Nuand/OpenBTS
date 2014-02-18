@@ -1,0 +1,30 @@
+K 13
+svn:externals
+V 229
+SR http://wush.net/svn/range/software/public/subscriberRegistry/branches/P3.1
+CommonLibs http://wush.net/svn/range/software/public/CommonLibs/branches/P3.1
+sqlite3 http://wush.net/svn/range/software/public/sqlite3/branches/P3.1
+
+
+K 10
+svn:ignore
+V 194
+._*
+Makefile
+Makefile.in
+configure
+config.log
+config.guess
+config.h
+build-arch-stamp
+config.sub
+ltmain.sh
+configure-stamp
+config.status
+stamp-h1
+config.h.in
+libtool
+aclocal.m4
+build-indep-stamp
+
+END

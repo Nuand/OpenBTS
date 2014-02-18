@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/FreeswitchConfig/scripts
+END
+OpenBTS_New_User.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/FreeswitchConfig/scripts/OpenBTS_New_User.py
+END
+OpenBTS_Send_SMS.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/FreeswitchConfig/scripts/OpenBTS_Send_SMS.py
+END
+OpenBTS_Parse_SMS.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/FreeswitchConfig/scripts/OpenBTS_Parse_SMS.py
+END
+OpenBTS_DB.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/FreeswitchConfig/scripts/OpenBTS_DB.py
+END

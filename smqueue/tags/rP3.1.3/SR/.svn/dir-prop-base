@@ -1,0 +1,22 @@
+K 13
+svn:externals
+V 151
+CommonLibs https://wush.net/svn/range/software/public/CommonLibs/tags/rP3.1.3
+sqlite3 https://wush.net/svn/range/software/public/sqlite3/tags/rP3.1.3
+
+
+K 10
+svn:ignore
+V 129
+._*
+.deps
+Makefile.in
+sipauthserve
+subscriberserver.cgi
+build-arch-stamp
+configure-stamp
+srmanager.cgi
+comp128
+build-indep-stamp
+
+END

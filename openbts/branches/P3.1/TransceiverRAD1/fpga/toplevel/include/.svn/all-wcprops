@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/TransceiverRAD1/fpga/toplevel/include
+END
+common_config_2rxhb_2tx.vh
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/TransceiverRAD1/fpga/toplevel/include/common_config_2rxhb_2tx.vh
+END
+common_config_bottom.vh
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/TransceiverRAD1/fpga/toplevel/include/common_config_bottom.vh
+END
+common_config_1rxhb_1tx.vh
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/TransceiverRAD1/fpga/toplevel/include/common_config_1rxhb_1tx.vh
+END

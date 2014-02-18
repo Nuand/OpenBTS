@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/range/!svn/ver/6698/software/public/openbts/trunk/Globals
+END
+Defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/Globals/Defines.h
+END
+Globals.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/range/!svn/ver/6698/software/public/openbts/trunk/Globals/Globals.cpp
+END
+Globals.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/Globals/Globals.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/Globals/Makefile.am
+END

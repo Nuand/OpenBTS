@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/range/!svn/ver/6709/software/public/smqueue/trunk/smqueue
+END
+smqueue.example.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/6167/software/public/smqueue/trunk/smqueue/smqueue.example.sql
+END
+smnet.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/range/!svn/ver/3918/software/public/smqueue/trunk/smqueue/smnet.h
+END
+README.smqueue
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/2247/software/public/smqueue/trunk/smqueue/README.smqueue
+END
+smcommands.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/6167/software/public/smqueue/trunk/smqueue/smcommands.cpp
+END
+smsc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/range/!svn/ver/6167/software/public/smqueue/trunk/smqueue/smsc.cpp
+END
+poll.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/range/!svn/ver/2247/software/public/smqueue/trunk/smqueue/poll.c
+END
+runloop.smqueue.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/6509/software/public/smqueue/trunk/smqueue/runloop.smqueue.sh
+END
+smsc.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/range/!svn/ver/2247/software/public/smqueue/trunk/smqueue/smsc.h
+END
+poll.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/range/!svn/ver/2247/software/public/smqueue/trunk/smqueue/poll.h
+END
+diskbackup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/5681/software/public/smqueue/trunk/smqueue/diskbackup.cpp
+END
+smqueue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/range/!svn/ver/6709/software/public/smqueue/trunk/smqueue/smqueue.cpp
+END
+diskbackup.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/range/!svn/ver/5678/software/public/smqueue/trunk/smqueue/diskbackup.h
+END
+smnet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/range/!svn/ver/5400/software/public/smqueue/trunk/smqueue/smnet.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/range/!svn/ver/6509/software/public/smqueue/trunk/smqueue/Makefile.am
+END
+smqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/range/!svn/ver/6167/software/public/smqueue/trunk/smqueue/smqueue.h
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/SIP
+END
+SIPUtility.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/SIP/SIPUtility.cpp
+END
+SIPMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/SIP/SIPMessage.cpp
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/SIP/Makefile.in
+END
+SIPEngine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/SIP/SIPEngine.cpp
+END
+SIPInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/SIP/SIPInterface.h
+END
+SIPUtility.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/SIP/SIPUtility.h
+END
+SIPMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/SIP/SIPMessage.h
+END
+SIPEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/SIP/SIPEngine.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/SIP/Makefile.am
+END
+SIPInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/SIP/SIPInterface.cpp
+END

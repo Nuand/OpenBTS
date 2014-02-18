@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib
+END
+cordic.v
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/cordic.v
+END
+dpram.v
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/dpram.v
+END
+ext_fifo.v
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/ext_fifo.v
+END
+master_control_multi.v
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/master_control_multi.v
+END
+phase_acc.v
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/phase_acc.v
+END
+tx_chain_hb.v
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/tx_chain_hb.v
+END
+fifo_1kx16_inst.v
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/fifo_1kx16_inst.v
+END
+setting_reg.v
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/setting_reg.v
+END
+cic_interp.v
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/cic_interp.v
+END
+clk_divider.v
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/clk_divider.v
+END
+fifo_1kx16_bb.v
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/fifo_1kx16_bb.v
+END
+fifo_1kx16.bsf
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/fifo_1kx16.bsf
+END
+fifo_1kx16.cmp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/fifo_1kx16.cmp
+END
+strobe_gen.v
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/strobe_gen.v
+END
+ram64.v
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/ram64.v
+END
+fifo_4kx16_dc.bsf
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/fifo_4kx16_dc.bsf
+END
+rx_chain.v
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/rx_chain.v
+END
+tx_chain.v
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/tx_chain.v
+END
+setting_reg_masked.v
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/setting_reg_masked.v
+END
+cic_decim.v
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/cic_decim.v
+END
+io_pins.v
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/io_pins.v
+END
+fifo_4kx16_dc.cmp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/fifo_4kx16_dc.cmp
+END
+atr_delay.v
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/atr_delay.v
+END
+gen_sync.v
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/gen_sync.v
+END
+rx_dcoffset.v
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/rx_dcoffset.v
+END
+serial_io.v
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/serial_io.v
+END
+adc_interface.v
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/adc_interface.v
+END
+sign_extend.v
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/sign_extend.v
+END
+gen_cordic_consts.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/gen_cordic_consts.py
+END
+duc.v
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/duc.v
+END
+fifo_1kx16.v
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/fifo_1kx16.v
+END
+ram.v
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/ram.v
+END
+rssi.v
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/rssi.v
+END
+fifo_1kx16.inc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/fifo_1kx16.inc
+END
+rx_buffer.v
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/rx_buffer.v
+END
+fifo_4kx16_dc_inst.v
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/fifo_4kx16_dc_inst.v
+END
+ram32.v
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/ram32.v
+END
+tx_buffer.v
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/tx_buffer.v
+END
+fifo_4kx16_dc.v
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/fifo_4kx16_dc.v
+END
+bidir_reg.v
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/bidir_reg.v
+END
+cordic_stage.v
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/cordic_stage.v
+END
+ram16.v
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/ram16.v
+END
+fifo_4kx16_dc_bb.v
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/fifo_4kx16_dc_bb.v
+END
+ddc.v
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/ddc.v
+END
+fifo_4kx16_dc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/fifo_4kx16_dc.inc
+END
+master_control.v
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/master_control.v
+END
+cic_int_shifter.v
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/cic_int_shifter.v
+END
+cic_dec_shifter.v
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/cic_dec_shifter.v
+END
+rx_chain_dual.v
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/rx_chain_dual.v
+END

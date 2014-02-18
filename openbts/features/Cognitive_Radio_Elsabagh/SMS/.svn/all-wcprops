@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/SMS
+END
+SMSTransfer.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/SMS/SMSTransfer.h
+END
+SMSMessages.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/SMS/SMSMessages.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/SMS/Makefile.in
+END
+SMSTransfer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/SMS/SMSTransfer.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/SMS/Makefile.am
+END
+SMSMessages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/SMS/SMSMessages.cpp
+END

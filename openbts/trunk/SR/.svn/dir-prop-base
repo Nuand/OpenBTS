@@ -1,0 +1,22 @@
+K 13
+svn:externals
+V 135
+CommonLibs http://wush.net/svn/range/software/public/CommonLibs/trunk
+sqlite3 http://wush.net/svn/range/software/public/sqlite3/trunk
+
+
+K 10
+svn:ignore
+V 129
+._*
+.deps
+Makefile.in
+sipauthserve
+subscriberserver.cgi
+build-arch-stamp
+configure-stamp
+srmanager.cgi
+comp128
+build-indep-stamp
+
+END

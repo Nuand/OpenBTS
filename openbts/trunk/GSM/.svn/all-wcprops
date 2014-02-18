@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/range/!svn/ver/6496/software/public/openbts/trunk/GSM
+END
+PhysicalStatus.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/PhysicalStatus.cpp
+END
+GSML3MMElements.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSML3MMElements.h
+END
+GSMConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSMConfig.h
+END
+GSML3RRMessages.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSML3RRMessages.h
+END
+GSML3RRElements.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSML3RRElements.cpp
+END
+GSMTAPDump.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSMTAPDump.h
+END
+PowerManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/PowerManager.cpp
+END
+GSML3CCElements.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSML3CCElements.cpp
+END
+GSML3CCMessages.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSML3CCMessages.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/Makefile.am
+END
+GSMSAPMux.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSMSAPMux.h
+END
+GSMTDMA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSMTDMA.cpp
+END
+GSML3Message.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSML3Message.h
+END
+GSMCommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSMCommon.cpp
+END
+GSML3CommonElements.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSML3CommonElements.h
+END
+GSMTransfer.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSMTransfer.h
+END
+gsmtap.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/gsmtap.h
+END
+GSML2LAPDm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSML2LAPDm.cpp
+END
+GSMSMSCBL3Messages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSMSMSCBL3Messages.cpp
+END
+GSML1FEC.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSML1FEC.h
+END
+GSM610Tables.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSM610Tables.cpp
+END
+GSMLogicalChannel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSMLogicalChannel.cpp
+END
+GSML3MMMessages.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSML3MMMessages.h
+END
+GSML3MMElements.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSML3MMElements.cpp
+END
+GSMConfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSMConfig.cpp
+END
+AppInfTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/AppInfTest.cpp
+END
+GSML3RRMessages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSML3RRMessages.cpp
+END
+GSMTAPDump.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSMTAPDump.cpp
+END
+GSML3GPRSElements.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSML3GPRSElements.h
+END
+GSML3CCMessages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSML3CCMessages.cpp
+END
+GSMSAPMux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSMSAPMux.cpp
+END
+PhysicalStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/PhysicalStatus.h
+END
+GSML3Message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSML3Message.cpp
+END
+GSML3RRElements.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSML3RRElements.h
+END
+GSML3CommonElements.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSML3CommonElements.cpp
+END
+GSMTransfer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSMTransfer.cpp
+END
+PowerManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/PowerManager.h
+END
+GSML3CCElements.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSML3CCElements.h
+END
+GSML1FEC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/range/!svn/ver/6192/software/public/openbts/trunk/GSM/GSML1FEC.cpp
+END
+GSMTDMA.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSMTDMA.h
+END
+GSMCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSMCommon.h
+END
+GSML3MMMessages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSML3MMMessages.cpp
+END
+GSML2LAPDm.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSML2LAPDm.h
+END
+GSMSMSCBL3Messages.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSMSMSCBL3Messages.h
+END
+GSM610Tables.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSM610Tables.h
+END
+GSML3GPRSElements.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSML3GPRSElements.cpp
+END
+GSMLogicalChannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/GSM/GSMLogicalChannel.h
+END

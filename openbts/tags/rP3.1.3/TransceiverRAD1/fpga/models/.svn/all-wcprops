@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/TransceiverRAD1/fpga/models
+END
+fifo_4k_18.v
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/TransceiverRAD1/fpga/models/fifo_4k_18.v
+END
+fifo_1k.v
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/TransceiverRAD1/fpga/models/fifo_1k.v
+END
+fifo_2k.v
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/TransceiverRAD1/fpga/models/fifo_2k.v
+END
+fifo_1c_1k.v
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/TransceiverRAD1/fpga/models/fifo_1c_1k.v
+END
+fifo_4k.v
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/TransceiverRAD1/fpga/models/fifo_4k.v
+END
+fifo_1c_2k.v
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/TransceiverRAD1/fpga/models/fifo_1c_2k.v
+END
+fifo.v
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/TransceiverRAD1/fpga/models/fifo.v
+END
+fifo_1c_4k.v
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/TransceiverRAD1/fpga/models/fifo_1c_4k.v
+END
+ssram.v
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/TransceiverRAD1/fpga/models/ssram.v
+END
+pll.v
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/TransceiverRAD1/fpga/models/pll.v
+END
+bustri.v
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/6547/software/public/openbts/tags/rP3.1.3/TransceiverRAD1/fpga/models/bustri.v
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/apps
+END
+OpenBTS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/apps/OpenBTS.cpp
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/apps/Makefile.in
+END
+runloop.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/apps/runloop.sh
+END
+OpenBTS.config.example
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/apps/OpenBTS.config.example
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/apps/Makefile.am
+END

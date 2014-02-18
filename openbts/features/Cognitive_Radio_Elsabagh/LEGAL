@@ -1,0 +1,75 @@
+OpenBTS
+Copyright 2008-2010 Free Software Foundation, Inc.
+Copyright 2010 Kestrel Signal Processing, Inc.
+See COPYING for licensing details.
+
+
+Patent Laws
+
+The use of this software to provide GSM services may result in the use of
+patented technologies.  The user of this software is required to take whatever
+actions are necessary to avoid patent infringement.
+
+
+Trademark
+
+"OpenBTS" is a registered trademark of Kestrel Signal Processing, Inc. (KSP), a
+California corporation.  KSP reserves the right to control the use of this 
+trademark.  Do not use this trademark in commerce without permission.
+
+
+Telecom and Radio Spectrum Laws
+
+The primary function of OpenBTS is the provision of telecommunications service
+over a radio link.  This activity is heavily regulated nearly everywhere in
+the world.  Users of this software are expected to comply with local and national
+regulations in the jurisdictions where this software is used with radio equipment.
+
+
+Legal Summary
+
+The user of this software is expected to comply with all applicable laws and
+regulations, including patent laws, copyright laws, and telecommunications
+regulations.
+
+The legal restrictions listed here are not necessarily exhaustive.
+
+
+Software Licensing
+
+OpenBTS itself is distributed publicly under AGPLv3.  KSP reserves the right to
+distribute it under other licenses as well.  See the COPYING file for information
+on the license for this specific distribution.
+
+Public releases of OpenBTS use the following GPL components:
+libosip2, liportp2, readline
+
+
+Note to US Government Users
+
+The OpenBTS software applications and associated documentation are "Commercial
+Item(s)," as that term is defined at 48 C.F.R. Section 2.101, consisting of
+"Commercial Computer Software" and "Commercial Computer Software Documentation,"
+as such terms are used in 48 C.F.R. §12.212 or 48 C.F.R. §227.7202, as
+applicable. Consistent with 48 C.F.R. §12.212 or 48 C.F.R. Sections 227.7202-1
+through 227.7202-4, as applicable, the Commercial Computer Software and
+Commercial Computer Software Documentation are being licensed to U.S. Government
+end users (a) only as Commercial Items and (b) with only those rights as are
+granted to all other end users pursuant to the terms and conditions of AGPLv3.
+
+
+Note to US Government Contractors
+
+GPL is not compatible with "government purpose rights" (GPR).  If you receive
+OpenBTS software under GPL and deliver it under GPR, you will be in violation
+of GPL and possibly subject to enforcement actions by the original authors and
+copyright holders, including the Free Software Foundation, Inc.
+
+
+Other Licenses
+
+For information about acquiring OpenBTS under non-GPL licenses, contact
+Kestrel Signal Processing, Inc., dburgess@kestrelsp.com.  Please be sure to
+put "OpenBTS" in the subject line.
+ 
+

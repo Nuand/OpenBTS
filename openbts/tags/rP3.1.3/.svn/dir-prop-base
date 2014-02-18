@@ -1,0 +1,37 @@
+K 13
+svn:externals
+V 229
+CommonLibs https://wush.net/svn/range/software/public/CommonLibs/tags/rP3.1.3
+sqlite3 https://wush.net/svn/range/software/public/sqlite3/tags/rP3.1.3
+SR https://wush.net/svn/range/software/public/subscriberRegistry/tags/rP3.1.3
+
+
+K 10
+svn:ignore
+V 221
+._*
+Makefile
+Makefile.in
+configure
+config.log
+depcomp
+config.guess
+config.h
+build-arch-stamp
+config.sub
+ltmain.sh
+configure-stamp
+config.status
+stamp-h1
+config.h.in
+libtool
+missing
+aclocal.m4
+build-indep-stamp
+install-sh
+
+K 13
+svn:mergeinfo
+V 59
+/software/public/openbts/features/SylvainsPatches:2315-2323
+END

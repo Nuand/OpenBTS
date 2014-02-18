@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/config
+END
+pkg.m4
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/config/pkg.m4
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/config/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/config/Makefile.am
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/range/!svn/ver/6366/software/public/BRC2013/conf
+END
+regexroute.conf
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/range/!svn/ver/6366/software/public/BRC2013/conf/regexroute.conf
+END
+mysqldb.conf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/range/!svn/ver/6220/software/public/BRC2013/conf/mysqldb.conf
+END
+rmanager.conf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/range/!svn/ver/6220/software/public/BRC2013/conf/rmanager.conf
+END
+ysipchan.conf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/range/!svn/ver/6220/software/public/BRC2013/conf/ysipchan.conf
+END
+yate.conf
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/range/!svn/ver/6341/software/public/BRC2013/conf/yate.conf
+END
+register.conf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/range/!svn/ver/6312/software/public/BRC2013/conf/register.conf
+END
+accfile.conf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/range/!svn/ver/6220/software/public/BRC2013/conf/accfile.conf
+END
+javascript.conf
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/range/!svn/ver/6232/software/public/BRC2013/conf/javascript.conf
+END
+cdrbuild.conf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/range/!svn/ver/6220/software/public/BRC2013/conf/cdrbuild.conf
+END
+cdrfile.conf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/range/!svn/ver/6220/software/public/BRC2013/conf/cdrfile.conf
+END

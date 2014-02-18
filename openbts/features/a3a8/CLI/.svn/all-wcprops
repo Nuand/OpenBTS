@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CLI
+END
+README.CLI
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CLI/README.CLI
+END
+CLI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CLI/CLI.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CLI/Makefile.am
+END
+CLI.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/range/!svn/ver/2584/software/public/openbts/features/a3a8/CLI/CLI.h
+END

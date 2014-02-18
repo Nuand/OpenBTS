@@ -1,0 +1,9 @@
+BEGIN TRANSACTION;
+CREATE TABLE CONFIG ( KEYSTRING TEXT UNIQUE NOT NULL, VALUESTRING TEXT, STATIC INTEGER DEFAULT 0, OPTIONAL INTEGER DEFAULT 0, COMMENTS TEXT DEFAULT '');
+INSERT INTO "CONFIG" VALUES('Log.Level','DEBUG',0,0,'');
+INSERT INTO "CONFIG" VALUES('SubscriberRegistry.db','test.db',0,0,'');
+INSERT INTO "CONFIG" VALUES('SubscriberRegistry.Manager.VisibleColumns','name username type context host',0,0,'');
+INSERT INTO "CONFIG" VALUES('SubscriberRegistry.Manager.Url','http://localhost/~doug/foo.cgi',0,0,'');
+INSERT INTO "CONFIG" VALUES('SubscriberRegistry.Manager.Title','Some Title',0,0,'');
+COMMIT;
+

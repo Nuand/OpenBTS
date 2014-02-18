@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/TransceiverRAD1/fpga/inband_lib
+END
+packet_builder.v
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/TransceiverRAD1/fpga/inband_lib/packet_builder.v
+END
+rx_buffer_inband.v
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/TransceiverRAD1/fpga/inband_lib/rx_buffer_inband.v
+END
+chan_fifo_reader.v
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/TransceiverRAD1/fpga/inband_lib/chan_fifo_reader.v
+END
+usb_fifo_reader.v
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/TransceiverRAD1/fpga/inband_lib/usb_fifo_reader.v
+END
+tx_buffer_inband.v
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/TransceiverRAD1/fpga/inband_lib/tx_buffer_inband.v
+END
+tx_packer.v
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/TransceiverRAD1/fpga/inband_lib/tx_packer.v
+END
+data_packet_fifo.v
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/TransceiverRAD1/fpga/inband_lib/data_packet_fifo.v
+END
+usb_packet_fifo.v
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/TransceiverRAD1/fpga/inband_lib/usb_packet_fifo.v
+END
+cmd_reader.v
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/TransceiverRAD1/fpga/inband_lib/cmd_reader.v
+END
+test_comparator.v
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/TransceiverRAD1/fpga/inband_lib/test_comparator.v
+END
+channel_ram.v
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/TransceiverRAD1/fpga/inband_lib/channel_ram.v
+END
+usb_fifo_writer.v
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/TransceiverRAD1/fpga/inband_lib/usb_fifo_writer.v
+END
+channel_demux.v
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/TransceiverRAD1/fpga/inband_lib/channel_demux.v
+END
+register_io.v
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/TransceiverRAD1/fpga/inband_lib/register_io.v
+END

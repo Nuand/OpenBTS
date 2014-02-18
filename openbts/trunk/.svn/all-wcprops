@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/range/!svn/ver/7530/software/public/openbts/trunk
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/range/!svn/ver/2242/software/public/openbts/trunk/ChangeLog
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/README
+END
+INSTALLATION
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/range/!svn/ver/2242/software/public/openbts/trunk/INSTALLATION
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/range/!svn/ver/6754/software/public/openbts/trunk/configure.ac
+END
+Makefile.common
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/Makefile.common
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/range/!svn/ver/2242/software/public/openbts/trunk/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/range/!svn/ver/6732/software/public/openbts/trunk/Makefile.am
+END
+svn.externals
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/range/!svn/ver/5669/software/public/openbts/trunk/svn.externals
+END
+ctags.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/ctags.sh
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/range/!svn/ver/2306/software/public/openbts/trunk/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/range/!svn/ver/2242/software/public/openbts/trunk/NEWS
+END
+doxconfig
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/doxconfig
+END
+LEGAL
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/LEGAL
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/AUTHORS
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/range/!svn/ver/6732/software/public/openbts/trunk/config
+END
+ax_gcc_x86_cpuid.m4
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/6732/software/public/openbts/trunk/config/ax_gcc_x86_cpuid.m4
+END
+pkg.m4
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/range/!svn/ver/2242/software/public/openbts/trunk/config/pkg.m4
+END
+ax_check_compile_flag.m4
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/6732/software/public/openbts/trunk/config/ax_check_compile_flag.m4
+END
+ax_gcc_x86_avx_xgetbv.m4
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/6732/software/public/openbts/trunk/config/ax_gcc_x86_avx_xgetbv.m4
+END
+ax_ext.m4
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/range/!svn/ver/6732/software/public/openbts/trunk/config/ax_ext.m4
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/range/!svn/ver/2242/software/public/openbts/trunk/config/Makefile.am
+END

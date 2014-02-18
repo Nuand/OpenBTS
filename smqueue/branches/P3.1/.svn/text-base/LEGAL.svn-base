@@ -1,0 +1,34 @@
+Smqueue
+
+Most parts copyright 2008-2010 Free Software Foundation.
+
+
+Legal Summary
+
+The user of this software is expected to comply with all applicable laws and
+regulations, including patent laws, copyright laws, and telecommunications
+regulations.
+
+The legal restrictions listed here are not necessarily exhaustive.
+
+
+Note to US Government Users
+
+The sqmueue software application and associated documentation is "Commercial
+Item(s)," as that term is defined at 48 C.F.R. Section 2.101, consisting of
+"Commercial Computer Software" and "Commercial Computer Software Documentation,"
+as such terms are used in 48 C.F.R. §12.212 or 48 C.F.R. §227.7202, as
+applicable. Consistent with 48 C.F.R. §12.212 or 48 C.F.R. Sections 227.7202-1
+through 227.7202-4, as applicable, the Commercial Computer Software and
+Commercial Computer Software Documentation are being licensed to U.S. Government
+end users (a) only as Commercial Items and (b) with only those rights as are
+granted to all other end users pursuant to the terms and conditions of AGPLv3.
+
+
+Note to US Government Contractors
+
+GPL is not compatible with "government purpose rights" (GPR).  If you receive
+smqueue software under GPL and deliver it under GPR, you will be in violation
+of GPL and possibly subject to enforcement actions by the original authors and
+copyright holders, including the Free Software Foundation, Inc.
+

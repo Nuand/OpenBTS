@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/range/!svn/ver/7530/software/public
+END
+git-svn-externals-check
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/range/!svn/ver/5675/software/public/git-svn-externals-check
+END
+git-svn-clone-externals
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/range/!svn/ver/5675/software/public/git-svn-clone-externals
+END
+git-svn-externals-update
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/range/!svn/ver/5675/software/public/git-svn-externals-update
+END
+git-svn-check-unpushed
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/range/!svn/ver/5675/software/public/git-svn-check-unpushed
+END

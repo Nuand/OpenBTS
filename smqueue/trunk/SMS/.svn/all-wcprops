@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/range/!svn/ver/6497/software/public/smqueue/trunk/SMS
+END
+SMSTransfer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/range/!svn/ver/4652/software/public/smqueue/trunk/SMS/SMSTransfer.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/range/!svn/ver/2247/software/public/smqueue/trunk/SMS/Makefile.am
+END
+SMSMessages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/range/!svn/ver/4652/software/public/smqueue/trunk/SMS/SMSMessages.cpp
+END
+SMSTransfer.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/range/!svn/ver/2305/software/public/smqueue/trunk/SMS/SMSTransfer.h
+END
+SMSMessages.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/range/!svn/ver/4673/software/public/smqueue/trunk/SMS/SMSMessages.h
+END

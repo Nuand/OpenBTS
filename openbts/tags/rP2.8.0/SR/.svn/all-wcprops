@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/range/!svn/ver/2309/software/public/openbts/tags/rP2.8.0/SR
+END
+SubscriberRegistry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/SR/SubscriberRegistry.cpp
+END
+SubscriberRegistry.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/SR/SubscriberRegistry.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/SR/Makefile.am
+END

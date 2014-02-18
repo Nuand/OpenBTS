@@ -1,0 +1,89 @@
+#!/bin/bash
+
+rm -f /etc/OpenBTS/OpenBTS.db sr.db
+sqlite3 /etc/OpenBTS/OpenBTS.db < subscriberserver.db.init
+sqlite3 sr.db < sr.db.init
+date > output.got
+
+# test an sql update
+logger -plocal7.Debug dwb syslog mark
+REQUEST_METHOD=GET
+export REQUEST_METHOD
+QUERY_STRING="req=sql&stmts=insert into sip_buddies (name) values (\"newname\")"
+export QUERY_STRING
+../subscriberserver.cgi >> output.got
+../syslogextractor >> output.got
+sqlite3 sr.db < query.sql >> output.got
+
+# test an sql query
+logger -plocal7.Debug dwb syslog mark
+REQUEST_METHOD=GET
+export REQUEST_METHOD
+QUERY_STRING="req=sql&stmts=select name from sip_buddies where id=2"
+export QUERY_STRING
+../subscriberserver.cgi >> output.got
+../syslogextractor >> output.got
+sqlite3 sr.db < query.sql >> output.got
+
+# Some rand and auth tests just to see that things are connected ok.
+# No need for exhaustive testing because the code is shared, and
+# tested better elsewhere.
+
+logger -plocal7.Debug dwb syslog mark
+REQUEST_METHOD=GET
+export REQUEST_METHOD
+QUERY_STRING="req=rand&imsi=IMSI12345678901231"
+export QUERY_STRING
+../subscriberserver.cgi >> output.got
+../syslogextractor >> output.got
+sqlite3 sr.db < query.sql >> output.got
+
+logger -plocal7.Debug dwb syslog mark
+REQUEST_METHOD=GET
+export REQUEST_METHOD
+QUERY_STRING="req=rand&imsi=IMSI12345678901231"
+export QUERY_STRING
+../subscriberserver.cgi >> output.got
+../syslogextractor >> output.got
+sqlite3 sr.db < query.sql >> output.got
+
+logger -plocal7.Debug dwb syslog mark
+REQUEST_METHOD=GET
+export REQUEST_METHOD
+QUERY_STRING="req=rand&imsi=IMSI12345678901232"
+export QUERY_STRING
+../subscriberserver.cgi >> output.got
+../syslogextractor >> output.got
+sqlite3 sr.db < query.sql >> output.got
+
+logger -plocal7.Debug dwb syslog mark
+REQUEST_METHOD=GET
+export REQUEST_METHOD
+QUERY_STRING="req=rand&imsi=IMSI12345678901232"
+export QUERY_STRING
+../subscriberserver.cgi >> output.got
+../syslogextractor >> output.got
+sqlite3 sr.db < query.sql >> output.got
+
+logger -plocal7.Debug dwb syslog mark
+REQUEST_METHOD=GET
+export REQUEST_METHOD
+QUERY_STRING="req=auth&imsi=IMSI12345678901233&rand=d76fe9a5839089a2ebeb269b46bf46ff&sres=726259AF"
+export QUERY_STRING
+../subscriberserver.cgi >> output.got
+../syslogextractor >> output.got
+sqlite3 sr.db < query.sql >> output.got
+
+logger -plocal7.Debug dwb syslog mark
+REQUEST_METHOD=GET
+export REQUEST_METHOD
+QUERY_STRING="req=auth&imsi=IMSI12345678901233&rand=d76fe9a5839089a2ebeb269b46bf46ff&sres=726259A0"
+export QUERY_STRING
+../subscriberserver.cgi >> output.got
+../syslogextractor >> output.got
+sqlite3 sr.db < query.sql >> output.got
+
+mv output.got ootput.got
+../hexmapper ootput.got > output.got
+diff output.exp output.got
+exit 0

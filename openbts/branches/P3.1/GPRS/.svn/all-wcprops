@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/range/!svn/ver/6518/software/public/openbts/branches/P3.1/GPRS
+END
+notes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/notes.txt
+END
+MsgBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/MsgBase.h
+END
+BSSGMessages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/BSSGMessages.cpp
+END
+ByteVector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/ByteVector.cpp
+END
+CS4.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/CS4.txt
+END
+GPRSTDMA.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/GPRSTDMA.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/Makefile.am
+END
+makefile.tests
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/makefile.tests
+END
+pinghttp.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/pinghttp.c
+END
+BSSG.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/BSSG.cpp
+END
+MSInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/MSInfo.h
+END
+FEC.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/FEC.h
+END
+todo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/todo.txt
+END
+MAC.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/MAC.h
+END
+RLCMessages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/RLCMessages.cpp
+END
+TBF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/TBF.cpp
+END
+RLCEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/RLCEngine.h
+END
+makefile.pat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/makefile.pat
+END
+RLC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/RLC.cpp
+END
+MsgBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/MsgBase.cpp
+END
+GPRSRLC.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/GPRSRLC.h
+END
+GPRSExport.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/GPRSExport.h
+END
+MSInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/MSInfo.cpp
+END
+BSSGMessages.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/BSSGMessages.h
+END
+ByteVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/ByteVector.h
+END
+FEC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/FEC.cpp
+END
+ScalarTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/ScalarTypes.h
+END
+MAC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/MAC.cpp
+END
+RList.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/RList.h
+END
+BSSG.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/range/!svn/ver/6518/software/public/openbts/branches/P3.1/GPRS/BSSG.h
+END
+GPRSCLI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/GPRSCLI.cpp
+END
+RLCEngine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/RLCEngine.cpp
+END
+RLCMessages.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/RLCMessages.h
+END
+GPRSInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/GPRSInternal.h
+END
+TBF.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/TBF.h
+END
+pat.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/pat.txt
+END
+RLCHdr.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/GPRS/RLCHdr.h
+END

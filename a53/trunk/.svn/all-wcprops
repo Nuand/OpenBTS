@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/range/!svn/ver/6164/software/public/a53/trunk
+END
+a5.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/range/!svn/ver/6164/software/public/a53/trunk/a5.h
+END
+gprs_cipher.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/range/!svn/ver/6164/software/public/a53/trunk/gprs_cipher.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/range/!svn/ver/6164/software/public/a53/trunk/README
+END
+kasumi_test.ok
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/range/!svn/ver/6164/software/public/a53/trunk/kasumi_test.ok
+END
+gea_test.ok
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/range/!svn/ver/6164/software/public/a53/trunk/gea_test.ok
+END
+a5_speed.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/range/!svn/ver/6164/software/public/a53/trunk/a5_speed.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/range/!svn/ver/6164/software/public/a53/trunk/COPYING
+END
+a53test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/range/!svn/ver/6164/software/public/a53/trunk/a53test.cpp
+END
+kasumi_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/range/!svn/ver/6164/software/public/a53/trunk/kasumi_test.c
+END
+kasumi.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/range/!svn/ver/6164/software/public/a53/trunk/kasumi.c
+END
+gea_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/range/!svn/ver/6164/software/public/a53/trunk/gea_test.c
+END
+a5_test.ok
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/range/!svn/ver/6164/software/public/a53/trunk/a5_test.ok
+END
+gea.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/range/!svn/ver/6164/software/public/a53/trunk/gea.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/range/!svn/ver/6164/software/public/a53/trunk/Makefile
+END
+a53.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/range/!svn/ver/6164/software/public/a53/trunk/a53.h
+END
+kasumi.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/range/!svn/ver/6164/software/public/a53/trunk/kasumi.h
+END
+linuxlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/range/!svn/ver/6164/software/public/a53/trunk/linuxlist.h
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/range/!svn/ver/6164/software/public/a53/trunk/utils.c
+END
+gea.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/range/!svn/ver/6164/software/public/a53/trunk/gea.h
+END
+bits.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/range/!svn/ver/6164/software/public/a53/trunk/bits.c
+END
+ifc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/range/!svn/ver/6164/software/public/a53/trunk/ifc.cpp
+END
+a5_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/range/!svn/ver/6164/software/public/a53/trunk/a5_test.c
+END
+a5.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/range/!svn/ver/6164/software/public/a53/trunk/a5.c
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/range/!svn/ver/6164/software/public/a53/trunk/utils.h
+END
+bits.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/range/!svn/ver/6164/software/public/a53/trunk/bits.h
+END

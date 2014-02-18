@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/Globals
+END
+Globals.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/Globals/Globals.cpp
+END
+Globals.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/Globals/Globals.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/range/!svn/ver/2314/software/public/openbts/features/SylvainsPatches/Globals/Makefile.am
+END

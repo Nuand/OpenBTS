@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/SMS
+END
+SMSMessages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/SMS/SMSMessages.cpp
+END
+SMSTransfer.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/SMS/SMSTransfer.h
+END
+SMSMessages.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/SMS/SMSMessages.h
+END
+SMSTransfer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/SMS/SMSTransfer.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/SMS/Makefile.am
+END

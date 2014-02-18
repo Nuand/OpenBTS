@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/test.SubscriberRegistry
+END
+test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/test.SubscriberRegistry/test.cpp
+END
+runtest
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/test.SubscriberRegistry/runtest
+END
+test.db.init1
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/test.SubscriberRegistry/test.db.init1
+END
+test.db.init2
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/test.SubscriberRegistry/test.db.init2
+END
+sr.db.init
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/test.SubscriberRegistry/sr.db.init
+END
+output.exp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/test.SubscriberRegistry/output.exp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/6166/software/public/subscriberRegistry/trunk/test.SubscriberRegistry/Makefile
+END

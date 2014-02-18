@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells
+END
+fifo_1kx16_inst.v
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/fifo_1kx16_inst.v
+END
+bustri_bb.v
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/bustri_bb.v
+END
+fifo_1kx16.v
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/fifo_1kx16.v
+END
+bustri.bsf
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/bustri.bsf
+END
+mylpm_addsub_inst.v
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/mylpm_addsub_inst.v
+END
+addsub16.bsf
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/addsub16.bsf
+END
+fifo_1kx16_bb.v
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/fifo_1kx16_bb.v
+END
+fifo_1kx16.inc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/fifo_1kx16.inc
+END
+bustri.cmp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/bustri.cmp
+END
+addsub16.cmp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/addsub16.cmp
+END
+fifo_4kx16_dc_inst.v
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/fifo_4kx16_dc_inst.v
+END
+mylpm_addsub_bb.v
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/mylpm_addsub_bb.v
+END
+pll_inst.v
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/pll_inst.v
+END
+mylpm_addsub.bsf
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/mylpm_addsub.bsf
+END
+pll.v
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/pll.v
+END
+fifo_4kx16_dc_bb.v
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/fifo_4kx16_dc_bb.v
+END
+accum32_inst.v
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/accum32_inst.v
+END
+mylpm_addsub.cmp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/mylpm_addsub.cmp
+END
+pll_bb.v
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/pll_bb.v
+END
+dspclkpll_bb.v
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/dspclkpll_bb.v
+END
+sub32_inst.v
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/sub32_inst.v
+END
+fifo_4kx16_dc.bsf
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/fifo_4kx16_dc.bsf
+END
+accum32.v
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/accum32.v
+END
+accum32_bb.v
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/accum32_bb.v
+END
+fifo_4kx16_dc.cmp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/fifo_4kx16_dc.cmp
+END
+sub32_bb.v
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/sub32_bb.v
+END
+accum32.inc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/accum32.inc
+END
+add32.bsf
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/add32.bsf
+END
+sub32.bsf
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/sub32.bsf
+END
+addsub16_inst.v
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/addsub16_inst.v
+END
+add32.cmp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/add32.cmp
+END
+bustri.v
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/bustri.v
+END
+sub32.cmp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/sub32.cmp
+END
+addsub16.v
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/addsub16.v
+END
+addsub16_bb.v
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/addsub16_bb.v
+END
+bustri.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/bustri.inc
+END
+addsub16.inc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/addsub16.inc
+END
+fifo_2k.v
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/fifo_2k.v
+END
+mylpm_addsub.v
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/mylpm_addsub.v
+END
+fifo_4k.v
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/fifo_4k.v
+END
+fifo_1kx16.bsf
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/fifo_1kx16.bsf
+END
+fifo_2k_bb.v
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/fifo_2k_bb.v
+END
+fifo_4k_bb.v
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/fifo_4k_bb.v
+END
+mylpm_addsub.inc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/mylpm_addsub.inc
+END
+clk_doubler.v
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/clk_doubler.v
+END
+fifo_4kx16_dc.v
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/fifo_4kx16_dc.v
+END
+fifo_1kx16.cmp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/fifo_1kx16.cmp
+END
+dspclkpll.v
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/dspclkpll.v
+END
+clk_doubler_bb.v
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/clk_doubler_bb.v
+END
+fifo_4k_18.v
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/fifo_4k_18.v
+END
+fifo_4kx16_dc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/fifo_4kx16_dc.inc
+END
+add32_inst.v
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/add32_inst.v
+END
+add32.v
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/add32.v
+END
+sub32.v
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/sub32.v
+END
+add32_bb.v
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/add32_bb.v
+END
+add32.inc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/add32.inc
+END
+accum32.bsf
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/accum32.bsf
+END
+sub32.inc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/sub32.inc
+END
+bustri_inst.v
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/bustri_inst.v
+END
+accum32.cmp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/megacells/accum32.cmp
+END

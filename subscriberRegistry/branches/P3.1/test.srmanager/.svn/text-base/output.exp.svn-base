@@ -1,0 +1,1027 @@
+Thu Feb 17 13:28:47 PST 2011
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<h4></h4>
+<h4>-DATE-
+</h4>
+<h4>test.db.sip_buddies</h4>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="name" />
+<input type="text" name="username" value="username" />
+<input type="text" name="type" value="type" />
+<input type="text" name="context" value="context" />
+<input type="text" name="host" value="host" />
+<input type="hidden" name="id" value="0" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="1000" />
+<input type="text" name="username" value="1000" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="phones" />
+<input type="text" name="host" value="dynamic" />
+<input type="hidden" name="id" value="1" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="1001" />
+<input type="text" name="username" value="1001" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="phones" />
+<input type="text" name="host" value="dynamic" />
+<input type="hidden" name="id" value="2" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi2" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="3" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi_r1" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="4" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi_r2" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="5" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi_a1" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="6" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi_a2" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="7" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi_a3" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="8" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="" />
+<input type="text" name="username" value="" />
+<input type="text" name="type" value="" />
+<input type="text" name="context" value="" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="0" />
+<input type="submit" name="what" value="Add" />
+</form>
+<h4>test.db.dialdata_table</h4>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="exten" value="exten" />
+<input type="text" name="dial" value="dial" />
+<input type="hidden" name="id" value="0" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="exten" value="1000" />
+<input type="text" name="dial" value="1000" />
+<input type="hidden" name="id" value="1" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="exten" value="1001" />
+<input type="text" name="dial" value="1001" />
+<input type="hidden" name="id" value="2" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="exten" value="" />
+<input type="text" name="dial" value="" />
+<input type="hidden" name="id" value="0" />
+<input type="submit" name="what" value="Add" />
+</form>
+<br><br>
+<FORM METHOD="LINK" ACTION="http://localhost/~doug/foo.cgi"> <INPUT TYPE="submit" VALUE="Refresh"> </FORM>
+</BODY>
+</HTML>
+servershare.cpp:-0-:decodeQuery: REQUEST_METHOD = GET
+servershare.cpp:-0-:decodeQuery: QUERY_STRING = 
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<h4></h4>
+<h4>-DATE-
+</h4>
+<h4>test.db.sip_buddies</h4>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="name" />
+<input type="text" name="username" value="username" />
+<input type="text" name="type" value="type" />
+<input type="text" name="context" value="context" />
+<input type="text" name="host" value="host" />
+<input type="hidden" name="id" value="0" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="1000" />
+<input type="text" name="username" value="1000" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="phones" />
+<input type="text" name="host" value="dynamic" />
+<input type="hidden" name="id" value="1" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="1001" />
+<input type="text" name="username" value="1001" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="phones" />
+<input type="text" name="host" value="dynamic" />
+<input type="hidden" name="id" value="2" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi2" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="3" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi_r1" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="4" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi_r2" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="5" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi_a1" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="6" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi_a2" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="7" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi_a3" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="8" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="" />
+<input type="text" name="username" value="" />
+<input type="text" name="type" value="" />
+<input type="text" name="context" value="" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="0" />
+<input type="submit" name="what" value="Add" />
+</form>
+<h4>test.db.dialdata_table</h4>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="exten" value="exten" />
+<input type="text" name="dial" value="dial" />
+<input type="hidden" name="id" value="0" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="exten" value="1000" />
+<input type="text" name="dial" value="1000" />
+<input type="hidden" name="id" value="1" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="exten" value="1001" />
+<input type="text" name="dial" value="1001" />
+<input type="hidden" name="id" value="2" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="exten" value="" />
+<input type="text" name="dial" value="" />
+<input type="hidden" name="id" value="0" />
+<input type="submit" name="what" value="Add" />
+</form>
+<br><br>
+<FORM METHOD="LINK" ACTION="http://localhost/~doug/foo.cgi"> <INPUT TYPE="submit" VALUE="Refresh"> </FORM>
+</BODY>
+</HTML>
+servershare.cpp:-0-:decodeQuery: REQUEST_METHOD = GET
+servershare.cpp:-0-:decodeQuery: QUERY_STRING = what=Main
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<h4></h4>
+<h4>-DATE-
+</h4>
+<h4>test.db.sip_buddies</h4>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="name" />
+<input type="text" name="username" value="username" />
+<input type="text" name="type" value="type" />
+<input type="text" name="context" value="context" />
+<input type="text" name="host" value="host" />
+<input type="hidden" name="id" value="0" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="1000" />
+<input type="text" name="username" value="1000" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="phones" />
+<input type="text" name="host" value="dynamic" />
+<input type="hidden" name="id" value="1" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="1001" />
+<input type="text" name="username" value="1001" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="phones" />
+<input type="text" name="host" value="dynamic" />
+<input type="hidden" name="id" value="2" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi2" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="3" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi_r1" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="4" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi_r2" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="5" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi_a1" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="6" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi_a2" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="7" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi_a3" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="8" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="" />
+<input type="text" name="username" value="" />
+<input type="text" name="type" value="" />
+<input type="text" name="context" value="" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="0" />
+<input type="submit" name="what" value="Add" />
+</form>
+<h4>test.db.dialdata_table</h4>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="exten" value="exten" />
+<input type="text" name="dial" value="dial" />
+<input type="hidden" name="id" value="0" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="exten" value="1000" />
+<input type="text" name="dial" value="1000" />
+<input type="hidden" name="id" value="1" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="exten" value="1001" />
+<input type="text" name="dial" value="1001" />
+<input type="hidden" name="id" value="2" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="exten" value="" />
+<input type="text" name="dial" value="" />
+<input type="hidden" name="id" value="0" />
+<input type="submit" name="what" value="Add" />
+</form>
+<br><br>
+<FORM METHOD="LINK" ACTION="http://localhost/~doug/foo.cgi"> <INPUT TYPE="submit" VALUE="Refresh"> </FORM>
+</BODY>
+</HTML>
+servershare.cpp:-0-:decodeQuery: REQUEST_METHOD = POST
+servershare.cpp:-0-:decodeQuery: CONTENT_LENGTH = 0
+servershare.cpp:-0-:decodeQuery: QUERY = 
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<h4></h4>
+<h4>-DATE-
+</h4>
+<h4>test.db.sip_buddies</h4>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="name" />
+<input type="text" name="username" value="username" />
+<input type="text" name="type" value="type" />
+<input type="text" name="context" value="context" />
+<input type="text" name="host" value="host" />
+<input type="hidden" name="id" value="0" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="1000" />
+<input type="text" name="username" value="1000" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="phones" />
+<input type="text" name="host" value="dynamic" />
+<input type="hidden" name="id" value="1" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="1001" />
+<input type="text" name="username" value="1001" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="phones" />
+<input type="text" name="host" value="dynamic" />
+<input type="hidden" name="id" value="2" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi2" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="3" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi_r1" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="4" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi_r2" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="5" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi_a1" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="6" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi_a2" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="7" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi_a3" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="8" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="" />
+<input type="text" name="username" value="" />
+<input type="text" name="type" value="" />
+<input type="text" name="context" value="" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="0" />
+<input type="submit" name="what" value="Add" />
+</form>
+<h4>test.db.dialdata_table</h4>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="exten" value="exten" />
+<input type="text" name="dial" value="dial" />
+<input type="hidden" name="id" value="0" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="exten" value="1000" />
+<input type="text" name="dial" value="1000" />
+<input type="hidden" name="id" value="1" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="exten" value="1001" />
+<input type="text" name="dial" value="1001" />
+<input type="hidden" name="id" value="2" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="exten" value="" />
+<input type="text" name="dial" value="" />
+<input type="hidden" name="id" value="0" />
+<input type="submit" name="what" value="Add" />
+</form>
+<br><br>
+<FORM METHOD="LINK" ACTION="http://localhost/~doug/foo.cgi"> <INPUT TYPE="submit" VALUE="Refresh"> </FORM>
+</BODY>
+</HTML>
+servershare.cpp:-0-:decodeQuery: REQUEST_METHOD = POST
+servershare.cpp:-0-:decodeQuery: CONTENT_LENGTH = 9
+servershare.cpp:-0-:decodeQuery: QUERY = what=Main
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<h4></h4>
+<h4>-DATE-
+</h4>
+<h4>test.db.sip_buddies</h4>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="name" />
+<input type="text" name="username" value="username" />
+<input type="text" name="type" value="type" />
+<input type="text" name="context" value="context" />
+<input type="text" name="host" value="host" />
+<input type="hidden" name="id" value="0" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="1000" />
+<input type="text" name="username" value="1000" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="phones" />
+<input type="text" name="host" value="dynamic" />
+<input type="hidden" name="id" value="1" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="1001" />
+<input type="text" name="username" value="1001" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="phones" />
+<input type="text" name="host" value="dynamic" />
+<input type="hidden" name="id" value="2" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi2" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="3" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi_r1" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="4" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi_r2" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="5" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi_a1" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="6" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi_a2" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="7" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi_a3" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="8" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="a" />
+<input type="text" name="username" value="b" />
+<input type="text" name="type" value="c" />
+<input type="text" name="context" value="d" />
+<input type="text" name="host" value="e" />
+<input type="hidden" name="id" value="9" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="" />
+<input type="text" name="username" value="" />
+<input type="text" name="type" value="" />
+<input type="text" name="context" value="" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="0" />
+<input type="submit" name="what" value="Add" />
+</form>
+<h4>test.db.dialdata_table</h4>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="exten" value="exten" />
+<input type="text" name="dial" value="dial" />
+<input type="hidden" name="id" value="0" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="exten" value="1000" />
+<input type="text" name="dial" value="1000" />
+<input type="hidden" name="id" value="1" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="exten" value="1001" />
+<input type="text" name="dial" value="1001" />
+<input type="hidden" name="id" value="2" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="exten" value="" />
+<input type="text" name="dial" value="" />
+<input type="hidden" name="id" value="0" />
+<input type="submit" name="what" value="Add" />
+</form>
+<br><br>
+<FORM METHOD="LINK" ACTION="http://localhost/~doug/foo.cgi"> <INPUT TYPE="submit" VALUE="Refresh"> </FORM>
+</BODY>
+</HTML>
+servershare.cpp:-0-:decodeQuery: REQUEST_METHOD = POST
+servershare.cpp:-0-:decodeQuery: CONTENT_LENGTH = 55
+servershare.cpp:-0-:decodeQuery: QUERY = name=a&username=b&type=c&context=d&host=e&id=0&what=Add
+1000|1000|friend|phones|dynamic
+1001|1001|friend|phones|dynamic
+imsi2||friend||
+imsi_r1||friend||
+imsi_r2||friend||
+imsi_a1||friend||
+imsi_a2||friend||
+imsi_a3||friend||
+a|b|c|d|e
+1000|1000
+1001|1001
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<h4></h4>
+<h4>-DATE-
+</h4>
+<h4>test.db.sip_buddies</h4>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="name" />
+<input type="text" name="username" value="username" />
+<input type="text" name="type" value="type" />
+<input type="text" name="context" value="context" />
+<input type="text" name="host" value="host" />
+<input type="hidden" name="id" value="0" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="1000" />
+<input type="text" name="username" value="1000" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="phones" />
+<input type="text" name="host" value="dynamic" />
+<input type="hidden" name="id" value="1" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="1001" />
+<input type="text" name="username" value="1001" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="phones" />
+<input type="text" name="host" value="dynamic" />
+<input type="hidden" name="id" value="2" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi2" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="3" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi_r1" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="4" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi_r2" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="5" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi_a1" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="6" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi_a2" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="7" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi_a3" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="8" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="" />
+<input type="text" name="username" value="" />
+<input type="text" name="type" value="" />
+<input type="text" name="context" value="" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="0" />
+<input type="submit" name="what" value="Add" />
+</form>
+<h4>test.db.dialdata_table</h4>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="exten" value="exten" />
+<input type="text" name="dial" value="dial" />
+<input type="hidden" name="id" value="0" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="exten" value="1000" />
+<input type="text" name="dial" value="1000" />
+<input type="hidden" name="id" value="1" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="exten" value="1001" />
+<input type="text" name="dial" value="1001" />
+<input type="hidden" name="id" value="2" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="exten" value="" />
+<input type="text" name="dial" value="" />
+<input type="hidden" name="id" value="0" />
+<input type="submit" name="what" value="Add" />
+</form>
+<br><br>
+<FORM METHOD="LINK" ACTION="http://localhost/~doug/foo.cgi"> <INPUT TYPE="submit" VALUE="Refresh"> </FORM>
+</BODY>
+</HTML>
+servershare.cpp:-0-:decodeQuery: REQUEST_METHOD = POST
+servershare.cpp:-0-:decodeQuery: CONTENT_LENGTH = 58
+servershare.cpp:-0-:decodeQuery: QUERY = name=a&username=b&type=c&context=d&host=e&id=9&what=Delete
+1000|1000|friend|phones|dynamic
+1001|1001|friend|phones|dynamic
+imsi2||friend||
+imsi_r1||friend||
+imsi_r2||friend||
+imsi_a1||friend||
+imsi_a2||friend||
+imsi_a3||friend||
+1000|1000
+1001|1001
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+<h4></h4>
+<h4>-DATE-
+</h4>
+<h4>test.db.sip_buddies</h4>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="name" />
+<input type="text" name="username" value="username" />
+<input type="text" name="type" value="type" />
+<input type="text" name="context" value="context" />
+<input type="text" name="host" value="host" />
+<input type="hidden" name="id" value="0" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="1000" />
+<input type="text" name="username" value="1000" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="phones" />
+<input type="text" name="host" value="dynamic" />
+<input type="hidden" name="id" value="1" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="1001" />
+<input type="text" name="username" value="1001" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="phones" />
+<input type="text" name="host" value="dynamic" />
+<input type="hidden" name="id" value="2" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi2" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="3" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi_r1" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="4" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi_r2" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="5" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi_a1" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="6" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi_a2" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="7" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="imsi_a3" />
+<input type="text" name="username" value="-NULL-" />
+<input type="text" name="type" value="friend" />
+<input type="text" name="context" value="-NULL-" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="8" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="name" value="" />
+<input type="text" name="username" value="" />
+<input type="text" name="type" value="" />
+<input type="text" name="context" value="" />
+<input type="text" name="host" value="" />
+<input type="hidden" name="id" value="0" />
+<input type="submit" name="what" value="Add" />
+</form>
+<h4>test.db.dialdata_table</h4>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="exten" value="exten" />
+<input type="text" name="dial" value="dial" />
+<input type="hidden" name="id" value="0" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="exten" value="qrs" />
+<input type="text" name="dial" value="tuv" />
+<input type="hidden" name="id" value="1" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="exten" value="1001" />
+<input type="text" name="dial" value="1001" />
+<input type="hidden" name="id" value="2" />
+<input type="submit" name="what" value="Update" />
+<input type="submit" name="what" value="Delete" />
+</form>
+<form name="input" action="http://localhost/~doug/foo.cgi" method="post">
+<input type="text" name="exten" value="" />
+<input type="text" name="dial" value="" />
+<input type="hidden" name="id" value="0" />
+<input type="submit" name="what" value="Add" />
+</form>
+<br><br>
+<FORM METHOD="LINK" ACTION="http://localhost/~doug/foo.cgi"> <INPUT TYPE="submit" VALUE="Refresh"> </FORM>
+</BODY>
+</HTML>
+servershare.cpp:-0-:decodeQuery: REQUEST_METHOD = POST
+servershare.cpp:-0-:decodeQuery: CONTENT_LENGTH = 35
+servershare.cpp:-0-:decodeQuery: QUERY = exten=qrs&dial=tuv&id=1&what=Update
+1000|1000|friend|phones|dynamic
+1001|1001|friend|phones|dynamic
+imsi2||friend||
+imsi_r1||friend||
+imsi_r2||friend||
+imsi_a1||friend||
+imsi_a2||friend||
+imsi_a3||friend||
+qrs|tuv
+1001|1001

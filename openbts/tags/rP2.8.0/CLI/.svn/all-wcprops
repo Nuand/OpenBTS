@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/range/!svn/ver/2309/software/public/openbts/tags/rP2.8.0/CLI
+END
+README.CLI
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/CLI/README.CLI
+END
+CLI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/CLI/CLI.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/2302/software/public/openbts/tags/rP2.8.0/CLI/Makefile.am
+END
+CLI.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/range/!svn/ver/2305/software/public/openbts/tags/rP2.8.0/CLI/CLI.h
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/hb
+END
+coeff_rom.v
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/hb/coeff_rom.v
+END
+halfband_decim.v
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/hb/halfband_decim.v
+END
+halfband_interp.v
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/hb/halfband_interp.v
+END
+mac.v
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/hb/mac.v
+END
+mult.v
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/hb/mult.v
+END
+acc.v
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/hb/acc.v
+END
+ram32_2sum.v
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/hb/ram32_2sum.v
+END
+ram16_2port.v
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/hb/ram16_2port.v
+END
+ram16_2sum.v
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/range/!svn/ver/3457/software/public/openbts/trunk/TransceiverRAD1/fpga/sdr_lib/hb/ram16_2sum.v
+END

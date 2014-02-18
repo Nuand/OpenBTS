@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/range/!svn/ver/6531/software/public/openbts/branches/P3.1/apps
+END
+OpenBTS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/6518/software/public/openbts/branches/P3.1/apps/OpenBTS.cpp
+END
+iptables.rules
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/6518/software/public/openbts/branches/P3.1/apps/iptables.rules
+END
+openbtsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/apps/openbtsconfig
+END
+generateConfigTable.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/apps/generateConfigTable.sh
+END
+OpenBTS.example.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/6518/software/public/openbts/branches/P3.1/apps/OpenBTS.example.sql
+END
+rsyslogd.OpenBTS.conf
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/apps/rsyslogd.OpenBTS.conf
+END
+killBTS
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/range/!svn/ver/6518/software/public/openbts/branches/P3.1/apps/killBTS
+END
+startBTS
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/range/!svn/ver/6518/software/public/openbts/branches/P3.1/apps/startBTS
+END
+CLI
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/apps/CLI
+END
+OpenBTS.logrotate
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/apps/OpenBTS.logrotate
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/6518/software/public/openbts/branches/P3.1/apps/Makefile.am
+END
+OpenBTSDo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/apps/OpenBTSDo.cpp
+END
+runloop.OpenBTS.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/apps/runloop.OpenBTS.sh
+END
+importConfigTable.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/apps/importConfigTable.sh
+END
+OpenBTSCLI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/6531/software/public/openbts/branches/P3.1/apps/OpenBTSCLI.cpp
+END
+generateTeX.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/apps/generateTeX.sh
+END
+exportConfigTable.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/range/!svn/ver/6517/software/public/openbts/branches/P3.1/apps/exportConfigTable.sh
+END

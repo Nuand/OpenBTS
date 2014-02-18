@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/range/!svn/ver/7258/software/public/openbts/trunk/TransceiverRAD1
+END
+inband-signaling-usb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/TransceiverRAD1/inband-signaling-usb
+END
+runTransceiver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/range/!svn/ver/6759/software/public/openbts/trunk/TransceiverRAD1/runTransceiver.cpp
+END
+RAD1Cmd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/TransceiverRAD1/RAD1Cmd.cpp
+END
+Complex.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/TransceiverRAD1/Complex.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/2242/software/public/openbts/trunk/TransceiverRAD1/README
+END
+FactoryCalibration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/range/!svn/ver/6757/software/public/openbts/trunk/TransceiverRAD1/FactoryCalibration.cpp
+END
+README.DFEsymbolspaced
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/TransceiverRAD1/README.DFEsymbolspaced
+END
+radioInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/range/!svn/ver/7258/software/public/openbts/trunk/TransceiverRAD1/radioInterface.cpp
+END
+ad9862.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/2242/software/public/openbts/trunk/TransceiverRAD1/ad9862.h
+END
+README.Talgorithm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/range/!svn/ver/2242/software/public/openbts/trunk/TransceiverRAD1/README.Talgorithm
+END
+bytesex.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/range/!svn/ver/2242/software/public/openbts/trunk/TransceiverRAD1/bytesex.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/TransceiverRAD1/Makefile.am
+END
+RAD1SN.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/TransceiverRAD1/RAD1SN.cpp
+END
+Transceiver.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/TransceiverRAD1/Transceiver.h
+END
+RAD1RxRawPowerSweep.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/range/!svn/ver/6757/software/public/openbts/trunk/TransceiverRAD1/RAD1RxRawPowerSweep.cpp
+END
+ezusb.ihx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/range/!svn/ver/2324/software/public/openbts/trunk/TransceiverRAD1/ezusb.ihx
+END
+fusb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/TransceiverRAD1/fusb.cpp
+END
+DummyLoad.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/2242/software/public/openbts/trunk/TransceiverRAD1/DummyLoad.h
+END
+rnrad1Rx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/TransceiverRAD1/rnrad1Rx.cpp
+END
+fpga_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/TransceiverRAD1/fpga_regs.h
+END
+sigProcLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/TransceiverRAD1/sigProcLib.h
+END
+rnrad1Tx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/TransceiverRAD1/rnrad1Tx.cpp
+END
+rnrad1Core.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/TransceiverRAD1/rnrad1Core.h
+END
+commands.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/2242/software/public/openbts/trunk/TransceiverRAD1/commands.h
+END
+burn-rnrad1-eeprom.sh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/TransceiverRAD1/burn-rnrad1-eeprom.sh
+END
+RAD1Device.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/6757/software/public/openbts/trunk/TransceiverRAD1/RAD1Device.h
+END
+pulseApproximate.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/TransceiverRAD1/pulseApproximate.m
+END
+i2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/TransceiverRAD1/i2c.h
+END
+radioDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/TransceiverRAD1/radioDevice.h
+END
+FactoryCalibration.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/range/!svn/ver/6757/software/public/openbts/trunk/TransceiverRAD1/FactoryCalibration.h
+END
+radioInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/TransceiverRAD1/radioInterface.h
+END
+ids.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/TransceiverRAD1/ids.h
+END
+Transceiver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/TransceiverRAD1/Transceiver.cpp
+END
+interfaces.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/TransceiverRAD1/interfaces.h
+END
+RAD1RxRawPower.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/range/!svn/ver/6757/software/public/openbts/trunk/TransceiverRAD1/RAD1RxRawPower.cpp
+END
+DummyLoad.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/range/!svn/ver/6698/software/public/openbts/trunk/TransceiverRAD1/DummyLoad.cpp
+END
+rnrad1.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/TransceiverRAD1/rnrad1.h
+END
+sigProcLib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/TransceiverRAD1/sigProcLib.cpp
+END
+sigProcLibTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/TransceiverRAD1/sigProcLibTest.cpp
+END
+rnrad1Core.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/TransceiverRAD1/rnrad1Core.cpp
+END
+spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/TransceiverRAD1/spi.h
+END
+fusb.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/TransceiverRAD1/fusb.h
+END
+fpga.rbf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/2324/software/public/openbts/trunk/TransceiverRAD1/fpga.rbf
+END
+RAD1ping.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/6757/software/public/openbts/trunk/TransceiverRAD1/RAD1ping.cpp
+END
+RAD1Device.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/6757/software/public/openbts/trunk/TransceiverRAD1/RAD1Device.cpp
+END

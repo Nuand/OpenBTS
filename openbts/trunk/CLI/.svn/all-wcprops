@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/range/!svn/ver/6496/software/public/openbts/trunk/CLI
+END
+CLI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/CLI/CLI.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/range/!svn/ver/2242/software/public/openbts/trunk/CLI/Makefile.am
+END
+CLI.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/range/!svn/ver/6168/software/public/openbts/trunk/CLI/CLI.h
+END
+README.CLI
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/range/!svn/ver/2242/software/public/openbts/trunk/CLI/README.CLI
+END

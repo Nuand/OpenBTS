@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/range/!svn/ver/6574/software/public/subscriberRegistry/branches/P3.1/debian
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/range/!svn/ver/6520/software/public/subscriberRegistry/branches/P3.1/debian/control
+END
+postinst
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/range/!svn/ver/6574/software/public/subscriberRegistry/branches/P3.1/debian/postinst
+END
+postrm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/6512/software/public/subscriberRegistry/branches/P3.1/debian/postrm
+END
+preinst
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/range/!svn/ver/6512/software/public/subscriberRegistry/branches/P3.1/debian/preinst
+END
+prerm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/6513/software/public/subscriberRegistry/branches/P3.1/debian/prerm
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/range/!svn/ver/6513/software/public/subscriberRegistry/branches/P3.1/debian/changelog
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/6512/software/public/subscriberRegistry/branches/P3.1/debian/rules
+END

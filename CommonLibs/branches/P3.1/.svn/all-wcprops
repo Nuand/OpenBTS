@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/range/!svn/ver/6511/software/public/CommonLibs/branches/P3.1
+END
+Timeval.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/Timeval.h
+END
+BitVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/6511/software/public/CommonLibs/branches/P3.1/BitVector.h
+END
+Vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/Vector.h
+END
+SocketsTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/SocketsTest.cpp
+END
+Sockets.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/Sockets.cpp
+END
+Configuration.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/6511/software/public/CommonLibs/branches/P3.1/Configuration.h
+END
+Reporting.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/6511/software/public/CommonLibs/branches/P3.1/Reporting.h
+END
+Interthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/Interthread.h
+END
+Logger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/Logger.cpp
+END
+sqlite3util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/sqlite3util.cpp
+END
+URLEncode.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/URLEncode.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/COPYING
+END
+Threads.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/Threads.cpp
+END
+LinkedLists.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/LinkedLists.h
+END
+ScalarTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/ScalarTypes.h
+END
+Regexp.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/Regexp.h
+END
+Timeval.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/Timeval.cpp
+END
+BitVector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/BitVector.cpp
+END
+BitVectorTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/BitVectorTest.cpp
+END
+F16.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/F16.h
+END
+TimevalTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/TimevalTest.cpp
+END
+VectorTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/VectorTest.cpp
+END
+Utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/Utils.h
+END
+Configuration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/6511/software/public/CommonLibs/branches/P3.1/Configuration.cpp
+END
+ConfigurationTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/ConfigurationTest.cpp
+END
+ReportingTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/ReportingTest.cpp
+END
+Reporting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/6511/software/public/CommonLibs/branches/P3.1/Reporting.cpp
+END
+InterthreadTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/InterthreadTest.cpp
+END
+MemoryLeak.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/MemoryLeak.h
+END
+example.config
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/example.config
+END
+Sockets.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/Sockets.h
+END
+URLEncode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/URLEncode.cpp
+END
+URLEncodeTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/URLEncodeTest.cpp
+END
+LogTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/LogTest.cpp
+END
+Logger.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/Logger.h
+END
+LinkedLists.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/LinkedLists.cpp
+END
+sqlite3util.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/sqlite3util.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/6511/software/public/CommonLibs/branches/P3.1/Makefile.am
+END
+RegexpTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/RegexpTest.cpp
+END
+F16Test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/F16Test.cpp
+END
+Threads.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/Threads.h
+END
+Utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/range/!svn/ver/6511/software/public/CommonLibs/branches/P3.1/Utils.cpp
+END
+README.common
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/range/!svn/ver/6510/software/public/CommonLibs/branches/P3.1/README.common
+END

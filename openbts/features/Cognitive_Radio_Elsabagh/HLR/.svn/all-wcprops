@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/HLR
+END
+HLR.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/HLR/HLR.cpp
+END
+HLRTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/HLR/HLRTest.cpp
+END
+maketables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/HLR/maketables.sql
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/HLR/Makefile.am
+END
+HLR.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/HLR/HLR.h
+END
+README.HLR
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/HLR/README.HLR
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/range/!svn/ver/2333/software/public/openbts/features/Cognitive_Radio_Elsabagh/HLR/Makefile.in
+END
