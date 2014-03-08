@@ -73,19 +73,16 @@ int bladeRFDevice::open(const std::string &, bool)
 
   uint32_t val;
 
-  // to avoid having the FPGA in a stale state it might be worth reloading it everytime
-  if (!bladerf_is_fpga_configured(bdev)) {
-      bladerf_fpga_size bfs;
-      if (!bladerf_get_fpga_size(bdev, &bfs)) {
-          if (bfs == BLADERF_FPGA_40KLE)
-              bladerf_load_fpga(bdev, "../Transceiver52M/hostedx40bts.rbf");
-          else {
-              bladerf_load_fpga(bdev, "../Transceiver52M/hostedx115bts.rbf");
-          }
-      } else {
-          LOG(EMERG) << "Error fetching FPGA size";
-          return -1;
+  bladerf_fpga_size bfs;
+  if (!bladerf_get_fpga_size(bdev, &bfs)) {
+      if (bfs == BLADERF_FPGA_40KLE)
+          bladerf_load_fpga(bdev, "../Transceiver52M/hostedx40bts.rbf");
+      else {
+          bladerf_load_fpga(bdev, "../Transceiver52M/hostedx115bts.rbf");
       }
+  } else {
+      LOG(EMERG) << "Error fetching FPGA size";
+      return -1;
   }
   LOG(INFO) << "bladeRF FPGA is loaded";
 
