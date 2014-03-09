@@ -405,12 +405,13 @@ int bladeRFDevice::writeSamples(short *buf, int len, bool *underrun,
         leftover.rsvd = 0xdeadbeef;
         leftover.flags = -1;
         bladerf_sync_tx(bdev, (void*)&leftover, 512, NULL, NULL);
+        leftover_len = 0;
     }
 
     while (len >= PK_SZ) {
-        memcpy(&leftover.samples[leftover_len * 2], buf, 2 * sizeof(short) * (PK_SZ - leftover_len));
+        memcpy(&leftover.samples, buf, 2 * sizeof(short) * PK_SZ);
         len -= PK_SZ;
-        buf += 2 * (PK_SZ - leftover_len);
+        buf += 2 * PK_SZ;
         leftover.time_lo = tx_time & 0x0ffffffffll;
         leftover.time_hi = tx_time >> 32;
         tx_time += PK_SZ * 2;
