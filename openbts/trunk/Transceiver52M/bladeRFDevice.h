@@ -137,10 +137,10 @@ private:
   TIMESTAMP initialReadTimestamp(void) { return 0;}
 
   /** returns the full-scale transmit amplitude **/
-  double fullScaleInputValue() {return 13500.0;}
+  double fullScaleInputValue() {return 2040.0;}
 
   /** returns the full-scale receive amplitude **/
-  double fullScaleOutputValue() {return 9450.0;}
+  double fullScaleOutputValue() {return 2040.0;}
 
   /** sets the receive chan gain, returns the gain setting **/
   double setRxGain(double dB);
