@@ -1,6 +1,7 @@
 # bladeRF OpenBTS #
 
-Please ensure you have `sync libbladeRF' built and installed. https://github.com/Nuand/bladeRF/tree/dev-libbladeRF_sync
+Please ensure you have `sync libbladeRF' built and installed. Either build/install everything from https://github.com/Nuand/bladeRF/, or if your bladeRF already has firmware 1.6.1 or newer, you can build the libraries in https://github.com/Nuand/bladeRF/tree/master/host.
+
 Otherwise, OpenBTS can be compiled by running
 
 ## Quick Start ##
