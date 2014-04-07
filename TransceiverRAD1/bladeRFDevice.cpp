@@ -77,6 +77,11 @@ int bladeRFDevice::open()
 
   superspeed = bladerf_device_speed(bdev) == BLADERF_DEVICE_SPEED_SUPER;
 
+  if (!superspeed) {
+      LOG(EMERG) << "bladeRFDevice currently only supports USB3.0";
+      return -1;
+  }
+
   struct bladerf_rational_rate rate, actual;
   rate.integer = 0;
   rate.num = (sps * 13e6);
