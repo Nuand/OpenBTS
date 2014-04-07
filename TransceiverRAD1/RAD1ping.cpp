@@ -28,7 +28,15 @@
 #include <stdio.h>
 #include <Logger.h>
 #include <Configuration.h>
+#ifdef WITH_BLADERF
+#include "bladeRFDevice.h"
+#define DEVICE_NAME bladeRFDevice
+#define usrp_to_host_u32
+#else
 #include "RAD1Device.h"
+#define DEVICE_NAME RAD1Device
+#endif
+
 
 ConfigurationTable gConfig("/etc/OpenBTS/OpenBTS.db");
 
@@ -48,7 +56,7 @@ int main(int argc, char *argv[]) {
 
   //if (argc>2) gSetLogFile(argv[2]);
 
-  RAD1Device *usrp = new RAD1Device(52.0e6/192.0);
+  DEVICE_NAME *usrp = new DEVICE_NAME(52.0e6/192.0);
 
   usrp->make(false, deviceID);
 

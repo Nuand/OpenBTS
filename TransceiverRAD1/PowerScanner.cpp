@@ -17,7 +17,14 @@
 #include <stdio.h>
 #include <Logger.h>
 #include <Configuration.h>
+#ifdef WITH_BLADERF
+#include "bladeRFDevice.h"
+#define DEVICE_NAME bladeRFDevice
+#define usrp_to_host_u32
+#else
 #include "RAD1Device.h"
+#define DEVICE_NAME RAD1Device
+#endif
 #include <Interthread.h>
 #include <Scanning.h>
 #include <GSMCommon.h>
@@ -31,7 +38,7 @@ ConfigurationTable gConfig("/etc/OpenBTS/OpenBTS.db", "PowerScanner", getAllConf
 using namespace std;
 
 typedef unsigned (*FrequencyConverter)(GSM::GSMBand, unsigned);
-int scanDirection(RAD1Device *rad, TIMESTAMP &timestamp,             // Physical RAD values
+int scanDirection(DEVICE_NAME *rad, TIMESTAMP &timestamp,             // Physical RAD values
                   GSM::GSMBand band, int startARFCN, int stopARFCN,  // GSM band values
                   FrequencyConverter arfcnToFreqKHz,                 // Frequency determiner
 		  SpectrumMap::LinkDirection linkDir,
@@ -84,7 +91,7 @@ int main(int argc, char *argv[])
         exit(-1);
     }
 
-    RAD1Device *rad = new RAD1Device(1625.0e3/6.0);
+    DEVICE_NAME *rad = new DEVICE_NAME(1625.0e3/6.0);
     rad->make(false, 0);
     rad->start();
     TIMESTAMP timestamp = 19000;
@@ -102,7 +109,7 @@ int main(int argc, char *argv[])
   return 0;
 }
 
-int scanDirection(RAD1Device *rad, TIMESTAMP &timestamp, GSM::GSMBand band, int startARFCN, int stopARFCN,
+int scanDirection(DEVICE_NAME *rad, TIMESTAMP &timestamp, GSM::GSMBand band, int startARFCN, int stopARFCN,
     FrequencyConverter arfcnToFreqKHz, SpectrumMap::LinkDirection linkDir, SpectrumMap &spectrumMap)
 {
   list<ARFCNVector> results;
