@@ -25,6 +25,11 @@ DESTDIR :=
 AM_CPPFLAGS = $(STD_DEFINES_AND_INCLUDES) $(USB_INCLUDES) $(WITH_INCLUDES)
 AM_CXXFLAGS = -DOMNITHREAD_POSIX=1 -lusb-1.0 -ldl -lpthread
 
+if BLADERF
+AM_CPPFLAGS += -DWITH_BLADERF
+AM_CXXFLAGS += -lbladeRF
+endif
+
 EXTRA_DIST = \
 	README \
 	README.Talgorithm
@@ -39,10 +44,14 @@ libtransceiver_la_SOURCES = \
 	radioInterface.cpp \
 	sigProcLib.cpp \
 	Transceiver.cpp \
-	RAD1Device.cpp \
 	FactoryCalibration.cpp \
 	DummyLoad.cpp
 
+if BLADERF
+libtransceiver_la_SOURCES += bladeRFDevice.cpp
+else
+libtransceiver_la_SOURCES += RAD1Device.cpp
+endif
 
 noinst_PROGRAMS = \
 	RAD1ping \
