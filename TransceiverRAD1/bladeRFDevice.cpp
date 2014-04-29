@@ -237,9 +237,9 @@ double bladeRFDevice::setRxGain(double dB) {
    if (dB < minRxGain()) dB = minRxGain();
 
    LOG(NOTICE) << "Setting RX gain to " << dB << " dB.";
-   bladerf_set_rxvga1(bdev, 7);
-   bladerf_set_rxvga2(bdev, 3);
-   bladerf_set_lna_gain(bdev, BLADERF_LNA_GAIN_BYPASS);
+   bladerf_set_rxvga1(bdev, 16);
+   bladerf_set_rxvga2(bdev, 9);
+   bladerf_set_lna_gain(bdev, BLADERF_LNA_GAIN_MAX);
    //bladerf_set_rxvga2(bdev, dB);
 
    writeLock.unlock();
