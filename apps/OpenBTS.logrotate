@@ -1,6 +1,0 @@
-/var/log/OpenBTS.log {
-	size 20M
-	rotate 10
-	compress
-	notifempty
-}
